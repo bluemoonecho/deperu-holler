@@ -51,6 +51,11 @@ h4 {
   margin-bottom: 0.9rem;
 }
 
+h1 {
+  font-size: 4.0625rem;
+  line-height: 6rem;
+}
+
 h3{
  font-size: 1.25rem;
 }
@@ -69,6 +74,10 @@ p {
 
   h3{
     font-size: 1.25rem;
+  }
+
+  h1{
+    font-size: 3rem;
   }
 }
 

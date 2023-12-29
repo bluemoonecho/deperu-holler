@@ -13,6 +13,14 @@
   transform: translateX(300px);
 }
 
+.menu__up-section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  
+}
+
 .menu ul {
   list-style: none;
   margin-top: 1.5rem;

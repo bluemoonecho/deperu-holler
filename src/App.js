@@ -23,6 +23,9 @@ import { messages as enMessages } from "./locales/en/messages";
 import { messages as itMessages } from "./locales/it/messages";
 import { messages as srdMessages } from "./locales/srd/messages";
 import ChiSiamo from "./components/ChiSiamo";
+import Filosofia from "./components/Filosofia";
+import Territorio from "./components/Territorio";
+import Vini from "./components/Vini";
 
 const supportedLocales = ["en", "it", "srd"];
 const defaultLocale = "it";
@@ -57,9 +60,12 @@ const AppWrapper = ({ isMenuOpen, setIsMenuOpen }) => {
           <Route path="/familia" element={<Familia />} />
           <Route path="/fria" element={<Fria />} />
           <Route path="/chi-siamo" element={<ChiSiamo />} />
+          <Route path="/filosofia-e-pratica" element={<Filosofia />} />
+          <Route path="/il-territorio" element={<Territorio />} />
+          <Route path="/i-nostri-vini" element={<Vini />} />
         </Routes>
+        </div>
         <Footer />
-      </div>
     </I18nProvider>
   );
 };

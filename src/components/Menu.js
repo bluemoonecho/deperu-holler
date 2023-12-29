@@ -33,8 +33,8 @@ function Menu({ isMenuOpen, setIsMenuOpen }) {
     <div className={`menu ${isMenuOpen ? "show" : ""}`}>
       <div>
         {showCloseIcon ? (
-          <div className="flex justify-between px-5 mt-10">
-            <h4 className="font-bold">MENU</h4>
+          <div className="flex justify-between align-center px-5 mt-6">
+            <h4 className="font-bold mt-4">MENU</h4>
             <button className="menu__close-button" onClick={closeMenu}>
               <FaTimes />
             </button>
@@ -62,7 +62,7 @@ function Menu({ isMenuOpen, setIsMenuOpen }) {
           </Link>
         </li>
         <li>
-          <Link to={`/${lang}/il-teritorio`} onClick={closeMenu}>
+          <Link to={`/${lang}/il-territorio`} onClick={closeMenu}>
             <Trans>Il teritorio</Trans>
           </Link>
         </li>
@@ -92,12 +92,12 @@ function Menu({ isMenuOpen, setIsMenuOpen }) {
           </Link>
         </li>
         <li>
-          <Link to={`/${lang}/i-nostri-vini`} onClick={closeMenu}>
+          <Link to={`/${lang}/gallery`} onClick={closeMenu}>
             <Trans>Gallery</Trans>
           </Link>
         </li>
         <li>
-          <Link to={`/${lang}/i-nostri-vini`} onClick={closeMenu}>
+          <Link to={`/${lang}/contatti`} onClick={closeMenu}>
             <Trans>Contatti</Trans>
           </Link>
         </li>

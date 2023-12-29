@@ -13,7 +13,7 @@ import { Link, useParams } from "react-router-dom";
 import "../styles/home.css";
 import Carousel from "./Carousel";
 import { Trans } from "@lingui/macro";
-import LanguageSwitcher from "./LanguageSwitcher";
+
 import React from "react";
 
 const Home = () => {

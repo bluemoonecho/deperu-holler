@@ -5,4 +5,5 @@
     padding: 2rem;
     border-top: 2px solid black;
     font-size: .8125rem;
+    flex-shrink: 0;
 }
