@@ -14,12 +14,26 @@
   background-size: cover;
   background-position: center;
   background-image: var(--header-bg-image);
+  z-index: -1;
+}
+
+.header__wine-page::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 28rem;
+  background-image: inherit;
+  background-size: cover;
+  background-position: center;
+  background-image: var(--header-bg-image);
   opacity: 0.4;
   z-index: -1;
 }
 
 .header__content {
-  max-width: 36rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -28,4 +42,8 @@
   margin-right: auto;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
+}
+
+.header__subheading {
+  max-width: 36rem;
 }

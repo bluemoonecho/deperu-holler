@@ -9,9 +9,8 @@ const Fria = () => (
     <Header
       heading="FRIA"
       image={Background}
-      subHeading="SEMUS SU FRUTU DE SA CULTURA NOSTRA, DE SOS BALORES E DE SU BENTU.
-
-      "
+      subHeading="SEMUS SU FRUTU DE SA CULTURA NOSTRA, DE SOS BALORES E DE SU BENTU."
+      winePage
     />
     <div className="wine-page container">
       <div className="wine-page__area">

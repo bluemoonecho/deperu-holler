@@ -22,6 +22,7 @@ import { i18n } from "@lingui/core";
 import { messages as enMessages } from "./locales/en/messages";
 import { messages as itMessages } from "./locales/it/messages";
 import { messages as srdMessages } from "./locales/srd/messages";
+import ChiSiamo from "./components/ChiSiamo";
 
 const supportedLocales = ["en", "it", "srd"];
 const defaultLocale = "it";
@@ -55,6 +56,7 @@ const AppWrapper = ({ isMenuOpen, setIsMenuOpen }) => {
           <Route path="/oberaia" element={<Oberaia />} />
           <Route path="/familia" element={<Familia />} />
           <Route path="/fria" element={<Fria />} />
+          <Route path="/chi-siamo" element={<ChiSiamo />} />
         </Routes>
         <Footer />
       </div>

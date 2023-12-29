@@ -1,15 +1,28 @@
 import React from "react";
-import "../styles/header.css"
+import clsx from "clsx";
 
-const Header = ({heading, subHeading, image}) => (
-  <div className="header" style={{ '--header-bg-image': `url(${image})` }}>
-    <div className="header__content">
-    <h1 className="text-4xl md:text-6xl text-center font-bold mt-36">{heading}</h1>
-    <h2 className="text-2xl md:text-3xl text-center text-gray-400 mt-10 italic header__subheading">
-      {subHeading}
-    </h2>
+import "../styles/header.css";
+const Header = ({ heading, subHeading, image, classNames, winePage }) => {
+  return (
+    <div
+      className={clsx("header", winePage && "header__wine-page")}
+      style={{ "--header-bg-image": `url(${image})` }}
+    >
+      <div className="header__content">
+        <h1
+          className={clsx(
+            "text-4xl md:text-6xl text-center font-bold mt-36",
+            classNames
+          )}
+        >
+          {heading}
+        </h1>
+        <h2 className="text-2xl md:text-3xl text-center text-gray-400 mt-10 italic header__subheading">
+          {subHeading}
+        </h2>
+      </div>
     </div>
-  </div>
-);
+  );
+};
 
 export default Header;
