@@ -1,0 +1,42 @@
+.wine-page__area {
+  display: grid;
+  grid-template-areas: "image content";
+  grid-template-columns: minmax(0, 30%) minmax(0, 70%);
+  gap: 3rem;
+}
+
+.wine-page__bottle {
+  grid-area: image;
+  max-width: 18rem;
+  width: 100%;
+  height: auto;
+}
+
+.wine-page__content {
+  grid-area: content;
+}
+
+.wine-page__columns {
+  display: grid;
+  margin-top: 5rem;
+  gap: 3rem;
+  grid-template-columns: 1fr 1fr;
+}
+
+/* on small screens */
+
+@media (max-width: 768px) {
+  .wine-page__area {
+    grid-template-columns: minmax(0, 30%) minmax(0, 70%);
+  }
+
+  .wine-page__columns {
+    grid-template-columns: 1fr;
+  }
+
+  .wine-page__bottle {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+  }
+}
