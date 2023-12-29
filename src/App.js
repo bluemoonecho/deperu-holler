@@ -1,7 +1,7 @@
 import React from "react";
 
 import Home from "./components/Home";
-import Navigation from "./components/Navigation";
+import Menu from "./components/Menu";
 import Footer from "./components/Footer";
 import "./styles/menu.css";
 import PramaDorada from "./components/PramaDorada";
@@ -9,7 +9,7 @@ import "./styles/container.css";
 import Oberaia from "./components/Oberaia";
 import Familia from "./components/Familia";
 import Fria from "./components/Fria";
-
+import { useState } from "react";
 import {
   BrowserRouter,
   Route,
@@ -30,7 +30,7 @@ i18n.load("en", enMessages);
 i18n.load("it", itMessages);
 i18n.load("srd", srdMessages);
 
-const LanguageWrapper = () => {
+const AppWrapper = ({ isMenuOpen, setIsMenuOpen }) => {
   const { lang } = useParams();
 
   if (!supportedLocales.includes(lang)) {
@@ -39,26 +39,43 @@ const LanguageWrapper = () => {
 
   i18n.activate(lang);
 
+  const closeMenu = () => {
+    if (isMenuOpen) {
+      setIsMenuOpen(false);
+    }
+  }
+
   return (
     <I18nProvider i18n={i18n}>
-      <Navigation />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/prama-dorada" element={<PramaDorada />} />
-        <Route path="/oberaia" element={<Oberaia />} />
-        <Route path="/familia" element={<Familia />} />
-        <Route path="/fria" element={<Fria />} />
-      </Routes>
-      <Footer />
+      <Menu isMenuOpen={isMenuOpen} setIsMenuOpen={setIsMenuOpen} />
+      <div className={`main-content ${isMenuOpen ? "shifted" : ""}`} onClick={closeMenu}>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/prama-dorada" element={<PramaDorada />} />
+          <Route path="/oberaia" element={<Oberaia />} />
+          <Route path="/familia" element={<Familia />} />
+          <Route path="/fria" element={<Fria />} />
+        </Routes>
+        <Footer />
+      </div>
     </I18nProvider>
   );
 };
 
 const App = () => {
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/:lang/*" element={<LanguageWrapper />} />
+        <Route
+          path="/:lang/*"
+          element={
+            <AppWrapper
+              isMenuOpen={isMenuOpen}
+              setIsMenuOpen={setIsMenuOpen}
+            />
+          }
+        />
         <Route
           path="*"
           element={<Navigate to={`/${defaultLocale}`} replace />}

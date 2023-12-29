@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { FaCircleChevronLeft, FaCircleChevronRight } from "react-icons/fa6";
 
 const Carousel = ({ images }) => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -27,29 +28,36 @@ const Carousel = ({ images }) => {
     <div
       className="relative w-screen h-screen overflow-hidden"
       onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
+      // onMouseLeave={() => setIsHovered(false)}
     >
-      {isHovered && (
-        <>
-          <div
-            className="absolute top-1/2 left-4 -translate-y-1/2 bg-black text-white rounded-full cursor-pointer select-none z-10 text-4xl p-1 px-2 flex align-center"
-            onClick={goToLeft}
-          >
-            &lt;
-          </div>
-          <div
-            className="absolute top-1/2 right-4 -translate-y-1/2 bg-black text-white rounded-full cursor-pointer select-none z-10 text-4xl p-1"
-            onClick={goToRight}
-          >
-            &gt;
-          </div>
-        </>
-      )}
       <img
         src={images[currentImageIndex]}
         alt="Carousel"
-        className="w-full h-full object-cover transition-transform duration-500 animate-zoom"
-      />
+        className="w-full h-full object-cover transition-transform duration-500"
+      />{" "}
+      <div
+        className="absolute inset-0 flex justify-between items-center"
+        onMouseEnter={() => setIsHovered(true)}
+      >
+        {isHovered && (
+          <>
+            <div
+              className="absolute top-1/2 left-4 -translate-y-1/2 opacity-75 cursor-pointer select-none z-10 text-4xl"
+              onClick={goToLeft}
+              onMouseEnter={() => setIsHovered(true)}
+            >
+              <FaCircleChevronLeft />
+            </div>
+            <div
+              className="absolute top-1/2 right-4 -translate-y-1/2 opacity-75 cursor-pointer select-none z-10 text-4xl"
+              onClick={goToRight}
+              onMouseEnter={() => setIsHovered(true)}
+            >
+              <FaCircleChevronRight />
+            </div>
+          </>
+        )}
+      </div>
     </div>
   );
 };

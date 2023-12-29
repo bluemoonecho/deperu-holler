@@ -12,6 +12,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   position: relative; /* Required for positioning the pseudo-element */
   overflow-x: hidden; /* To prevent horizontal scrolling caused by the pseudo-element */
+  color: #222222;
 }
 
 body::before {
@@ -56,4 +57,12 @@ p {
 
 .font-mont {
   font-family: "Montserrat", sans-serif;
+}
+
+.main-content {
+  transition: transform 0.3s ease-in-out;
+}
+
+.main-content.shifted {
+  transform: translateX(300px); /* Adjust the value based on your menu width */
 }

@@ -4,8 +4,7 @@
   left: -300px;
   width: 300px;
   height: 100%;
-  background-color: black;
-  color: white;
+  background-image: url("../assets/images/deperu_holler_body_bg.jpg");
   transition: transform 0.3s ease-in-out;
   z-index: 1000;
 }
@@ -16,26 +15,26 @@
 
 .menu ul {
   list-style: none;
-  padding: 0;
-  margin-top: 5rem;
+  margin-top: 1.5rem;
 }
 
 .menu li {
-  padding: 15px;
+  padding-bottom: 0.8rem;
+  font-size: 0.9rem;
 }
 
-.menu li:hover {
-  background-color: black;
-}
-
-.menu-button {
+.menu__open-button {
   position: fixed;
   top: 2rem;
   left: 2rem;
-  padding: 15px;
+  padding: 0.8rem;
   background-color: black;
   color: white;
   border: none;
   cursor: pointer;
-  z-index: 1001; /* Above the menu */
+  z-index: 1001;
+}
+
+.menu__close-button {
+  font-size: 1.5rem;
 }

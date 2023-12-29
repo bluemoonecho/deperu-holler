@@ -52,7 +52,6 @@ const Home = () => {
         <Carousel images={slides} />
       </div>
       <div className="flex flex-col justify-center align-center mt-24 gap-24 px-12 container">
-        <LanguageSwitcher />
         <h2 className="flex justify-center text-4xl font-bold">
           <Trans>I NOSTRI VINI</Trans>
         </h2>
