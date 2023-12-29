@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@lingui/react": "^4.5.0",
+    "@lingui/cli": "^4.6.0",
+    "@lingui/detect-locale": "^4.5.0",
+    "@lingui/macro": "^4.6.0",
+    "@lingui/react": "^4.6.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -19,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "messages:extract": "lingui extract --clean",
+    "messages:compile": "lingui compile"
   },
   "eslintConfig": {
     "extends": [

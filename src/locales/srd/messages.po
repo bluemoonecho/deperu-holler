@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-12-29 13:45+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: srd\n"
+
+#: src/components/Home.js:57
+msgid "I NOSTRI VINI"
+msgstr "BINOS"
+
+#: src/components/Home.js:77
+msgid "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
+msgstr "Pro nois su de traballare sa terra est unu de sos gestos prus nòbiles e bellos de s’òmine."
+
+#: src/components/Home.js:84
+msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
+msgstr "Pro custu motivu amus isseberadu de traballare sa terra cun rispetu dende agiudu a issa e a sos fundos pro dare su mègius sena los isogiare."
+
+#: src/components/Home.js:74
+msgid "Siamo figli del vento."
+msgstr "Semus fìgios de su bentu."
+
+#: src/components/Home.js:71
+msgid "Siamo figli della nostra cultura, dei nostri valori."
+msgstr "Semus fìgios de sa cultura nostra, de sos balores nostros."

@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-12-29 12:40+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: it\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/Home.js:57
+msgid "I NOSTRI VINI"
+msgstr "I NOSTRI VINI"
+
+#: src/components/Home.js:77
+msgid "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
+msgstr "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
+
+#: src/components/Home.js:84
+msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
+msgstr "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
+
+#: src/components/Home.js:74
+msgid "Siamo figli del vento."
+msgstr "Siamo figli del vento."
+
+#: src/components/Home.js:71
+msgid "Siamo figli della nostra cultura, dei nostri valori."
+msgstr "Siamo figli della nostra cultura, dei nostri valori."

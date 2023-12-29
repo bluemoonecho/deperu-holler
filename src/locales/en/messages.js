@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:JSON.parse("{\"mOh00/\":\"OUR WINES\",\"Et4QQ6\":\"For us one of the noblest gestures of man is to cultivate the land.\",\"9Ljhgq\":\"We’ve chosen to cultivate our vineyards with love and respect.\",\"0GU0Ed\":\"We are children of the wind.\",\"ac5nJ4\":\"We are children of our culture, of our values.\"}")};
