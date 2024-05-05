@@ -11,7 +11,7 @@ const Header = ({ heading, subHeading, image, classNames, winePage }) => {
       <div className="header__content">
         <h1
           className={clsx(
-            "text-center font-bold mt-36",
+            "text-center font-bold mt-36 text-4xl md:text-6xl",
             classNames
           )}
         >

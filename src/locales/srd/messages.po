@@ -6,23 +6,322 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
 "Language: srd\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
 
-#: src/components/Home.js:57
+#: src/components/Filosofia.js:8
+msgid "…CRESCERE CON LE NOSTRE VITI."
+msgstr ""
+
+#: src/components/Fria.js:120
+msgid "Abbinamenti: <0>antipasti di frutti di mare, risotti con crostacei, minestroni estivi, grigliate di pesce e aperitivi in riva al mare.</0>"
+msgstr ""
+
+#: src/components/PramaDorada.js:111
+msgid "Abbinamenti: <0>antipasti elaborati della cucina di mare, prosciutto crudo artigianale, primi piatti sapidi e anche piccanti, formaggi crosta fiorita ed erborinati.</0>"
+msgstr ""
+
+#: src/components/Familia.js:123
+msgid "Abbinamenti: <0>incontri conviviali pomeridiani con salumi e formaggi di media stagionatura, zuppe di pesce e pesci grassi alla brace, carni rosse, zuppe di legumi speziate.</0>"
+msgstr ""
+
+#: src/components/Oberaia.js:111
+msgid "Abbinamenti: <0>primi piatti complessi della cucina invernale, cacciagione da pelo, formaggi stagionati.</0>"
+msgstr ""
+
+#: src/components/Territorio.js:15
+msgid "Al mattino il vento è ancora assopito. Monte Ruiu si specchia nel lago Coghinas e si moltiplica, rosso, maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque."
+msgstr ""
+
+#: src/components/ChiSiamo.js:21
+msgid "CARLO DEPERU"
+msgstr ""
+
+#: src/components/Menu.js:56
+msgid "Chi siamo"
+msgstr ""
+
+#: src/components/Fria.js:93
+msgid "Colore: <0>giallo paglierino tendente al dorato.</0>"
+msgstr ""
+
+#: src/components/PramaDorada.js:81
+msgid "Colore: <0>giallo pieno con lucide nuance di topazio.</0>"
+msgstr ""
+
+#: src/components/Oberaia.js:87
+msgid "Colore: <0>rosso intenso con riflessi granati.</0>"
+msgstr ""
+
+#: src/components/Familia.js:96
+msgid "Colore: <0>rosso intenso con riflessi violacei.</0>"
+msgstr ""
+
+#: src/components/Territorio.js:38
+msgid "Con una superficie aziendale di circa 6 ettari possiamo seguire personalmente tutte le fasi della filiera produttiva. Le alte densità di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro (50 quintali) e le tipologie di allevamento, aiutano il vigneto a produrre uve di grande qualità. Ad ogni sorso che berrete verremo ripagati ed appagati, gioiremo assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi del mare."
+msgstr ""
+
+#: src/components/Fria.js:45
+msgid "Conquista gli amanti della semplicità e della autenticità."
+msgstr ""
+
+#: src/components/Menu.js:101
+msgid "Contatti"
+msgstr ""
+
+#: src/components/Fria.js:67
+#: src/components/PramaDorada.js:54
+msgid "Densità di impianto: <0>4.000 piante per ettaro.</0>"
+msgstr ""
+
+#: src/components/Familia.js:69
+#: src/components/Oberaia.js:61
+msgid "Densità di impianto: <0>5.680 piante per ettaro.</0>"
+msgstr ""
+
+#: src/components/Territorio.js:30
+msgid "È il luogo dove le montagne della Gallura perdono quota lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite."
+msgstr ""
+
+#: src/components/Menu.js:81
+msgid "Familia"
+msgstr ""
+
+#: src/components/Familia.js:35
+msgid "Familia è il vino da bere insieme, mangiando e ridendo, rustico ma dall’anima fine, generoso nei sentori e fiero di rappresentare questa terra, dove il “Muristellu” ha sempre camminato “umpare” assieme al Cannonau."
+msgstr ""
+
+#: src/components/Menu.js:61
+msgid "Filosofia e pratica"
+msgstr ""
+
+#: src/components/Menu.js:76
+msgid "Fria"
+msgstr ""
+
+#: src/components/Menu.js:96
+msgid "Gallery"
+msgstr ""
+
+#: src/components/PramaDorada.js:101
+msgid "Gusto: <0>avvolgente, morbido, caldo che si compensano con leggermente sapido, armonioso e di buona struttura, lascia un leggero retrogusto di mandorla.</0>"
+msgstr ""
+
+#: src/components/Familia.js:113
+msgid "Gusto: <0>calda morbidezza che si equilibra con i suoi tannini giovani ma eleganti. Finale lungo e appagante che rimanda in fase di deglutizione ai riconoscimenti dell’olfatto.</0>"
+msgstr ""
+
+#: src/components/Fria.js:110
+msgid "Gusto: <0>caldo, fresco e sapido, di buona struttura. Un autentico Vermentino che regala una bella sapidità e un finale mandorlato.</0>"
+msgstr ""
+
+#: src/components/Oberaia.js:103
+msgid "Gusto: <0>pieno, ricco, corposo, tannico al punto giusto.</0>"
+msgstr ""
+
+#: src/components/Menu.js:51
+msgid "Home"
+msgstr ""
+
+#: src/components/Menu.js:71
+msgid "I nostri vini"
+msgstr ""
+
+#: src/components/Home.js:56
+#: src/components/Vini.js:40
 msgid "I NOSTRI VINI"
 msgstr "BINOS"
 
-#: src/components/Home.js:77
+#: src/components/Oberaia.js:33
+msgid "Il 23 Aprile si celebra a Perfugas uno dei santi patroni, San Giorgio Guerriero. Questo vino rosso è un omaggio alle radici, alla cultura, a quelli dell’antica associazione Oberaìa de Santu Jorzi che si dedicano alla buona riuscita dei festeggiamenti. Oberaìa è il nostro vino della festa."
+msgstr ""
+
+#: src/components/Filosofia.js:48
+msgid "Il nostro vino viene fatto soprattutto in vigna, ma è quando l’uva arriva in cantina e la trasformazione ha inizio che la fantasia e l’esperienza iniziano a divinare cosa diventerà, guardando il colore, gustando la dolcezza e inebriandosi con il profumo del mosto in fermentazione. Il risultato sarà merito della natura e dell’uomo che vigila questa magica trasformazione cercando di interferire il meno possibile nel naturale cammino dell’uva in vino."
+msgstr ""
+
+#: src/components/Menu.js:66
+msgid "Il teritorio"
+msgstr ""
+
+#: src/components/ChiSiamo.js:55
+msgid "In un mondo globalizzato in cui la vita è frenetica, abbiamo ritagliato un piccolo angolo di paradiso e qui cerchiamo di fare al meglio ciò che amiamo."
+msgstr ""
+
+#: src/components/Familia.js:43
+msgid "Infatti i due vitigni per questioni produttive vengono allevati nello stesso vigneto per avere una costanza produttiva. La percentuale tra i due vitigni varia in base all’annata."
+msgstr ""
+
+#: src/components/Fria.js:36
+msgid "L’aria tersa di sale si posa sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, ci ricorda il vento e tutte le strade che percorre. Fria è un Vermentino puro e vero. Fa emergere sensazioni ormai rare in un tempo dove tutto può essere rimodellato."
+msgstr ""
+
+#: src/components/Menu.js:86
+msgid "Oberaìa"
+msgstr ""
+
+#: src/components/Familia.js:104
+msgid "Olfatto: <0>al naso spiccano sentori di frutti rossi uniti a delicate note speziate e balsamiche. </0>"
+msgstr ""
+
+#: src/components/Fria.js:102
+msgid "Olfatto: <0>ampio con note di frutta a polpa bianca. </0>"
+msgstr ""
+
+#: src/components/PramaDorada.js:90
+msgid "Olfatto: <0>profumi varietali di frutta estiva a polpa bianca senza forzature esotiche. Sentori che evolvono e premiano durante la degustazione con garbate note mandorlate, mielose e di clorofilla in un bouquet di grande finezza. </0>"
+msgstr ""
+
+#: src/components/Oberaia.js:95
+msgid "Olfatto: <0>sentori di frutti di bosco e amarena, note speziate.</0>"
+msgstr ""
+
+#: src/components/Filosofia.js:14
+#: src/components/Home.js:76
 msgid "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
 msgstr "Pro nois su de traballare sa terra est unu de sos gestos prus nòbiles e bellos de s’òmine."
 
-#: src/components/Home.js:84
+#: src/components/Filosofia.js:30
+msgid "Per ora abbiamo scelto di non avere certificazioni, ma il nostro lavoro è profondamente naturale e biologico col massimo rispetto delle piante, dell’ambiente e della persona."
+msgstr ""
+
+#: src/components/Home.js:83
 msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
 msgstr "Pro custu motivu amus isseberadu de traballare sa terra cun rispetu dende agiudu a issa e a sos fundos pro dare su mègius sena los isogiare."
 
-#: src/components/Home.js:74
+#: src/components/Filosofia.js:20
+msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle. Con una superficie aziendale di circa 6 ettari possiamo seguire personalmente tutte le fasi della filiera produttiva. Le alte densità di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro (50 quintali) e le tipologie di allevamento, aiutano il vigneto a produrre uve di grande qualità."
+msgstr ""
+
+#: src/components/Menu.js:91
+msgid "Prama Dorada"
+msgstr ""
+
+#: src/components/Oberaia.js:27
+msgid "Quale grande privilegio della vite! Simbiosi profonda tra terra e pianta, celebrazione delle radice e della vita."
+msgstr ""
+
+#: src/components/Fria.js:28
+msgid "Quando arriva l’estate lavorare in vigna è piuttosto faticoso e le temperature sono alte già dal mattino. Tutti i giorni, verso le undici, succede qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
+msgstr ""
+
+#: src/components/PramaDorada.js:27
+msgid "Quando dai al mondo ciò che hai di buono, lui ti ripaga con una brezza, con un sospiro, con un buon vino. Prama Dorada è il ritrovamento dei vini bianchi di una volta, quando nei filari si mescolavano varietà innestate con marze raccomandate, mai due vini uguali. Prama Dorada è l’assemblaggio delle varietà autoctone sarde che amiamo di più. Una mescita ricca, elegante e sopratutto unica."
+msgstr ""
+
+#: src/components/Oberaia.js:69
+msgid "Resa per ettaro: <0>35 quintali.</0>"
+msgstr ""
+
+#: src/components/Familia.js:77
+msgid "Resa per ettaro: <0>55 quintali.</0>"
+msgstr ""
+
+#: src/components/Fria.js:75
+#: src/components/PramaDorada.js:62
+msgid "Resa per ettaro: <0>60/70 quintali.</0>"
+msgstr ""
+
+#: src/components/ChiSiamo.js:9
+msgid "SIAMO FIGLI DEL VENTO"
+msgstr ""
+
+#: src/components/Home.js:73
 msgid "Siamo figli del vento."
 msgstr "Semus fìgios de su bentu."
 
-#: src/components/Home.js:71
+#: src/components/ChiSiamo.js:17
+msgid "SIAMO FIGLI DEL VENTO."
+msgstr ""
+
+#: src/components/Home.js:70
 msgid "Siamo figli della nostra cultura, dei nostri valori."
 msgstr "Semus fìgios de sa cultura nostra, de sos balores nostros."
+
+#: src/components/ChiSiamo.js:14
+msgid "SIAMO FIGLI DELLA NOSTRA CULTURA, DEI NOSTRI VALORI."
+msgstr ""
+
+#: src/components/Territorio.js:21
+msgid "Siamo nel Nord Sardegna, tra le regioni storiche della Gallura e dell’Anglona, tra i Comuni di Bortigiadas e di Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite per la vicinanza del mare e del lago Coghinas."
+msgstr ""
+
+#: src/components/ChiSiamo.js:24
+msgid "Sono Carlo Deperu, sardo, viticoltore ed enologo. Mi sono laureato all’Università degli studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie nel corso di Viticoltura ed Enologia. Nella vita e con le vite (scusate il gioco di parole) non si smette mai di imparare, dopo aver fatto diverse esperienze ed approfondito le conoscenze accademiche in tante aziende qualcosa mi mancava: tornare a casa e “fare il mio”. Nel 2007 ho impiantato i primi quattro ettari di vigna e quello che prima era un sogno oggi è diventato tanto lavoro e tanta gioia. Curo in prima persona la vigna e il lavoro di cantina, nel tempo libero mi dedico alla musica, l’altra mia grande passione."
+msgstr ""
+
+#: src/components/ChiSiamo.js:44
+msgid "Sono Tatiana Holler, brasiliana di origine tedesca, viaggiatrice, laureata in Marketing e Comunicazione all’Università ESPM di San Paolo-Brasile. Ho conosciuto Carlo a Milano, dove lavoravo nel settore pubblicitario. Mi sono lasciata contagiare dal suo amore per la Sardegna, per il cibo e per il vino. Insieme abbiamo deciso di mettere radici in questa terra unica. Gestisco la parte amministrativa e il marketing aziendale."
+msgstr ""
+
+#: src/components/ChiSiamo.js:41
+msgid "TATIANA HOLLER"
+msgstr ""
+
+#: src/components/PramaDorada.js:48
+msgid "Tipologia di allevamento:<0> guyot.</0>"
+msgstr ""
+
+#: src/components/Fria.js:61
+msgid "Tipologia di allevamento:<0> Guyot.</0>"
+msgstr ""
+
+#: src/components/Oberaia.js:52
+msgid "Tipologia di allevamento:<0>alberello e cordone speronato.</0>"
+msgstr ""
+
+#: src/components/Familia.js:60
+msgid "Tipologia di allevamento:<0>Cordone speronato.</0>"
+msgstr ""
+
+#: src/components/Territorio.js:9
+msgid "TRA GALLURA ED ANGLONA"
+msgstr ""
+
+#: src/components/Filosofia.js:37
+msgid "Utilizziamo l’irrigazione solo se strettamente necessaria, non usiamo erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di tecniche alternative come l’inerbimento temporaneo con leguminose e così facendo diamo priorità alle reali necessità delle piante. Il vento della nostra isola che abbonda nella nostra vigna rende il clima asciutto e ci aiuta a ridurre al minimo i trattamenti antiparassitari."
+msgstr ""
+
+#: src/components/Fria.js:50
+msgid "Vermentino di Sardegna DOC"
+msgstr ""
+
+#: src/components/PramaDorada.js:68
+msgid "Vinificazione <0>in bianco, macerazione di minimo sette giorni sulle bucce, pressatura soffice, pied de cuve con lieviti indigeni, blend, battonage di nove mesi sulle fecce fine, senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
+msgstr ""
+
+#: src/components/Oberaia.js:75
+msgid "Vinificazione <0>in rosso con macerazione sulle bucce di venti giorni, lieviti indigeni, affinamento in botti di rovere per dodici mesi sulle fecce ed ulteriori nove mesi in bottiglia.</0>"
+msgstr ""
+
+#: src/components/Familia.js:83
+msgid "Vinificazione <0>raccolta manuale, in rosso con una macerazione sulle bucce di circa sette giorni, lieviti indigeni, affinato in acciaio e in bottiglia. Senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
+msgstr ""
+
+#: src/components/Fria.js:81
+msgid "Vinificazione: <0>macerazione di ventiquattro ore sulle bucce, pressatura soffice, pied de cuve con lieviti indigeni. Senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
+msgstr ""
+
+#: src/components/Familia.js:52
+msgid "Vitigno: <0>Muristellu (Bovale Sardo) e vitigno autoctono a bacca rossa.</0>"
+msgstr ""
+
+#: src/components/Fria.js:55
+msgid "Vitigno: <0>Vermentino 100%</0>"
+msgstr ""
+
+#: src/components/PramaDorada.js:40
+msgid "Vitigno: <0>vitigni autoctoni sardi a bacca bianca.</0>"
+msgstr ""
+
+#: src/components/Oberaia.js:44
+msgid "Vitigno: <0>vitigno autoctono a bacca rossa, Cabernet Sauvignon.</0>"
+msgstr ""
+
+#: src/components/Familia.js:28
+msgid "Vogliamo lo splendore, il conflitto, il piacere, vogliamo crescere, intorno al tavolo, davanti al calice alimentando l’anima."
+msgstr ""

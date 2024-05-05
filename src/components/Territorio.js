@@ -12,17 +12,9 @@ const Territorio = () => (
     />
     <div className="container flex text-center">
       <p className="font-bold italic">
-        <Trans>Al mattino il vento è ancora assopito.</Trans>
-      </p>
-      <p className="font-bold italic">
-        <Trans>
+        <Trans>Al mattino il vento è ancora assopito.
           Monte Ruiu si specchia nel lago Coghinas e si moltiplica, rosso,
-          maestoso.
-        </Trans>
-      </p>
-      <p className="font-bold italic">
-        <Trans>
-          Anche il cielo si concede due volte, su e giù, riflesso nelle acque.
+          maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque.
         </Trans>
       </p>
       <p className="mt-8">
@@ -49,10 +41,6 @@ const Territorio = () => (
           di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro
           (50 quintali) e le tipologie di allevamento, aiutano il vigneto a
           produrre uve di grande qualità.
-        </Trans>
-      </p>
-      <p className="mt-8">
-        <Trans>
           Ad ogni sorso che berrete verremo ripagati ed appagati, gioiremo
           assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi
           del mare.

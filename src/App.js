@@ -4,6 +4,7 @@ import Home from "./components/Home";
 import Menu from "./components/Menu";
 import Footer from "./components/Footer";
 import "./styles/menu.css";
+import "./styles/logo.css";
 import PramaDorada from "./components/PramaDorada";
 import "./styles/container.css";
 import Oberaia from "./components/Oberaia";
@@ -26,6 +27,7 @@ import ChiSiamo from "./components/ChiSiamo";
 import Filosofia from "./components/Filosofia";
 import Territorio from "./components/Territorio";
 import Vini from "./components/Vini";
+import Logo from "./components/Logo";
 
 const supportedLocales = ["en", "it", "srd"];
 const defaultLocale = "it";
@@ -52,6 +54,7 @@ const AppWrapper = ({ isMenuOpen, setIsMenuOpen }) => {
   return (
     <I18nProvider i18n={i18n}>
       <Menu isMenuOpen={isMenuOpen} setIsMenuOpen={setIsMenuOpen} />
+      <Logo />
       <div className={`main-content ${isMenuOpen ? "shifted" : ""}`} onClick={closeMenu}>
         <Routes>
           <Route path="/" element={<Home />} />

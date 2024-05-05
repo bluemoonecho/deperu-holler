@@ -3,6 +3,7 @@ import OberaiaImage from "../assets/images/Oberaia-264x1024.png";
 import "../styles/wine-page.css";
 import Header from "./Header";
 import Background from "../assets/images/deperu_holler_oberaia_bg.jpg";
+import { Trans } from "@lingui/macro";
 
 const Oberaia = () => (
   <>
@@ -20,78 +21,100 @@ const Oberaia = () => (
         />
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
-            PRAMA DORADA ISOLA DEI NURAGHI IGT
+            OBERAÌA – ISOLA DEI NAURAGHI IGT
           </h2>
           <p className="mt-4">
-            Quando dai al mondo ciò che hai di buono, lui ti ripaga con una
-            brezza, con un sospiro, con un buon vino. Prama Dorada è il
-            ritrovamento dei vini bianchi di una volta, quando nei filari si
-            mescolavano varietà innestate con marze raccomandate, mai due vini
-            uguali. Prama Dorada è l’assemblaggio delle varietà autoctone sarde
-            che amiamo di più. Una mescita ricca, elegante e sopratutto unica.
+            <Trans>
+              Quale grande privilegio della vite! Simbiosi profonda tra terra e
+              pianta, celebrazione delle radice e della vita.
+            </Trans>
+          </p>
+          <p className="mt-4">
+            <Trans>
+              Il 23 Aprile si celebra a Perfugas uno dei santi patroni, San
+              Giorgio Guerriero. Questo vino rosso è un omaggio alle radici,
+              alla cultura, a quelli dell’antica associazione Oberaìa de Santu
+              Jorzi che si dedicano alla buona riuscita dei festeggiamenti.
+              Oberaìa è il nostro vino della festa.
+            </Trans>
           </p>
           <div className="wine-page__columns">
             <div>
               <p>
-                Vitigno:{" "}
-                <span className="text-gray-400">
-                  vitigni autoctoni sardi a bacca bianca.
-                </span>
+                <Trans>
+                  Vitigno:{" "}
+                  <span className="text-gray-400">
+                    vitigno autoctono a bacca rossa, Cabernet Sauvignon.
+                  </span>
+                </Trans>
               </p>
               <p>
-                Tipologia di allevamento:
-                <span className="text-gray-400"> guyot.</span>{" "}
+                <Trans>
+                  Tipologia di allevamento:
+                  <span className="text-gray-400">
+                    {" "}
+                    alberello e cordone speronato.
+                  </span>{" "}
+                </Trans>
               </p>
               <p>
-                Densità di impianto:{" "}
-                <span className="text-gray-400">4.000 piante per ettaro.</span>
+                <Trans>
+                  Densità di impianto:{" "}
+                  <span className="text-gray-400">
+                    5.680 piante per ettaro.
+                  </span>
+                </Trans>
               </p>
               <p>
-                Resa per ettaro:{" "}
-                <span className="text-gray-400">60/70 quintali.</span>
+                <Trans>
+                  Resa per ettaro:{" "}
+                  <span className="text-gray-400">35 quintali.</span>
+                </Trans>
               </p>
               <p>
-                Vinificazione{" "}
-                <span className="text-gray-400">
-                  in bianco, macerazione di minimo sette giorni sulle bucce,
-                  pressatura soffice, pied de cuve con lieviti indigeni, blend,
-                  battonage di nove mesi sulle fecce fine, senza prodotti di
-                  sintesi, chiarifiche o filtrazioni.
-                </span>
+                <Trans>
+                  Vinificazione{" "}
+                  <span className="text-gray-400">
+                    in rosso con macerazione sulle bucce di venti giorni,
+                    lieviti indigeni, affinamento in botti di rovere per dodici
+                    mesi sulle fecce ed ulteriori nove mesi in bottiglia.
+                  </span>
+                </Trans>
               </p>
             </div>
             <div>
               <p>
-                Colore:{" "}
-                <span className="text-gray-400">
-                  {" "}
-                  giallo pieno con lucide nuance di topazio.
-                </span>
+                <Trans>
+                  Colore:{" "}
+                  <span className="text-gray-400">
+                    rosso intenso con riflessi granati.
+                  </span>
+                </Trans>
               </p>
               <p>
-                Olfatto:{" "}
-                <span className="text-gray-400">
-                  profumi varietali di frutta estiva a polpa bianca senza
-                  forzature esotiche. Sentori che evolvono e premiano durante la
-                  degustazione con garbate note mandorlate, mielose e di
-                  clorofilla in un bouquet di grande finezza.{" "}
-                </span>
+                <Trans>
+                  Olfatto:{" "}
+                  <span className="text-gray-400">
+                    sentori di frutti di bosco e amarena, note speziate.
+                  </span>
+                </Trans>
               </p>
               <p>
-                Gusto:{" "}
-                <span className="text-gray-400">
-                  avvolgente, morbido, caldo che si compensano con leggermente
-                  sapido, armonioso e di buona struttura, lascia un leggero
-                  retrogusto di mandorla.
-                </span>
+                <Trans>
+                  Gusto:{" "}
+                  <span className="text-gray-400">
+                    pieno, ricco, corposo, tannico al punto giusto.
+                  </span>
+                </Trans>
               </p>
               <p>
-                Abbinamenti:{" "}
-                <span className="text-gray-400">
-                  antipasti elaborati della cucina di mare, prosciutto crudo
-                  artigianale, primi piatti sapidi e anche piccanti, formaggi
-                  crosta fiorita ed erborinati.
-                </span>
+                <Trans>
+                  Abbinamenti:{" "}
+                  <span className="text-gray-400">
+                    primi piatti complessi della cucina invernale, cacciagione
+                    da pelo, formaggi stagionati.
+                  </span>
+                </Trans>
               </p>
             </div>
           </div>

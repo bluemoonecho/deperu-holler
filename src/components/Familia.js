@@ -3,9 +3,10 @@ import FamiliaImage from "../assets/images/Familia.png";
 import "../styles/wine-page.css";
 import Header from "./Header";
 import Background from "../assets/images/deperu_holler_familia_bg.jpg";
+import { Trans } from "@lingui/macro";
 
 const Familia = () => (
-  <>
+  <div>
     <Header
       heading="FAMILIA"
       image={Background}
@@ -21,85 +22,119 @@ const Familia = () => (
         />
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
-            PRAMA DORADA ISOLA DEI NURAGHI IGT
+            FAMILIA – ISOLA DEI NAURAGHI IGT
           </h2>
           <p className="mt-4">
-            Quando dai al mondo ciò che hai di buono, lui ti ripaga con una
-            brezza, con un sospiro, con un buon vino. Prama Dorada è il
-            ritrovamento dei vini bianchi di una volta, quando nei filari si
-            mescolavano varietà innestate con marze raccomandate, mai due vini
-            uguali. Prama Dorada è l’assemblaggio delle varietà autoctone sarde
-            che amiamo di più. Una mescita ricca, elegante e sopratutto unica.
+            <Trans>
+              Vogliamo lo splendore, il conflitto, il piacere, vogliamo
+              crescere, intorno al tavolo, davanti al calice alimentando
+              l’anima.
+            </Trans>
+          </p>
+          <p className="mt-4">
+            <Trans>
+              Familia è il vino da bere insieme, mangiando e ridendo, rustico ma
+              dall’anima fine, generoso nei sentori e fiero di rappresentare
+              questa terra, dove il “Muristellu” ha sempre camminato “umpare”
+              assieme al Cannonau.
+            </Trans>
+          </p>
+          <p className="mt-4">
+            <Trans>
+              Infatti i due vitigni per questioni produttive vengono allevati
+              nello stesso vigneto per avere una costanza produttiva. La
+              percentuale tra i due vitigni varia in base all’annata.
+            </Trans>
           </p>
           <div className="wine-page__columns">
             <div>
               <p>
-                Vitigno:{" "}
-                <span className="text-gray-400">
-                  vitigni autoctoni sardi a bacca bianca.
-                </span>
+                <Trans>
+                  Vitigno:{" "}
+                  <span className="text-gray-400">
+                    Muristellu (Bovale Sardo) e vitigno autoctono a bacca rossa.
+                  </span>
+                </Trans>
               </p>
               <p>
-                Tipologia di allevamento:
-                <span className="text-gray-400"> guyot.</span>{" "}
+                <Trans>
+                  Tipologia di allevamento:
+                  <span className="text-gray-400">
+                    {" "}
+                    Cordone speronato.
+                  </span>{" "}
+                </Trans>
               </p>
               <p>
-                Densità di impianto:{" "}
-                <span className="text-gray-400">4.000 piante per ettaro.</span>
+                <Trans>
+                  Densità di impianto:{" "}
+                  <span className="text-gray-400">
+                    5.680 piante per ettaro.
+                  </span>
+                </Trans>
               </p>
               <p>
-                Resa per ettaro:{" "}
-                <span className="text-gray-400">60/70 quintali.</span>
+                <Trans>
+                  Resa per ettaro:{" "}
+                  <span className="text-gray-400">55 quintali.</span>
+                </Trans>
               </p>
               <p>
-                Vinificazione{" "}
-                <span className="text-gray-400">
-                  in bianco, macerazione di minimo sette giorni sulle bucce,
-                  pressatura soffice, pied de cuve con lieviti indigeni, blend,
-                  battonage di nove mesi sulle fecce fine, senza prodotti di
-                  sintesi, chiarifiche o filtrazioni.
-                </span>
+                <Trans>
+                  Vinificazione{" "}
+                  <span className="text-gray-400">
+                    raccolta manuale, in rosso con una macerazione sulle bucce
+                    di circa sette giorni, lieviti indigeni, affinato in acciaio
+                    e in bottiglia. Senza prodotti di sintesi, chiarifiche o
+                    filtrazioni.
+                  </span>
+                </Trans>
               </p>
             </div>
             <div>
               <p>
-                Colore:{" "}
-                <span className="text-gray-400">
-                  {" "}
-                  giallo pieno con lucide nuance di topazio.
-                </span>
+                <Trans>
+                  Colore:{" "}
+                  <span className="text-gray-400">
+                    rosso intenso con riflessi violacei.
+                  </span>
+                </Trans>
               </p>
               <p>
-                Olfatto:{" "}
-                <span className="text-gray-400">
-                  profumi varietali di frutta estiva a polpa bianca senza
-                  forzature esotiche. Sentori che evolvono e premiano durante la
-                  degustazione con garbate note mandorlate, mielose e di
-                  clorofilla in un bouquet di grande finezza.{" "}
-                </span>
+                <Trans>
+                  Olfatto:{" "}
+                  <span className="text-gray-400">
+                    al naso spiccano sentori di frutti rossi uniti a delicate
+                    note speziate e balsamiche.{" "}
+                  </span>
+                </Trans>
               </p>
               <p>
-                Gusto:{" "}
-                <span className="text-gray-400">
-                  avvolgente, morbido, caldo che si compensano con leggermente
-                  sapido, armonioso e di buona struttura, lascia un leggero
-                  retrogusto di mandorla.
-                </span>
+                <Trans>
+                  Gusto:{" "}
+                  <span className="text-gray-400">
+                    calda morbidezza che si equilibra con i suoi tannini giovani
+                    ma eleganti. Finale lungo e appagante che rimanda in fase di
+                    deglutizione ai riconoscimenti dell’olfatto.
+                  </span>
+                </Trans>
               </p>
               <p>
-                Abbinamenti:{" "}
-                <span className="text-gray-400">
-                  antipasti elaborati della cucina di mare, prosciutto crudo
-                  artigianale, primi piatti sapidi e anche piccanti, formaggi
-                  crosta fiorita ed erborinati.
-                </span>
+                <Trans>
+                  Abbinamenti:{" "}
+                  <span className="text-gray-400">
+                    incontri conviviali pomeridiani con salumi e formaggi di
+                    media stagionatura, zuppe di pesce e pesci grassi alla
+                    brace, carni rosse, zuppe di legumi speziate.
+                  </span>
+                </Trans>
               </p>
             </div>
           </div>
         </div>
       </div>
     </div>
-  </>
+  </div>
 );
 
 export default Familia;

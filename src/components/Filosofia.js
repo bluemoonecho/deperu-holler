@@ -17,15 +17,8 @@ const Filosofia = () => (
         </Trans>
       </p>
       <p className="mt-8">
-        <Trans>Per questo abbiamo scelto di lavorarla con rispetto.</Trans>
-      </p>
-      <p>
-        <Trans>
+        <Trans>Per questo abbiamo scelto di lavorarla con rispetto.
           Aiutiamo la terra e le piante a dare il meglio senza logorarle.
-        </Trans>
-      </p>
-      <p>
-        <Trans>
           Con una superficie aziendale di circa 6 ettari possiamo seguire
           personalmente tutte le fasi della filiera produttiva. Le alte densità
           di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro
@@ -46,10 +39,6 @@ const Filosofia = () => (
           erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di
           tecniche alternative come l’inerbimento temporaneo con leguminose e
           così facendo diamo priorità alle reali necessità delle piante.
-        </Trans>
-      </p>
-      <p>
-        <Trans>
           Il vento della nostra isola che abbonda nella nostra vigna rende il
           clima asciutto e ci aiuta a ridurre al minimo i trattamenti
           antiparassitari.

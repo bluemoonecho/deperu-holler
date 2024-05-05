@@ -55,11 +55,11 @@ const Home = () => {
         <h2 className="flex justify-center text-4xl font-bold">
           <Trans>I NOSTRI VINI</Trans>
         </h2>
-        <div className="flex justify-center gap-10 font-mont">
+        <div className="home__wine-links font-mont">
           {wines.map((wine) => (
-            <Link to={wine.href}>
-              <img src={wine.image} alt={wine.name} />
-              <span className="flex font-bold mt-10 justify-center">
+            <Link to={wine.href} className="home__wine-link">
+              <img className="home__wine-link-image"src={wine.image} alt={wine.name} />
+              <span className="home__wine-link-name font-bold mt-10">
                 {wine.name.toUpperCase()}
               </span>
             </Link>
