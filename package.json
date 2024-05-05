@@ -11,6 +11,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "clsx": "^2.0.0",
+    "npm-run-all": "^4.1.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.12.0",
@@ -22,11 +23,14 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "run-s messages:extract messages:compile react-build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "messages:extract": "lingui extract --clean",
-    "messages:compile": "lingui compile"
+    "messages:compile": "lingui compile",
+    "react-build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -46,7 +50,9 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://bluemoonecho.github.io/deperu-holler/",
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.3.3"
   }
 }
