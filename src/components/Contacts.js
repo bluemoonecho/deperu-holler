@@ -12,7 +12,7 @@ const Contacts = () => (
         <p className="font-bold mb-8">DEPERU HOLLER</p>
 
         <p>Via Mazzini 80</p>
-        <p>07034 Perfugas -SS</p>
+        <p>07034 Perfugas - SS</p>
         <p>SARDEGNA – ITALIA</p>
         <p className="mb-8">P.IVA 02183250907</p>
 
