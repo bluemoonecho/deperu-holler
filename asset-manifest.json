@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deperu-holler/static/css/main.a53b4188.css",
-    "main.js": "/deperu-holler/static/js/main.760069ee.js",
+    "main.css": "/deperu-holler/static/css/main.b58ac438.css",
+    "main.js": "/deperu-holler/static/js/main.72404571.js",
     "static/js/787.55b5f5f9.chunk.js": "/deperu-holler/static/js/787.55b5f5f9.chunk.js",
     "static/media/DeperuHoller_100_1873.jpg": "/deperu-holler/static/media/DeperuHoller_100_1873.c17f94bfbda96c7e54ae.jpg",
     "static/media/deperu_holler_slide_1-1024x684.jpg": "/deperu-holler/static/media/deperu_holler_slide_1-1024x684.cb6ae1bddd43a6795282.jpg",
@@ -25,12 +25,12 @@
     "static/media/deperu_holler_oberaia_label-340x337.png": "/deperu-holler/static/media/deperu_holler_oberaia_label-340x337.331ead9567226dc741ce.png",
     "static/media/deperu_holler_oberaia_bg.jpg": "/deperu-holler/static/media/deperu_holler_oberaia_bg.ae5784bd00dd79498f98.jpg",
     "index.html": "/deperu-holler/index.html",
-    "main.a53b4188.css.map": "/deperu-holler/static/css/main.a53b4188.css.map",
-    "main.760069ee.js.map": "/deperu-holler/static/js/main.760069ee.js.map",
+    "main.b58ac438.css.map": "/deperu-holler/static/css/main.b58ac438.css.map",
+    "main.72404571.js.map": "/deperu-holler/static/js/main.72404571.js.map",
     "787.55b5f5f9.chunk.js.map": "/deperu-holler/static/js/787.55b5f5f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a53b4188.css",
-    "static/js/main.760069ee.js"
+    "static/css/main.b58ac438.css",
+    "static/js/main.72404571.js"
   ]
 }
