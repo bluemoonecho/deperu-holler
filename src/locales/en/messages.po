@@ -73,6 +73,10 @@ msgstr "It seduces the ones who love spontaneity and authenticity."
 msgid "Contatti"
 msgstr "Contacts"
 
+#: src/components/Contacts.js:8
+msgid "CONTATTI"
+msgstr "CONTACTS"
+
 #: src/components/Fria.js:67
 #: src/components/PramaDorada.js:54
 msgid "Densità di impianto: <0>4.000 piante per ettaro.</0>"

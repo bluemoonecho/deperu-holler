@@ -26,6 +26,7 @@ import { messages as srdMessages } from "./locales/srd/messages";
 import ChiSiamo from "./components/ChiSiamo";
 import Filosofia from "./components/Filosofia";
 import Territorio from "./components/Territorio";
+import Contacts from "./components/Contacts";
 import Vini from "./components/Vini";
 import Logo from "./components/Logo";
 
@@ -66,6 +67,7 @@ const AppWrapper = ({ isMenuOpen, setIsMenuOpen }) => {
           <Route path="/filosofia-e-pratica" element={<Filosofia />} />
           <Route path="/il-territorio" element={<Territorio />} />
           <Route path="/i-nostri-vini" element={<Vini />} />
+          <Route path="/contatti" element={<Contacts />} />
         </Routes>
         </div>
         <Footer />

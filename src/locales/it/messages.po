@@ -73,6 +73,10 @@ msgstr "Conquista gli amanti della semplicità e della autenticità."
 msgid "Contatti"
 msgstr "Contatti"
 
+#: src/components/Contacts.js:8
+msgid "CONTATTI"
+msgstr "CONTATTI"
+
 #: src/components/Fria.js:67
 #: src/components/PramaDorada.js:54
 msgid "Densità di impianto: <0>4.000 piante per ettaro.</0>"
