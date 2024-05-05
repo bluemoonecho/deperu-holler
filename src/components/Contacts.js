@@ -6,7 +6,7 @@ import { t } from "@lingui/macro";
 const Contacts = () => (
   <div className="contacts">
     <Header classNames="mt-56" heading={t`CONTATTI`} />
-    <div className="container flex text-center">
+    <div className="container flex text-center !-mt-10">
       <div>
         <p className="font-bold">AZIENDA VITIVINICOLA</p>
         <p className="font-bold mb-8">DEPERU HOLLER</p>

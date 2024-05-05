@@ -3,3 +3,12 @@
   background-image: url("../assets/images/deperu_holler_contatti.png");
   background-position: 50%;
 }
+
+/* on small screens */
+
+@media (max-width: 768px) {
+  .contacts {
+    background-position: right 35% bottom 60%;
+    background-size: 100%;
+  }
+}
