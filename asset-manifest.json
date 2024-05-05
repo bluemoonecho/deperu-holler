@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deperu-holler/static/css/main.6f101db5.css",
-    "main.js": "/deperu-holler/static/js/main.8c296e95.js",
+    "main.css": "/deperu-holler/static/css/main.a53b4188.css",
+    "main.js": "/deperu-holler/static/js/main.760069ee.js",
     "static/js/787.55b5f5f9.chunk.js": "/deperu-holler/static/js/787.55b5f5f9.chunk.js",
     "static/media/DeperuHoller_100_1873.jpg": "/deperu-holler/static/media/DeperuHoller_100_1873.c17f94bfbda96c7e54ae.jpg",
     "static/media/deperu_holler_slide_1-1024x684.jpg": "/deperu-holler/static/media/deperu_holler_slide_1-1024x684.cb6ae1bddd43a6795282.jpg",
@@ -19,17 +19,18 @@
     "static/media/fria_bg.jpg": "/deperu-holler/static/media/fria_bg.bd55764254c1bac296bd.jpg",
     "static/media/familia_etichetta-340x340.png": "/deperu-holler/static/media/familia_etichetta-340x340.7c04c422660800c329cd.png",
     "static/media/Etichetta-vino-Fria-2016-Definitiva-01-340x340 (1).png": "/deperu-holler/static/media/Etichetta-vino-Fria-2016-Definitiva-01-340x340 (1).2a35ed3036a7e25b0ab6.png",
+    "static/media/deperu_holler_contatti.png": "/deperu-holler/static/media/deperu_holler_contatti.1463c53688b42dabba70.png",
     "static/media/deperu_holler_body_bg.jpg": "/deperu-holler/static/media/deperu_holler_body_bg.cd2cd5d759d7cb4e2260.jpg",
     "static/media/deperu_holler_familia_bg.jpg": "/deperu-holler/static/media/deperu_holler_familia_bg.a6be38d124c4bc85bbca.jpg",
     "static/media/deperu_holler_oberaia_label-340x337.png": "/deperu-holler/static/media/deperu_holler_oberaia_label-340x337.331ead9567226dc741ce.png",
     "static/media/deperu_holler_oberaia_bg.jpg": "/deperu-holler/static/media/deperu_holler_oberaia_bg.ae5784bd00dd79498f98.jpg",
     "index.html": "/deperu-holler/index.html",
-    "main.6f101db5.css.map": "/deperu-holler/static/css/main.6f101db5.css.map",
-    "main.8c296e95.js.map": "/deperu-holler/static/js/main.8c296e95.js.map",
+    "main.a53b4188.css.map": "/deperu-holler/static/css/main.a53b4188.css.map",
+    "main.760069ee.js.map": "/deperu-holler/static/js/main.760069ee.js.map",
     "787.55b5f5f9.chunk.js.map": "/deperu-holler/static/js/787.55b5f5f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f101db5.css",
-    "static/js/main.8c296e95.js"
+    "static/css/main.a53b4188.css",
+    "static/js/main.760069ee.js"
   ]
 }
