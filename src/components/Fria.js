@@ -22,32 +22,35 @@ const Fria = () => (
         />
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
-            FRIA VERMENTINO DI SARDEGNA DOC
+            FRIA ISOLA DEI NURAGHI VERMENTINO IGT
           </h2>
           <p className="mt-4">
             <Trans>
-              Quando arriva l’estate lavorare in vigna è piuttosto faticoso e le
-              temperature sono alte già dal mattino. Tutti i giorni, verso le
-              undici, succede qualcosa di speciale: dal mare arriva una
-              benedizione, un’aria fresca che rallegra noi e le piante.
+              Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto
+              faticoso, con le temperature che si alzano già dal mattino. Ogni
+              giorno, intorno alle undici, accade qualcosa di speciale: dal mare
+              arriva una benedizione, un’aria fresca che rallegra noi e le
+              piante.
             </Trans>
           </p>
           <p className="mt-4">
             <Trans>
-              L’aria tersa di sale si posa sui grappoli dorati del Vermentino.
-              Questa sapidità si ritrova nel vino, ci ricorda il vento e tutte
-              le strade che percorre. Fria è un Vermentino puro e vero. Fa
-              emergere sensazioni ormai rare in un tempo dove tutto può essere
-              rimodellato.
+              L'aria tersa e salmastra si posa delicatamente sui grappoli dorati
+              del Vermentino. Questa sapidità si ritrova nel vino, evocando il
+              vento e i percorsi che ha attraversato.
             </Trans>
           </p>
           <p className="mt-4">
             <Trans>
-              Conquista gli amanti della semplicità e della autenticità.
+              Fria è un Vermentino puro e vero, capace di far emergere
+              sensazioni rare in un'epoca in cui tutto può essere rimodellato.
             </Trans>
+          </p>
+          <p className="mt-4">
+            <Trans>Conquista chi ama la semplicità e l'autenticità.</Trans>
           </p>
           <h3 className="font-bold text-xl md:text-1xl mt-8">
-            <Trans>Vermentino di Sardegna DOC</Trans>
+            <Trans>FRIA ISOLA DEI NURAGHI VERMENTINO IGT</Trans>
           </h3>
           <div className="wine-page__columns">
             <div>
@@ -55,6 +58,24 @@ const Fria = () => (
                 <Trans>
                   Vitigno:{" "}
                   <span className="text-gray-400">Vermentino 100%</span>
+                </Trans>
+              </p>
+              <p>
+                <Trans>
+                  Zona di produzione:{" "}
+                  <span className="text-gray-400">
+                    {" "}
+                    Scupaggiu (Bortigiadas)
+                  </span>
+                </Trans>
+              </p>
+              <p>
+                <Trans>
+                  Tipologia di terreno:
+                  <span className="text-gray-400">
+                    {" "}
+                    Calcareo, argilloso. disfacimento granitico. scisti
+                  </span>{" "}
                 </Trans>
               </p>
               <p>
@@ -67,7 +88,7 @@ const Fria = () => (
                 <Trans>
                   Densità di impianto:{" "}
                   <span className="text-gray-400">
-                    4.000 piante per ettaro.
+                    5.600 piante per ettaro.
                   </span>
                 </Trans>
               </p>
@@ -79,11 +100,20 @@ const Fria = () => (
               </p>
               <p>
                 <Trans>
+                  Trattamenti:{" "}
+                  <span className="text-gray-400">
+                    Rame, zolfo e preparati biologici
+                  </span>
+                </Trans>
+              </p>
+              <p>
+                <Trans>
                   Vinificazione:{" "}
                   <span className="text-gray-400">
-                    macerazione di ventiquattro ore sulle bucce, pressatura
-                    soffice, pied de cuve con lieviti indigeni. Senza prodotti
-                    di sintesi, chiarifiche o filtrazioni.
+                    Raccolta manuale. macerazione di due o tre giorni sulle
+                    bucce, fermentazione spontanea, pressatura soffice. Affinato
+                    in acciaio. Il vino viene imbottigliato senza chiarifiche né
+                    filtrazioni.
                   </span>
                 </Trans>
               </p>
@@ -94,7 +124,7 @@ const Fria = () => (
                   Colore:{" "}
                   <span className="text-gray-400">
                     {" "}
-                    giallo paglierino tendente al dorato.
+                    Giallo paglierino tendente al dorato.
                   </span>
                 </Trans>
               </p>
@@ -102,7 +132,7 @@ const Fria = () => (
                 <Trans>
                   Olfatto:{" "}
                   <span className="text-gray-400">
-                    ampio con note di frutta a polpa bianca.{" "}
+                    Ampio con note di frutta a polpa bianca, note resinose.{" "}
                   </span>
                 </Trans>
               </p>
@@ -110,9 +140,8 @@ const Fria = () => (
                 <Trans>
                   Gusto:{" "}
                   <span className="text-gray-400">
-                    caldo, fresco e sapido, di buona struttura. Un autentico
-                    Vermentino che regala una bella sapidità e un finale
-                    mandorlato.
+                    Fresco e sapido, di buona struttura. Un autentico Vermentino
+                    che regala un bel finale mandorlato.
                   </span>
                 </Trans>
               </p>
@@ -120,9 +149,9 @@ const Fria = () => (
                 <Trans>
                   Abbinamenti:{" "}
                   <span className="text-gray-400">
-                    antipasti di frutti di mare, risotti con crostacei,
-                    minestroni estivi, grigliate di pesce e aperitivi in riva al
-                    mare.
+                    Ideale con antipasti di mare, minestroni estivi e grigliate
+                    di pesce. Tuttavia, il suo posto preferito è senza dubbio
+                    sotto l’ombrellone, in riva al mare.
                   </span>
                 </Trans>
               </p>

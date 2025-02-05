@@ -17,13 +17,13 @@ msgstr ""
 msgid "…CRESCERE CON LE NOSTRE VITI."
 msgstr "…CRESCERE CON LE NOSTRE VITI."
 
-#: src/components/Fria.js:120
-msgid "Abbinamenti: <0>antipasti di frutti di mare, risotti con crostacei, minestroni estivi, grigliate di pesce e aperitivi in riva al mare.</0>"
-msgstr "Abbinamenti: <0>antipasti di frutti di mare, risotti con crostacei, minestroni estivi, grigliate di pesce e aperitivi in riva al mare.</0>"
-
 #: src/components/PramaDorada.js:111
 msgid "Abbinamenti: <0>antipasti elaborati della cucina di mare, prosciutto crudo artigianale, primi piatti sapidi e anche piccanti, formaggi crosta fiorita ed erborinati.</0>"
 msgstr "Abbinamenti: <0>antipasti elaborati della cucina di mare, prosciutto crudo artigianale, primi piatti sapidi e anche piccanti, formaggi crosta fiorita ed erborinati.</0>"
+
+#: src/components/Fria.js:149
+msgid "Abbinamenti: <0>Ideale con antipasti di mare, minestroni estivi e grigliate di pesce. Tuttavia, il suo posto preferito è senza dubbio sotto l’ombrellone, in riva al mare.</0>"
+msgstr "Abbinamenti: <0>Ideale con antipasti di mare, minestroni estivi e grigliate di pesce. Tuttavia, il suo posto preferito è senza dubbio sotto l’ombrellone, in riva al mare.</0>"
 
 #: src/components/Familia.js:123
 msgid "Abbinamenti: <0>incontri conviviali pomeridiani con salumi e formaggi di media stagionatura, zuppe di pesce e pesci grassi alla brace, carni rosse, zuppe di legumi speziate.</0>"
@@ -45,9 +45,9 @@ msgstr "CARLO DEPERU"
 msgid "Chi siamo"
 msgstr "Chi siamo"
 
-#: src/components/Fria.js:93
-msgid "Colore: <0>giallo paglierino tendente al dorato.</0>"
-msgstr "Colore: <0>giallo paglierino tendente al dorato.</0>"
+#: src/components/Fria.js:123
+msgid "Colore: <0>Giallo paglierino tendente al dorato.</0>"
+msgstr "Colore: <0>Giallo paglierino tendente al dorato.</0>"
 
 #: src/components/PramaDorada.js:81
 msgid "Colore: <0>giallo pieno con lucide nuance di topazio.</0>"
@@ -61,13 +61,17 @@ msgstr "Colore: <0>rosso intenso con riflessi granati.</0>"
 msgid "Colore: <0>rosso intenso con riflessi violacei.</0>"
 msgstr "Colore: <0>rosso intenso con riflessi violacei.</0>"
 
+#: src/components/Fria.js:28
+msgid "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
+msgstr "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
+
 #: src/components/Territorio.js:38
 msgid "Con una superficie aziendale di circa 6 ettari possiamo seguire personalmente tutte le fasi della filiera produttiva. Le alte densità di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro (50 quintali) e le tipologie di allevamento, aiutano il vigneto a produrre uve di grande qualità. Ad ogni sorso che berrete verremo ripagati ed appagati, gioiremo assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi del mare."
 msgstr "Con una superficie aziendale di circa 6 ettari possiamo seguire personalmente tutte le fasi della filiera produttiva. Le alte densità di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro (50 quintali) e le tipologie di allevamento, aiutano il vigneto a produrre uve di grande qualità. Ad ogni sorso che berrete verremo ripagati ed appagati, gioiremo assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi del mare."
 
-#: src/components/Fria.js:45
-msgid "Conquista gli amanti della semplicità e della autenticità."
-msgstr "Conquista gli amanti della semplicità e della autenticità."
+#: src/components/Fria.js:50
+msgid "Conquista chi ama la semplicità e l'autenticità."
+msgstr "Conquista chi ama la semplicità e l'autenticità."
 
 #: src/components/Menu.js:101
 msgid "Contatti"
@@ -77,10 +81,13 @@ msgstr "Contatti"
 msgid "CONTATTI"
 msgstr "CONTATTI"
 
-#: src/components/Fria.js:67
 #: src/components/PramaDorada.js:54
 msgid "Densità di impianto: <0>4.000 piante per ettaro.</0>"
 msgstr "Densità di impianto: <0>4.000 piante per ettaro.</0>"
+
+#: src/components/Fria.js:88
+msgid "Densità di impianto: <0>5.600 piante per ettaro.</0>"
+msgstr "Densità di impianto: <0>5.600 piante per ettaro.</0>"
 
 #: src/components/Familia.js:69
 #: src/components/Oberaia.js:61
@@ -107,6 +114,14 @@ msgstr "Filosofia e pratica"
 msgid "Fria"
 msgstr "Fria"
 
+#: src/components/Fria.js:44
+msgid "Fria è un Vermentino puro e vero, capace di far emergere sensazioni rare in un'epoca in cui tutto può essere rimodellato."
+msgstr "Fria è un Vermentino puro e vero, capace di far emergere sensazioni rare in un'epoca in cui tutto può essere rimodellato."
+
+#: src/components/Fria.js:53
+msgid "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
+msgstr "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
+
 #: src/components/Menu.js:96
 msgid "Gallery"
 msgstr "Gallery"
@@ -119,9 +134,9 @@ msgstr "Gusto: <0>avvolgente, morbido, caldo che si compensano con leggermente s
 msgid "Gusto: <0>calda morbidezza che si equilibra con i suoi tannini giovani ma eleganti. Finale lungo e appagante che rimanda in fase di deglutizione ai riconoscimenti dell’olfatto.</0>"
 msgstr "Gusto: <0>calda morbidezza che si equilibra con i suoi tannini giovani ma eleganti. Finale lungo e appagante che rimanda in fase di deglutizione ai riconoscimenti dell’olfatto.</0>"
 
-#: src/components/Fria.js:110
-msgid "Gusto: <0>caldo, fresco e sapido, di buona struttura. Un autentico Vermentino che regala una bella sapidità e un finale mandorlato.</0>"
-msgstr "Gusto: <0>caldo, fresco e sapido, di buona struttura. Un autentico Vermentino che regala una bella sapidità e un finale mandorlato.</0>"
+#: src/components/Fria.js:140
+msgid "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
+msgstr "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 
 #: src/components/Oberaia.js:103
 msgid "Gusto: <0>pieno, ricco, corposo, tannico al punto giusto.</0>"
@@ -160,9 +175,9 @@ msgstr "In un mondo globalizzato in cui la vita è frenetica, abbiamo ritagliato
 msgid "Infatti i due vitigni per questioni produttive vengono allevati nello stesso vigneto per avere una costanza produttiva. La percentuale tra i due vitigni varia in base all’annata."
 msgstr "Infatti i due vitigni per questioni produttive vengono allevati nello stesso vigneto per avere una costanza produttiva. La percentuale tra i due vitigni varia in base all’annata."
 
-#: src/components/Fria.js:36
-msgid "L’aria tersa di sale si posa sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, ci ricorda il vento e tutte le strade che percorre. Fria è un Vermentino puro e vero. Fa emergere sensazioni ormai rare in un tempo dove tutto può essere rimodellato."
-msgstr "L’aria tersa di sale si posa sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, ci ricorda il vento e tutte le strade che percorre. Fria è un Vermentino puro e vero. Fa emergere sensazioni ormai rare in un tempo dove tutto può essere rimodellato."
+#: src/components/Fria.js:37
+msgid "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
+msgstr "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
 
 #: src/components/Menu.js:86
 msgid "Oberaìa"
@@ -172,9 +187,9 @@ msgstr "Oberaìa"
 msgid "Olfatto: <0>al naso spiccano sentori di frutti rossi uniti a delicate note speziate e balsamiche. </0>"
 msgstr "Olfatto: <0>al naso spiccano sentori di frutti rossi uniti a delicate note speziate e balsamiche. </0>"
 
-#: src/components/Fria.js:102
-msgid "Olfatto: <0>ampio con note di frutta a polpa bianca. </0>"
-msgstr "Olfatto: <0>ampio con note di frutta a polpa bianca. </0>"
+#: src/components/Fria.js:132
+msgid "Olfatto: <0>Ampio con note di frutta a polpa bianca, note resinose. </0>"
+msgstr "Olfatto: <0>Ampio con note di frutta a polpa bianca, note resinose. </0>"
 
 #: src/components/PramaDorada.js:90
 msgid "Olfatto: <0>profumi varietali di frutta estiva a polpa bianca senza forzature esotiche. Sentori che evolvono e premiano durante la degustazione con garbate note mandorlate, mielose e di clorofilla in un bouquet di grande finezza. </0>"
@@ -209,10 +224,6 @@ msgstr "Prama Dorada"
 msgid "Quale grande privilegio della vite! Simbiosi profonda tra terra e pianta, celebrazione delle radice e della vita."
 msgstr "Quale grande privilegio della vite! Simbiosi profonda tra terra e pianta, celebrazione delle radice e della vita."
 
-#: src/components/Fria.js:28
-msgid "Quando arriva l’estate lavorare in vigna è piuttosto faticoso e le temperature sono alte già dal mattino. Tutti i giorni, verso le undici, succede qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
-msgstr "Quando arriva l’estate lavorare in vigna è piuttosto faticoso e le temperature sono alte già dal mattino. Tutti i giorni, verso le undici, succede qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
-
 #: src/components/PramaDorada.js:27
 msgid "Quando dai al mondo ciò che hai di buono, lui ti ripaga con una brezza, con un sospiro, con un buon vino. Prama Dorada è il ritrovamento dei vini bianchi di una volta, quando nei filari si mescolavano varietà innestate con marze raccomandate, mai due vini uguali. Prama Dorada è l’assemblaggio delle varietà autoctone sarde che amiamo di più. Una mescita ricca, elegante e sopratutto unica."
 msgstr "Quando dai al mondo ciò che hai di buono, lui ti ripaga con una brezza, con un sospiro, con un buon vino. Prama Dorada è il ritrovamento dei vini bianchi di una volta, quando nei filari si mescolavano varietà innestate con marze raccomandate, mai due vini uguali. Prama Dorada è l’assemblaggio delle varietà autoctone sarde che amiamo di più. Una mescita ricca, elegante e sopratutto unica."
@@ -225,7 +236,7 @@ msgstr "Resa per ettaro: <0>35 quintali.</0>"
 msgid "Resa per ettaro: <0>55 quintali.</0>"
 msgstr "Resa per ettaro: <0>55 quintali.</0>"
 
-#: src/components/Fria.js:75
+#: src/components/Fria.js:96
 #: src/components/PramaDorada.js:62
 msgid "Resa per ettaro: <0>60/70 quintali.</0>"
 msgstr "Resa per ettaro: <0>60/70 quintali.</0>"
@@ -270,7 +281,7 @@ msgstr "TATIANA HOLLER"
 msgid "Tipologia di allevamento:<0> guyot.</0>"
 msgstr "Tipologia di allevamento:<0> guyot.</0>"
 
-#: src/components/Fria.js:61
+#: src/components/Fria.js:82
 msgid "Tipologia di allevamento:<0> Guyot.</0>"
 msgstr "Tipologia di allevamento:<0> Guyot.</0>"
 
@@ -282,17 +293,21 @@ msgstr "Tipologia di allevamento:<0>alberello e cordone speronato.</0>"
 msgid "Tipologia di allevamento:<0>Cordone speronato.</0>"
 msgstr "Tipologia di allevamento:<0>Cordone speronato.</0>"
 
+#: src/components/Fria.js:73
+msgid "Tipologia di terreno:<0>Calcareo, argilloso. disfacimento granitico. scisti</0>"
+msgstr "Tipologia di terreno:<0>Calcareo, argilloso. disfacimento granitico. scisti</0>"
+
 #: src/components/Territorio.js:9
 msgid "TRA GALLURA ED ANGLONA"
 msgstr "TRA GALLURA ED ANGLONA"
 
+#: src/components/Fria.js:102
+msgid "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
+msgstr "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
+
 #: src/components/Filosofia.js:37
 msgid "Utilizziamo l’irrigazione solo se strettamente necessaria, non usiamo erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di tecniche alternative come l’inerbimento temporaneo con leguminose e così facendo diamo priorità alle reali necessità delle piante. Il vento della nostra isola che abbonda nella nostra vigna rende il clima asciutto e ci aiuta a ridurre al minimo i trattamenti antiparassitari."
 msgstr "Utilizziamo l’irrigazione solo se strettamente necessaria, non usiamo erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di tecniche alternative come l’inerbimento temporaneo con leguminose e così facendo diamo priorità alle reali necessità delle piante. Il vento della nostra isola che abbonda nella nostra vigna rende il clima asciutto e ci aiuta a ridurre al minimo i trattamenti antiparassitari."
-
-#: src/components/Fria.js:50
-msgid "Vermentino di Sardegna DOC"
-msgstr "Vermentino di Sardegna DOC"
 
 #: src/components/PramaDorada.js:68
 msgid "Vinificazione <0>in bianco, macerazione di minimo sette giorni sulle bucce, pressatura soffice, pied de cuve con lieviti indigeni, blend, battonage di nove mesi sulle fecce fine, senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
@@ -306,15 +321,15 @@ msgstr "Vinificazione <0>in rosso con macerazione sulle bucce di venti giorni, l
 msgid "Vinificazione <0>raccolta manuale, in rosso con una macerazione sulle bucce di circa sette giorni, lieviti indigeni, affinato in acciaio e in bottiglia. Senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
 msgstr "Vinificazione <0>raccolta manuale, in rosso con una macerazione sulle bucce di circa sette giorni, lieviti indigeni, affinato in acciaio e in bottiglia. Senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
 
-#: src/components/Fria.js:81
-msgid "Vinificazione: <0>macerazione di ventiquattro ore sulle bucce, pressatura soffice, pied de cuve con lieviti indigeni. Senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
-msgstr "Vinificazione: <0>macerazione di ventiquattro ore sulle bucce, pressatura soffice, pied de cuve con lieviti indigeni. Senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
+#: src/components/Fria.js:110
+msgid "Vinificazione: <0>Raccolta manuale. macerazione di due o tre giorni sulle bucce, fermentazione spontanea, pressatura soffice. Affinato in acciaio. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
+msgstr "Vinificazione: <0>Raccolta manuale. macerazione di due o tre giorni sulle bucce, fermentazione spontanea, pressatura soffice. Affinato in acciaio. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 
 #: src/components/Familia.js:52
 msgid "Vitigno: <0>Muristellu (Bovale Sardo) e vitigno autoctono a bacca rossa.</0>"
 msgstr "Vitigno: <0>Muristellu (Bovale Sardo) e vitigno autoctono a bacca rossa.</0>"
 
-#: src/components/Fria.js:55
+#: src/components/Fria.js:58
 msgid "Vitigno: <0>Vermentino 100%</0>"
 msgstr "Vitigno: <0>Vermentino 100%</0>"
 
@@ -329,3 +344,7 @@ msgstr "Vitigno: <0>vitigno autoctono a bacca rossa, Cabernet Sauvignon.</0>"
 #: src/components/Familia.js:28
 msgid "Vogliamo lo splendore, il conflitto, il piacere, vogliamo crescere, intorno al tavolo, davanti al calice alimentando l’anima."
 msgstr "Vogliamo lo splendore, il conflitto, il piacere, vogliamo crescere, intorno al tavolo, davanti al calice alimentando l’anima."
+
+#: src/components/Fria.js:64
+msgid "Zona di produzione: <0>Scupaggiu (Bortigiadas)</0>"
+msgstr "Zona di produzione: <0>Scupaggiu (Bortigiadas)</0>"

@@ -17,12 +17,12 @@ msgstr ""
 msgid "…CRESCERE CON LE NOSTRE VITI."
 msgstr ""
 
-#: src/components/Fria.js:120
-msgid "Abbinamenti: <0>antipasti di frutti di mare, risotti con crostacei, minestroni estivi, grigliate di pesce e aperitivi in riva al mare.</0>"
-msgstr ""
-
 #: src/components/PramaDorada.js:111
 msgid "Abbinamenti: <0>antipasti elaborati della cucina di mare, prosciutto crudo artigianale, primi piatti sapidi e anche piccanti, formaggi crosta fiorita ed erborinati.</0>"
+msgstr ""
+
+#: src/components/Fria.js:149
+msgid "Abbinamenti: <0>Ideale con antipasti di mare, minestroni estivi e grigliate di pesce. Tuttavia, il suo posto preferito è senza dubbio sotto l’ombrellone, in riva al mare.</0>"
 msgstr ""
 
 #: src/components/Familia.js:123
@@ -45,8 +45,8 @@ msgstr ""
 msgid "Chi siamo"
 msgstr ""
 
-#: src/components/Fria.js:93
-msgid "Colore: <0>giallo paglierino tendente al dorato.</0>"
+#: src/components/Fria.js:123
+msgid "Colore: <0>Giallo paglierino tendente al dorato.</0>"
 msgstr ""
 
 #: src/components/PramaDorada.js:81
@@ -61,12 +61,16 @@ msgstr ""
 msgid "Colore: <0>rosso intenso con riflessi violacei.</0>"
 msgstr ""
 
+#: src/components/Fria.js:28
+msgid "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
+msgstr ""
+
 #: src/components/Territorio.js:38
 msgid "Con una superficie aziendale di circa 6 ettari possiamo seguire personalmente tutte le fasi della filiera produttiva. Le alte densità di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro (50 quintali) e le tipologie di allevamento, aiutano il vigneto a produrre uve di grande qualità. Ad ogni sorso che berrete verremo ripagati ed appagati, gioiremo assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi del mare."
 msgstr ""
 
-#: src/components/Fria.js:45
-msgid "Conquista gli amanti della semplicità e della autenticità."
+#: src/components/Fria.js:50
+msgid "Conquista chi ama la semplicità e l'autenticità."
 msgstr ""
 
 #: src/components/Menu.js:101
@@ -77,9 +81,12 @@ msgstr ""
 msgid "CONTATTI"
 msgstr ""
 
-#: src/components/Fria.js:67
 #: src/components/PramaDorada.js:54
 msgid "Densità di impianto: <0>4.000 piante per ettaro.</0>"
+msgstr ""
+
+#: src/components/Fria.js:88
+msgid "Densità di impianto: <0>5.600 piante per ettaro.</0>"
 msgstr ""
 
 #: src/components/Familia.js:69
@@ -105,6 +112,14 @@ msgstr ""
 
 #: src/components/Menu.js:76
 msgid "Fria"
+msgstr "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
+
+#: src/components/Fria.js:44
+msgid "Fria è un Vermentino puro e vero, capace di far emergere sensazioni rare in un'epoca in cui tutto può essere rimodellato."
+msgstr ""
+
+#: src/components/Fria.js:53
+msgid "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
 msgstr ""
 
 #: src/components/Menu.js:96
@@ -119,8 +134,8 @@ msgstr ""
 msgid "Gusto: <0>calda morbidezza che si equilibra con i suoi tannini giovani ma eleganti. Finale lungo e appagante che rimanda in fase di deglutizione ai riconoscimenti dell’olfatto.</0>"
 msgstr ""
 
-#: src/components/Fria.js:110
-msgid "Gusto: <0>caldo, fresco e sapido, di buona struttura. Un autentico Vermentino che regala una bella sapidità e un finale mandorlato.</0>"
+#: src/components/Fria.js:140
+msgid "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 msgstr ""
 
 #: src/components/Oberaia.js:103
@@ -160,8 +175,8 @@ msgstr ""
 msgid "Infatti i due vitigni per questioni produttive vengono allevati nello stesso vigneto per avere una costanza produttiva. La percentuale tra i due vitigni varia in base all’annata."
 msgstr ""
 
-#: src/components/Fria.js:36
-msgid "L’aria tersa di sale si posa sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, ci ricorda il vento e tutte le strade che percorre. Fria è un Vermentino puro e vero. Fa emergere sensazioni ormai rare in un tempo dove tutto può essere rimodellato."
+#: src/components/Fria.js:37
+msgid "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
 msgstr ""
 
 #: src/components/Menu.js:86
@@ -172,8 +187,8 @@ msgstr ""
 msgid "Olfatto: <0>al naso spiccano sentori di frutti rossi uniti a delicate note speziate e balsamiche. </0>"
 msgstr ""
 
-#: src/components/Fria.js:102
-msgid "Olfatto: <0>ampio con note di frutta a polpa bianca. </0>"
+#: src/components/Fria.js:132
+msgid "Olfatto: <0>Ampio con note di frutta a polpa bianca, note resinose. </0>"
 msgstr ""
 
 #: src/components/PramaDorada.js:90
@@ -209,10 +224,6 @@ msgstr ""
 msgid "Quale grande privilegio della vite! Simbiosi profonda tra terra e pianta, celebrazione delle radice e della vita."
 msgstr ""
 
-#: src/components/Fria.js:28
-msgid "Quando arriva l’estate lavorare in vigna è piuttosto faticoso e le temperature sono alte già dal mattino. Tutti i giorni, verso le undici, succede qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
-msgstr ""
-
 #: src/components/PramaDorada.js:27
 msgid "Quando dai al mondo ciò che hai di buono, lui ti ripaga con una brezza, con un sospiro, con un buon vino. Prama Dorada è il ritrovamento dei vini bianchi di una volta, quando nei filari si mescolavano varietà innestate con marze raccomandate, mai due vini uguali. Prama Dorada è l’assemblaggio delle varietà autoctone sarde che amiamo di più. Una mescita ricca, elegante e sopratutto unica."
 msgstr ""
@@ -225,7 +236,7 @@ msgstr ""
 msgid "Resa per ettaro: <0>55 quintali.</0>"
 msgstr ""
 
-#: src/components/Fria.js:75
+#: src/components/Fria.js:96
 #: src/components/PramaDorada.js:62
 msgid "Resa per ettaro: <0>60/70 quintali.</0>"
 msgstr ""
@@ -270,7 +281,7 @@ msgstr ""
 msgid "Tipologia di allevamento:<0> guyot.</0>"
 msgstr ""
 
-#: src/components/Fria.js:61
+#: src/components/Fria.js:82
 msgid "Tipologia di allevamento:<0> Guyot.</0>"
 msgstr ""
 
@@ -282,16 +293,20 @@ msgstr ""
 msgid "Tipologia di allevamento:<0>Cordone speronato.</0>"
 msgstr ""
 
+#: src/components/Fria.js:73
+msgid "Tipologia di terreno:<0>Calcareo, argilloso. disfacimento granitico. scisti</0>"
+msgstr ""
+
 #: src/components/Territorio.js:9
 msgid "TRA GALLURA ED ANGLONA"
 msgstr ""
 
-#: src/components/Filosofia.js:37
-msgid "Utilizziamo l’irrigazione solo se strettamente necessaria, non usiamo erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di tecniche alternative come l’inerbimento temporaneo con leguminose e così facendo diamo priorità alle reali necessità delle piante. Il vento della nostra isola che abbonda nella nostra vigna rende il clima asciutto e ci aiuta a ridurre al minimo i trattamenti antiparassitari."
+#: src/components/Fria.js:102
+msgid "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
 msgstr ""
 
-#: src/components/Fria.js:50
-msgid "Vermentino di Sardegna DOC"
+#: src/components/Filosofia.js:37
+msgid "Utilizziamo l’irrigazione solo se strettamente necessaria, non usiamo erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di tecniche alternative come l’inerbimento temporaneo con leguminose e così facendo diamo priorità alle reali necessità delle piante. Il vento della nostra isola che abbonda nella nostra vigna rende il clima asciutto e ci aiuta a ridurre al minimo i trattamenti antiparassitari."
 msgstr ""
 
 #: src/components/PramaDorada.js:68
@@ -306,15 +321,15 @@ msgstr ""
 msgid "Vinificazione <0>raccolta manuale, in rosso con una macerazione sulle bucce di circa sette giorni, lieviti indigeni, affinato in acciaio e in bottiglia. Senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
 msgstr ""
 
-#: src/components/Fria.js:81
-msgid "Vinificazione: <0>macerazione di ventiquattro ore sulle bucce, pressatura soffice, pied de cuve con lieviti indigeni. Senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
+#: src/components/Fria.js:110
+msgid "Vinificazione: <0>Raccolta manuale. macerazione di due o tre giorni sulle bucce, fermentazione spontanea, pressatura soffice. Affinato in acciaio. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 msgstr ""
 
 #: src/components/Familia.js:52
 msgid "Vitigno: <0>Muristellu (Bovale Sardo) e vitigno autoctono a bacca rossa.</0>"
 msgstr ""
 
-#: src/components/Fria.js:55
+#: src/components/Fria.js:58
 msgid "Vitigno: <0>Vermentino 100%</0>"
 msgstr ""
 
@@ -328,4 +343,8 @@ msgstr ""
 
 #: src/components/Familia.js:28
 msgid "Vogliamo lo splendore, il conflitto, il piacere, vogliamo crescere, intorno al tavolo, davanti al calice alimentando l’anima."
+msgstr ""
+
+#: src/components/Fria.js:64
+msgid "Zona di produzione: <0>Scupaggiu (Bortigiadas)</0>"
 msgstr ""
