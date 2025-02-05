@@ -21,57 +21,81 @@ const PramaDorada = () => (
         />
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
-            PRAMA DORADA ISOLA DEI NURAGHI IGT
+            PRAMA DORADA ISOLA DEI NURAGHI IGT BIANCO
           </h2>
           <p className="mt-4">
             <Trans>
-              Quando dai al mondo ciò che hai di buono, lui ti ripaga con una
-              brezza, con un sospiro, con un buon vino. Prama Dorada è il
-              ritrovamento dei vini bianchi di una volta, quando nei filari si
-              mescolavano varietà innestate con marze raccomandate, mai due vini
-              uguali. Prama Dorada è l’assemblaggio delle varietà autoctone
-              sarde che amiamo di più. Una mescita ricca, elegante e sopratutto
-              unica.
+              Prama Dorada è un omaggio alla tradizione dei vini bianchi di un
+              tempo, quando nei vigneti si mescolavano varietà innestate con
+              marze selezionate, dando vita a vini unici e irripetibili. Questo
+              vino è un’armonia delle varietà autoctone sarde che amiamo di più,
+              creando una mescita ricca, elegante e, soprattutto, inimitabile.
             </Trans>
           </p>
           <div className="wine-page__columns">
             <div>
               <p>
                 <Trans>
-                  Vitigno:{" "}
+                  Vitigni:{" "}
                   <span className="text-gray-400">
-                    vitigni autoctoni sardi a bacca bianca.
+                    Vermentino, Moscato e Malvasia.
                   </span>
                 </Trans>
               </p>
               <p>
                 <Trans>
-                  Tipologia di allevamento:
-                  <span className="text-gray-400"> guyot.</span>{" "}
+                  Zona di produzione:
+                  <span className="text-gray-400">
+                    Sessana e Monte Finuiu (Perfugas).
+                  </span>{" "}
+                </Trans>
+              </p>
+              <p>
+                <Trans>
+                  Tipologia di terreno:{" "}
+                  <span className="text-gray-400">Calcareo argilloso.</span>
+                </Trans>
+              </p>
+              <p>
+                <Trans>
+                  Tipologia di allevamento:{" "}
+                  <span className="text-gray-400">Guyot.</span>
                 </Trans>
               </p>
               <p>
                 <Trans>
                   Densità di impianto:{" "}
                   <span className="text-gray-400">
-                    4.000 piante per ettaro.
+                    4.400 piante per ettaro.
                   </span>
                 </Trans>
               </p>
               <p>
                 <Trans>
                   Resa per ettaro:{" "}
-                  <span className="text-gray-400">60/70 quintali.</span>
+                  <span className="text-gray-400">40/50 quintali.</span>
                 </Trans>
               </p>
               <p>
                 <Trans>
-                  Vinificazione{" "}
+                  Trattamenti:{" "}
                   <span className="text-gray-400">
-                    in bianco, macerazione di minimo sette giorni sulle bucce,
-                    pressatura soffice, pied de cuve con lieviti indigeni,
-                    blend, battonage di nove mesi sulle fecce fine, senza
-                    prodotti di sintesi, chiarifiche o filtrazioni.
+                    Rame, zolfo e preparati biologici.
+                  </span>
+                </Trans>
+              </p>
+              <p>
+                <Trans>
+                  Vinificazione:{" "}
+                  <span className="text-gray-400">
+                    La raccolta avviene manualmente, seguita da una delicata
+                    pressatura a piedi nudi e da una macerazione di almeno sette
+                    giorni sulle bucce. Prepariamo un pied de cuve una settimana
+                    prima della vendemmia, che viene inoculato il giorno della
+                    raccolta. La fermentazione dura circa 10 giorni, seguita
+                    dalla fermentazione malo lattica in botti di acacia, dove il
+                    vino riposa per un anno intero. Il vino viene imbottigliato
+                    senza chiarifiche né filtrazioni.
                   </span>
                 </Trans>
               </p>
@@ -82,7 +106,7 @@ const PramaDorada = () => (
                   Colore:{" "}
                   <span className="text-gray-400">
                     {" "}
-                    giallo pieno con lucide nuance di topazio.
+                    Giallo intenso con lucide sfumature di topazio.
                   </span>
                 </Trans>
               </p>
@@ -90,10 +114,9 @@ const PramaDorada = () => (
                 <Trans>
                   Olfatto:{" "}
                   <span className="text-gray-400">
-                    profumi varietali di frutta estiva a polpa bianca senza
-                    forzature esotiche. Sentori che evolvono e premiano durante
-                    la degustazione con garbate note mandorlate, mielose e di
-                    clorofilla in un bouquet di grande finezza.{" "}
+                    I profumi si evolvono e si rivelano durante la degustazione,
+                    con delicate note resinose e di miele che si intrecciano in
+                    un bouquet di grande finezza.{" "}
                   </span>
                 </Trans>
               </p>
@@ -101,9 +124,10 @@ const PramaDorada = () => (
                 <Trans>
                   Gusto:{" "}
                   <span className="text-gray-400">
-                    avvolgente, morbido, caldo che si compensano con leggermente
-                    sapido, armonioso e di buona struttura, lascia un leggero
-                    retrogusto di mandorla.
+                    Avvolgente, morbido e caldo, bilanciato da una piacevole
+                    sapidità. Presenta una buona struttura e una complessità
+                    notevole, lasciando un leggero retrogusto di mandorla e
+                    crema pasticcera all’arancia.
                   </span>
                 </Trans>
               </p>
@@ -111,9 +135,10 @@ const PramaDorada = () => (
                 <Trans>
                   Abbinamenti:{" "}
                   <span className="text-gray-400">
-                    antipasti elaborati della cucina di mare, prosciutto crudo
-                    artigianale, primi piatti sapidi e anche piccanti, formaggi
-                    crosta fiorita ed erborinati.
+                    Con quello che ti ispira o che hai a portata di mano. Noi lo
+                    gustiamo con un po’ di tutto, soprattutto con piatti
+                    speziati della cucina internazionale. lo amiamo in compagnia
+                    di una Moqueca de peixe.
                   </span>
                 </Trans>
               </p>

@@ -8,9 +8,9 @@ import familia from "../assets/wines/familia_etichetta-340x340.png";
 import fria from "../assets/wines/Etichetta-vino-Fria-2016-Definitiva-01-340x340 (1).png";
 import { Link, useParams } from "react-router-dom";
 const Vini = () => {
-    const { lang } = useParams();
+  const { lang } = useParams();
 
-    
+
   const wines = [
     {
       image: pramaDorada,
@@ -32,27 +32,33 @@ const Vini = () => {
       name: "Fria",
       href: `/${lang}/fria`,
     },
+    {
+      image: fria,
+      name: "Maria Tzufia",
+      href: `/${lang}/maria-tzufia`,
+    },
   ];
-    return(
-  <div>
-    <Header
-      classNames="text-white mt-56"
-      heading={t`I NOSTRI VINI`}
-      image={viniImage}
-    />
-    <div className="container flex text-center">
-    <div className="home__wine-links font-mont">
+  return (
+    <div>
+      <Header
+        classNames="text-white mt-56"
+        heading={t`I NOSTRI VINI`}
+        image={viniImage}
+      />
+      <div className="container flex text-center">
+        <div className="home__wine-links font-mont">
           {wines.map((wine) => (
             <Link to={wine.href} className="home__wine-link">
-              <img className="home__wine-link-image"src={wine.image} alt={wine.name} />
+              <img className="home__wine-link-image" src={wine.image} alt={wine.name} />
               <span className="home__wine-link-name font-bold mt-10">
                 {wine.name.toUpperCase()}
               </span>
             </Link>
           ))}
         </div>
+      </div>
     </div>
-  </div>
-)};
+  )
+};
 
 export default Vini;

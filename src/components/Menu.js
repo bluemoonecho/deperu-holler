@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import "../styles/menu.css";
 import { FaBars, FaTimes } from "react-icons/fa";
@@ -89,6 +89,11 @@ function Menu({ isMenuOpen, setIsMenuOpen }) {
         <li className="ml-4">
           <Link to={`/${lang}/prama-dorada`} onClick={closeMenu}>
             <Trans>Prama Dorada</Trans>
+          </Link>
+        </li>
+        <li className="ml-4">
+          <Link to={`/${lang}/maria-tzufia`} onClick={closeMenu}>
+            <Trans>Maria Tzufia</Trans>
           </Link>
         </li>
         <li>

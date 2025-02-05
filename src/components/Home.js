@@ -41,6 +41,11 @@ const Home = () => {
       name: "Fria",
       href: `/${lang}/fria`,
     },
+    {
+      image: fria,
+      name: "Maria Tzufia",
+      href: `/${lang}/maria-tzufia`,
+    },
   ];
 
   return (
@@ -58,7 +63,7 @@ const Home = () => {
         <div className="home__wine-links font-mont">
           {wines.map((wine) => (
             <Link to={wine.href} className="home__wine-link">
-              <img className="home__wine-link-image"src={wine.image} alt={wine.name} />
+              <img className="home__wine-link-image" src={wine.image} alt={wine.name} />
               <span className="home__wine-link-name font-bold mt-10">
                 {wine.name.toUpperCase()}
               </span>

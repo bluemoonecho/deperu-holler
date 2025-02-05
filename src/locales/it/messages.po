@@ -17,21 +17,25 @@ msgstr ""
 msgid "…CRESCERE CON LE NOSTRE VITI."
 msgstr "…CRESCERE CON LE NOSTRE VITI."
 
-#: src/components/PramaDorada.js:111
-msgid "Abbinamenti: <0>antipasti elaborati della cucina di mare, prosciutto crudo artigianale, primi piatti sapidi e anche piccanti, formaggi crosta fiorita ed erborinati.</0>"
-msgstr "Abbinamenti: <0>antipasti elaborati della cucina di mare, prosciutto crudo artigianale, primi piatti sapidi e anche piccanti, formaggi crosta fiorita ed erborinati.</0>"
+#: src/components/PramaDorada.js:135
+msgid "Abbinamenti: <0>Con quello che ti ispira o che hai a portata di mano. Noi lo gustiamo con un po’ di tutto, soprattutto con piatti speziati della cucina internazionale. lo amiamo in compagnia di una Moqueca de peixe.</0>"
+msgstr "Abbinamenti: <0>Con quello che ti ispira o che hai a portata di mano. Noi lo gustiamo con un po’ di tutto, soprattutto con piatti speziati della cucina internazionale. lo amiamo in compagnia di una Moqueca de peixe.</0>"
 
 #: src/components/Fria.js:149
 msgid "Abbinamenti: <0>Ideale con antipasti di mare, minestroni estivi e grigliate di pesce. Tuttavia, il suo posto preferito è senza dubbio sotto l’ombrellone, in riva al mare.</0>"
 msgstr "Abbinamenti: <0>Ideale con antipasti di mare, minestroni estivi e grigliate di pesce. Tuttavia, il suo posto preferito è senza dubbio sotto l’ombrellone, in riva al mare.</0>"
 
-#: src/components/Familia.js:123
-msgid "Abbinamenti: <0>incontri conviviali pomeridiani con salumi e formaggi di media stagionatura, zuppe di pesce e pesci grassi alla brace, carni rosse, zuppe di legumi speziate.</0>"
-msgstr "Abbinamenti: <0>incontri conviviali pomeridiani con salumi e formaggi di media stagionatura, zuppe di pesce e pesci grassi alla brace, carni rosse, zuppe di legumi speziate.</0>"
+#: src/components/Oberaia.js:133
+msgid "Abbinamenti: <0>Ideale con primi piatti complessi della cucina invernale, cacciagione da pelo e formaggi stagionati.</0>"
+msgstr "Abbinamenti: <0>Ideale con primi piatti complessi della cucina invernale, cacciagione da pelo e formaggi stagionati.</0>"
 
-#: src/components/Oberaia.js:111
-msgid "Abbinamenti: <0>primi piatti complessi della cucina invernale, cacciagione da pelo, formaggi stagionati.</0>"
-msgstr "Abbinamenti: <0>primi piatti complessi della cucina invernale, cacciagione da pelo, formaggi stagionati.</0>"
+#: src/components/MariaTzufia.js:148
+msgid "Abbinamenti: <0>Ideale per aperitivi, risotti con crostacei, zuppe e piatti con spezie esotiche.</0>"
+msgstr "Abbinamenti: <0>Ideale per aperitivi, risotti con crostacei, zuppe e piatti con spezie esotiche.</0>"
+
+#: src/components/Familia.js:141
+msgid "Abbinamenti: <0>Perfetto con salumi e formaggi, pesci grassi alla brace, carni rosse, zuppe di legumi alla sarda. Ideale per un ispuntinu.</0>"
+msgstr "Abbinamenti: <0>Perfetto con salumi e formaggi, pesci grassi alla brace, carni rosse, zuppe di legumi alla sarda. Ideale per un ispuntinu.</0>"
 
 #: src/components/Territorio.js:15
 msgid "Al mattino il vento è ancora assopito. Monte Ruiu si specchia nel lago Coghinas e si moltiplica, rosso, maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque."
@@ -45,21 +49,25 @@ msgstr "CARLO DEPERU"
 msgid "Chi siamo"
 msgstr "Chi siamo"
 
+#: src/components/MariaTzufia.js:125
+msgid "Colore: <0> Giallo dorato.</0>"
+msgstr "Colore: <0> Giallo dorato.</0>"
+
+#: src/components/PramaDorada.js:105
+msgid "Colore: <0>Giallo intenso con lucide sfumature di topazio.</0>"
+msgstr "Colore: <0>Giallo intenso con lucide sfumature di topazio.</0>"
+
 #: src/components/Fria.js:123
 msgid "Colore: <0>Giallo paglierino tendente al dorato.</0>"
 msgstr "Colore: <0>Giallo paglierino tendente al dorato.</0>"
 
-#: src/components/PramaDorada.js:81
-msgid "Colore: <0>giallo pieno con lucide nuance di topazio.</0>"
-msgstr "Colore: <0>giallo pieno con lucide nuance di topazio.</0>"
+#: src/components/Familia.js:114
+msgid "Colore: <0>Rosso intenso con riflessi violacei.</0>"
+msgstr "Colore: <0>Rosso intenso con riflessi violacei.</0>"
 
-#: src/components/Oberaia.js:87
-msgid "Colore: <0>rosso intenso con riflessi granati.</0>"
-msgstr "Colore: <0>rosso intenso con riflessi granati.</0>"
-
-#: src/components/Familia.js:96
-msgid "Colore: <0>rosso intenso con riflessi violacei.</0>"
-msgstr "Colore: <0>rosso intenso con riflessi violacei.</0>"
+#: src/components/Oberaia.js:102
+msgid "Colore: <0>Rosso rubino brillante, penetrabile con riflessi granati.</0>"
+msgstr "Colore: <0>Rosso rubino brillante, penetrabile con riflessi granati.</0>"
 
 #: src/components/Fria.js:28
 msgid "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
@@ -73,7 +81,7 @@ msgstr "Con una superficie aziendale di circa 6 ettari possiamo seguire personal
 msgid "Conquista chi ama la semplicità e l'autenticità."
 msgstr "Conquista chi ama la semplicità e l'autenticità."
 
-#: src/components/Menu.js:101
+#: src/components/Menu.js:106
 msgid "Contatti"
 msgstr "Contatti"
 
@@ -81,18 +89,23 @@ msgstr "Contatti"
 msgid "CONTATTI"
 msgstr "CONTATTI"
 
-#: src/components/PramaDorada.js:54
-msgid "Densità di impianto: <0>4.000 piante per ettaro.</0>"
-msgstr "Densità di impianto: <0>4.000 piante per ettaro.</0>"
+#: src/components/MariaTzufia.js:85
+#: src/components/PramaDorada.js:66
+msgid "Densità di impianto: <0>4.400 piante per ettaro.</0>"
+msgstr "Densità di impianto: <0>4.400 piante per ettaro.</0>"
 
 #: src/components/Fria.js:88
 msgid "Densità di impianto: <0>5.600 piante per ettaro.</0>"
 msgstr "Densità di impianto: <0>5.600 piante per ettaro.</0>"
 
-#: src/components/Familia.js:69
-#: src/components/Oberaia.js:61
+#: src/components/Familia.js:78
+#: src/components/Oberaia.js:64
 msgid "Densità di impianto: <0>5.680 piante per ettaro.</0>"
 msgstr "Densità di impianto: <0>5.680 piante per ettaro.</0>"
+
+#: src/components/Oberaia.js:37
+msgid "E a San Giorgio che vince il drago!"
+msgstr "E a San Giorgio che vince il drago!"
 
 #: src/components/Territorio.js:30
 msgid "È il luogo dove le montagne della Gallura perdono quota lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite."
@@ -102,9 +115,9 @@ msgstr "È il luogo dove le montagne della Gallura perdono quota lasciando spazi
 msgid "Familia"
 msgstr "Familia"
 
-#: src/components/Familia.js:35
-msgid "Familia è il vino da bere insieme, mangiando e ridendo, rustico ma dall’anima fine, generoso nei sentori e fiero di rappresentare questa terra, dove il “Muristellu” ha sempre camminato “umpare” assieme al Cannonau."
-msgstr "Familia è il vino da bere insieme, mangiando e ridendo, rustico ma dall’anima fine, generoso nei sentori e fiero di rappresentare questa terra, dove il “Muristellu” ha sempre camminato “umpare” assieme al Cannonau."
+#: src/components/Familia.js:28
+msgid "Familia è il vino da condividere, da gustare mentre si mangia e si ride. È rustico, ma con un’anima fine, generoso nei suoi sentori e fiero rappresentante di questa terra."
+msgstr "Familia è il vino da condividere, da gustare mentre si mangia e si ride. È rustico, ma con un’anima fine, generoso nei suoi sentori e fiero rappresentante di questa terra."
 
 #: src/components/Menu.js:61
 msgid "Filosofia e pratica"
@@ -122,25 +135,29 @@ msgstr "Fria è un Vermentino puro e vero, capace di far emergere sensazioni rar
 msgid "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
 msgstr "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
 
-#: src/components/Menu.js:96
+#: src/components/Menu.js:101
 msgid "Gallery"
 msgstr "Gallery"
 
-#: src/components/PramaDorada.js:101
-msgid "Gusto: <0>avvolgente, morbido, caldo che si compensano con leggermente sapido, armonioso e di buona struttura, lascia un leggero retrogusto di mandorla.</0>"
-msgstr "Gusto: <0>avvolgente, morbido, caldo che si compensano con leggermente sapido, armonioso e di buona struttura, lascia un leggero retrogusto di mandorla.</0>"
+#: src/components/PramaDorada.js:124
+msgid "Gusto: <0>Avvolgente, morbido e caldo, bilanciato da una piacevole sapidità. Presenta una buona struttura e una complessità notevole, lasciando un leggero retrogusto di mandorla e crema pasticcera all’arancia.</0>"
+msgstr "Gusto: <0>Avvolgente, morbido e caldo, bilanciato da una piacevole sapidità. Presenta una buona struttura e una complessità notevole, lasciando un leggero retrogusto di mandorla e crema pasticcera all’arancia.</0>"
 
-#: src/components/Familia.js:113
-msgid "Gusto: <0>calda morbidezza che si equilibra con i suoi tannini giovani ma eleganti. Finale lungo e appagante che rimanda in fase di deglutizione ai riconoscimenti dell’olfatto.</0>"
-msgstr "Gusto: <0>calda morbidezza che si equilibra con i suoi tannini giovani ma eleganti. Finale lungo e appagante che rimanda in fase di deglutizione ai riconoscimenti dell’olfatto.</0>"
+#: src/components/Familia.js:131
+msgid "Gusto: <0>Caldo e corposo, con tannini giovani ed eleganti, di buona acidità. Il finale è lungo e appagante, con richiami ai profumi percepiti al naso.</0>"
+msgstr "Gusto: <0>Caldo e corposo, con tannini giovani ed eleganti, di buona acidità. Il finale è lungo e appagante, con richiami ai profumi percepiti al naso.</0>"
 
 #: src/components/Fria.js:140
 msgid "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 msgstr "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 
-#: src/components/Oberaia.js:103
-msgid "Gusto: <0>pieno, ricco, corposo, tannico al punto giusto.</0>"
-msgstr "Gusto: <0>pieno, ricco, corposo, tannico al punto giusto.</0>"
+#: src/components/MariaTzufia.js:139
+msgid "Gusto: <0>Secco, fresco e sapido, di buona struttura, con un finale mandorlato.</0>"
+msgstr "Gusto: <0>Secco, fresco e sapido, di buona struttura, con un finale mandorlato.</0>"
+
+#: src/components/Oberaia.js:122
+msgid "Gusto: <0>Un sapore ricco e avvolgente, sostenuto da una struttura armoniosa e tannini setosi. La freschezza che lo caratterizza lo rende un vino invitante, perfetto per essere sorseggiato con piacere.</0>"
+msgstr "Gusto: <0>Un sapore ricco e avvolgente, sostenuto da una struttura armoniosa e tannini setosi. La freschezza che lo caratterizza lo rende un vino invitante, perfetto per essere sorseggiato con piacere.</0>"
 
 #: src/components/Menu.js:51
 msgid "Home"
@@ -150,57 +167,73 @@ msgstr "Home"
 msgid "I nostri vini"
 msgstr "I nostri vini"
 
-#: src/components/Home.js:56
-#: src/components/Vini.js:40
+#: src/components/Home.js:61
+#: src/components/Vini.js:45
 msgid "I NOSTRI VINI"
 msgstr "I NOSTRI VINI"
-
-#: src/components/Oberaia.js:33
-msgid "Il 23 Aprile si celebra a Perfugas uno dei santi patroni, San Giorgio Guerriero. Questo vino rosso è un omaggio alle radici, alla cultura, a quelli dell’antica associazione Oberaìa de Santu Jorzi che si dedicano alla buona riuscita dei festeggiamenti. Oberaìa è il nostro vino della festa."
-msgstr "Il 23 Aprile si celebra a Perfugas uno dei santi patroni, San Giorgio Guerriero. Questo vino rosso è un omaggio alle radici, alla cultura, a quelli dell’antica associazione Oberaìa de Santu Jorzi che si dedicano alla buona riuscita dei festeggiamenti. Oberaìa è il nostro vino della festa."
 
 #: src/components/Filosofia.js:48
 msgid "Il nostro vino viene fatto soprattutto in vigna, ma è quando l’uva arriva in cantina e la trasformazione ha inizio che la fantasia e l’esperienza iniziano a divinare cosa diventerà, guardando il colore, gustando la dolcezza e inebriandosi con il profumo del mosto in fermentazione. Il risultato sarà merito della natura e dell’uomo che vigila questa magica trasformazione cercando di interferire il meno possibile nel naturale cammino dell’uva in vino."
 msgstr "Il nostro vino viene fatto soprattutto in vigna, ma è quando l’uva arriva in cantina e la trasformazione ha inizio che la fantasia e l’esperienza iniziano a divinare cosa diventerà, guardando il colore, gustando la dolcezza e inebriandosi con il profumo del mosto in fermentazione. Il risultato sarà merito della natura e dell’uomo che vigila questa magica trasformazione cercando di interferire il meno possibile nel naturale cammino dell’uva in vino."
 
+#: src/components/MariaTzufia.js:37
+msgid "Il nostro vino, Maria Tzufia, racchiude il profumo del Moscato e la freschezza del Vermentino. Nella sua prima annata, si presentava in modo \"spettinato\", con una leggera torbidità, da cui abbiamo tratto ispirazione per il suo nome. Questo vino ci ricorda le meraviglie semplici e uniche della natura, che seguono il proprio ordine. Oggi, Maria Tzufia si è evoluto: da bambina spettinata è diventato un vino raffinato e sorprendente . Non è dolce, ma nel suo cuore sprigiona la gioia della primavera in arrivo, è un vino secco, regalando una freschezza e una mineralità inaspettate."
+msgstr "Il nostro vino, Maria Tzufia, racchiude il profumo del Moscato e la freschezza del Vermentino. Nella sua prima annata, si presentava in modo \"spettinato\", con una leggera torbidità, da cui abbiamo tratto ispirazione per il suo nome. Questo vino ci ricorda le meraviglie semplici e uniche della natura, che seguono il proprio ordine. Oggi, Maria Tzufia si è evoluto: da bambina spettinata è diventato un vino raffinato e sorprendente . Non è dolce, ma nel suo cuore sprigiona la gioia della primavera in arrivo, è un vino secco, regalando una freschezza e una mineralità inaspettate."
+
 #: src/components/Menu.js:66
 msgid "Il teritorio"
 msgstr "Il teritorio"
+
+#: src/components/MariaTzufia.js:28
+msgid "In Sardegna, quando una bambina è spettinata o in disordine, si dice che \"sembra una Maria Tzufia\". Nei racconti popolari, Maria Tzufia è rappresentata come una giovane che vive in un contesto rurale, caratterizzata da una vita semplice e genuina, ma anche da una certa incoscienza riguardo al suo aspetto esteriore."
+msgstr "In Sardegna, quando una bambina è spettinata o in disordine, si dice che \"sembra una Maria Tzufia\". Nei racconti popolari, Maria Tzufia è rappresentata come una giovane che vive in un contesto rurale, caratterizzata da una vita semplice e genuina, ma anche da una certa incoscienza riguardo al suo aspetto esteriore."
 
 #: src/components/ChiSiamo.js:55
 msgid "In un mondo globalizzato in cui la vita è frenetica, abbiamo ritagliato un piccolo angolo di paradiso e qui cerchiamo di fare al meglio ciò che amiamo."
 msgstr "In un mondo globalizzato in cui la vita è frenetica, abbiamo ritagliato un piccolo angolo di paradiso e qui cerchiamo di fare al meglio ciò che amiamo."
 
-#: src/components/Familia.js:43
-msgid "Infatti i due vitigni per questioni produttive vengono allevati nello stesso vigneto per avere una costanza produttiva. La percentuale tra i due vitigni varia in base all’annata."
-msgstr "Infatti i due vitigni per questioni produttive vengono allevati nello stesso vigneto per avere una costanza produttiva. La percentuale tra i due vitigni varia in base all’annata."
-
 #: src/components/Fria.js:37
 msgid "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
 msgstr "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
+
+#: src/components/Oberaia.js:27
+msgid "La vite è una meraviglia della natura, simbolo della simbiosi tra terra e ambiente, celebrazione delle radici e della vita che si evolve. Sprofondare nella terra senza morire, crescere verso il cielo e dare frutti che inebriano e raccontano. Questo vino rosso è un omaggio alle nostre radici e alla cultura, dedicato a tutti coloro che trasmettono passione e raccontano storie."
+msgstr "La vite è una meraviglia della natura, simbolo della simbiosi tra terra e ambiente, celebrazione delle radici e della vita che si evolve. Sprofondare nella terra senza morire, crescere verso il cielo e dare frutti che inebriano e raccontano. Questo vino rosso è un omaggio alle nostre radici e alla cultura, dedicato a tutti coloro che trasmettono passione e raccontano storie."
+
+#: src/components/Menu.js:96
+msgid "Maria Tzufia"
+msgstr "Maria Tzufia"
 
 #: src/components/Menu.js:86
 msgid "Oberaìa"
 msgstr "Oberaìa"
 
-#: src/components/Familia.js:104
-msgid "Olfatto: <0>al naso spiccano sentori di frutti rossi uniti a delicate note speziate e balsamiche. </0>"
-msgstr "Olfatto: <0>al naso spiccano sentori di frutti rossi uniti a delicate note speziate e balsamiche. </0>"
+#: src/components/Oberaia.js:40
+msgid "Oberaìa è il nostro Cannonau delle feste."
+msgstr "Oberaìa è il nostro Cannonau delle feste."
+
+#: src/components/Oberaia.js:110
+msgid "Olfatto: <0>Al naso emergono profumi di frutti di bosco – mirtilli e lamponi – mescolati con note di amarena dolce. Si evolve con sentori di tabacco e cioccolato. Al finale si aggiungono sfumature speziate che rendono l’aroma ancora più intrigante.</0>"
+msgstr "Olfatto: <0>Al naso emergono profumi di frutti di bosco – mirtilli e lamponi – mescolati con note di amarena dolce. Si evolve con sentori di tabacco e cioccolato. Al finale si aggiungono sfumature speziate che rendono l’aroma ancora più intrigante.</0>"
+
+#: src/components/Familia.js:122
+msgid "Olfatto: <0>Al naso si percepiscono sentori di frutti rossi, accompagnati da delicate note speziate e balsamiche. </0>"
+msgstr "Olfatto: <0>Al naso si percepiscono sentori di frutti rossi, accompagnati da delicate note speziate e balsamiche. </0>"
 
 #: src/components/Fria.js:132
 msgid "Olfatto: <0>Ampio con note di frutta a polpa bianca, note resinose. </0>"
 msgstr "Olfatto: <0>Ampio con note di frutta a polpa bianca, note resinose. </0>"
 
-#: src/components/PramaDorada.js:90
-msgid "Olfatto: <0>profumi varietali di frutta estiva a polpa bianca senza forzature esotiche. Sentori che evolvono e premiano durante la degustazione con garbate note mandorlate, mielose e di clorofilla in un bouquet di grande finezza. </0>"
-msgstr "Olfatto: <0>profumi varietali di frutta estiva a polpa bianca senza forzature esotiche. Sentori che evolvono e premiano durante la degustazione con garbate note mandorlate, mielose e di clorofilla in un bouquet di grande finezza. </0>"
+#: src/components/MariaTzufia.js:130
+msgid "Olfatto: <0>Ampio, con note di frutta a polpa bianca e agrumi, fiori d'arancio e crema pasticcera. </0>"
+msgstr "Olfatto: <0>Ampio, con note di frutta a polpa bianca e agrumi, fiori d'arancio e crema pasticcera. </0>"
 
-#: src/components/Oberaia.js:95
-msgid "Olfatto: <0>sentori di frutti di bosco e amarena, note speziate.</0>"
-msgstr "Olfatto: <0>sentori di frutti di bosco e amarena, note speziate.</0>"
+#: src/components/PramaDorada.js:114
+msgid "Olfatto: <0>I profumi si evolvono e si rivelano durante la degustazione, con delicate note resinose e di miele che si intrecciano in un bouquet di grande finezza. </0>"
+msgstr "Olfatto: <0>I profumi si evolvono e si rivelano durante la degustazione, con delicate note resinose e di miele che si intrecciano in un bouquet di grande finezza. </0>"
 
 #: src/components/Filosofia.js:14
-#: src/components/Home.js:76
+#: src/components/Home.js:81
 msgid "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
 msgstr "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
 
@@ -208,7 +241,7 @@ msgstr "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, la
 msgid "Per ora abbiamo scelto di non avere certificazioni, ma il nostro lavoro è profondamente naturale e biologico col massimo rispetto delle piante, dell’ambiente e della persona."
 msgstr "Per ora abbiamo scelto di non avere certificazioni, ma il nostro lavoro è profondamente naturale e biologico col massimo rispetto delle piante, dell’ambiente e della persona."
 
-#: src/components/Home.js:83
+#: src/components/Home.js:88
 msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
 msgstr "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
 
@@ -220,24 +253,28 @@ msgstr "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e
 msgid "Prama Dorada"
 msgstr "Prama Dorada"
 
-#: src/components/Oberaia.js:27
-msgid "Quale grande privilegio della vite! Simbiosi profonda tra terra e pianta, celebrazione delle radice e della vita."
-msgstr "Quale grande privilegio della vite! Simbiosi profonda tra terra e pianta, celebrazione delle radice e della vita."
-
 #: src/components/PramaDorada.js:27
-msgid "Quando dai al mondo ciò che hai di buono, lui ti ripaga con una brezza, con un sospiro, con un buon vino. Prama Dorada è il ritrovamento dei vini bianchi di una volta, quando nei filari si mescolavano varietà innestate con marze raccomandate, mai due vini uguali. Prama Dorada è l’assemblaggio delle varietà autoctone sarde che amiamo di più. Una mescita ricca, elegante e sopratutto unica."
-msgstr "Quando dai al mondo ciò che hai di buono, lui ti ripaga con una brezza, con un sospiro, con un buon vino. Prama Dorada è il ritrovamento dei vini bianchi di una volta, quando nei filari si mescolavano varietà innestate con marze raccomandate, mai due vini uguali. Prama Dorada è l’assemblaggio delle varietà autoctone sarde che amiamo di più. Una mescita ricca, elegante e sopratutto unica."
+msgid "Prama Dorada è un omaggio alla tradizione dei vini bianchi di un tempo, quando nei vigneti si mescolavano varietà innestate con marze selezionate, dando vita a vini unici e irripetibili. Questo vino è un’armonia delle varietà autoctone sarde che amiamo di più, creando una mescita ricca, elegante e, soprattutto, inimitabile."
+msgstr "Prama Dorada è un omaggio alla tradizione dei vini bianchi di un tempo, quando nei vigneti si mescolavano varietà innestate con marze selezionate, dando vita a vini unici e irripetibili. Questo vino è un’armonia delle varietà autoctone sarde che amiamo di più, creando una mescita ricca, elegante e, soprattutto, inimitabile."
 
-#: src/components/Oberaia.js:69
-msgid "Resa per ettaro: <0>35 quintali.</0>"
-msgstr "Resa per ettaro: <0>35 quintali.</0>"
+#: src/components/Familia.js:35
+msgid "Questo vino nasce dall’unione di tre vitigni rossi sardi, storicamente coltivati insieme per garantire una costanza produttiva. In passato, il vino era considerato un alimento essenziale. Le percentuali dei vitigni variano di anno in anno, poiché non esiste un protocollo fisso: il blend è creato cercando l’equilibrio perfetto tra freschezza, robustezza ed eleganza."
+msgstr "Questo vino nasce dall’unione di tre vitigni rossi sardi, storicamente coltivati insieme per garantire una costanza produttiva. In passato, il vino era considerato un alimento essenziale. Le percentuali dei vitigni variano di anno in anno, poiché non esiste un protocollo fisso: il blend è creato cercando l’equilibrio perfetto tra freschezza, robustezza ed eleganza."
 
-#: src/components/Familia.js:77
+#: src/components/PramaDorada.js:74
+msgid "Resa per ettaro: <0>40/50 quintali.</0>"
+msgstr "Resa per ettaro: <0>40/50 quintali.</0>"
+
+#: src/components/MariaTzufia.js:93
+msgid "Resa per ettaro: <0>50 quintali.</0>"
+msgstr "Resa per ettaro: <0>50 quintali.</0>"
+
+#: src/components/Familia.js:86
+#: src/components/Oberaia.js:72
 msgid "Resa per ettaro: <0>55 quintali.</0>"
 msgstr "Resa per ettaro: <0>55 quintali.</0>"
 
 #: src/components/Fria.js:96
-#: src/components/PramaDorada.js:62
 msgid "Resa per ettaro: <0>60/70 quintali.</0>"
 msgstr "Resa per ettaro: <0>60/70 quintali.</0>"
 
@@ -245,7 +282,7 @@ msgstr "Resa per ettaro: <0>60/70 quintali.</0>"
 msgid "SIAMO FIGLI DEL VENTO"
 msgstr "SIAMO FIGLI DEL VENTO"
 
-#: src/components/Home.js:73
+#: src/components/Home.js:78
 msgid "Siamo figli del vento."
 msgstr "Siamo figli del vento."
 
@@ -253,7 +290,7 @@ msgstr "Siamo figli del vento."
 msgid "SIAMO FIGLI DEL VENTO."
 msgstr "SIAMO FIGLI DEL VENTO."
 
-#: src/components/Home.js:70
+#: src/components/Home.js:75
 msgid "Siamo figli della nostra cultura, dei nostri valori."
 msgstr "Siamo figli della nostra cultura, dei nostri valori."
 
@@ -277,29 +314,46 @@ msgstr "Sono Tatiana Holler, brasiliana di origine tedesca, viaggiatrice, laurea
 msgid "TATIANA HOLLER"
 msgstr "TATIANA HOLLER"
 
-#: src/components/PramaDorada.js:48
-msgid "Tipologia di allevamento:<0> guyot.</0>"
-msgstr "Tipologia di allevamento:<0> guyot.</0>"
+#: src/components/Oberaia.js:56
+msgid "Tipologia di allevamento: <0>Alberello e cordone speronato.</0>"
+msgstr "Tipologia di allevamento: <0>Alberello e cordone speronato.</0>"
+
+#: src/components/Familia.js:70
+msgid "Tipologia di allevamento: <0>Guyot, alberello e cordone speronato.</0>"
+msgstr "Tipologia di allevamento: <0>Guyot, alberello e cordone speronato.</0>"
+
+#: src/components/PramaDorada.js:60
+msgid "Tipologia di allevamento: <0>Guyot.</0>"
+msgstr "Tipologia di allevamento: <0>Guyot.</0>"
 
 #: src/components/Fria.js:82
+#: src/components/MariaTzufia.js:79
 msgid "Tipologia di allevamento:<0> Guyot.</0>"
 msgstr "Tipologia di allevamento:<0> Guyot.</0>"
 
-#: src/components/Oberaia.js:52
-msgid "Tipologia di allevamento:<0>alberello e cordone speronato.</0>"
-msgstr "Tipologia di allevamento:<0>alberello e cordone speronato.</0>"
-
-#: src/components/Familia.js:60
-msgid "Tipologia di allevamento:<0>Cordone speronato.</0>"
-msgstr "Tipologia di allevamento:<0>Cordone speronato.</0>"
+#: src/components/Familia.js:64
+#: src/components/PramaDorada.js:54
+msgid "Tipologia di terreno: <0>Calcareo argilloso.</0>"
+msgstr "Tipologia di terreno: <0>Calcareo argilloso.</0>"
 
 #: src/components/Fria.js:73
 msgid "Tipologia di terreno:<0>Calcareo, argilloso. disfacimento granitico. scisti</0>"
 msgstr "Tipologia di terreno:<0>Calcareo, argilloso. disfacimento granitico. scisti</0>"
 
+#: src/components/MariaTzufia.js:70
+msgid "Tipologia di terreno:<0>Calcareo, argilloso.</0>"
+msgstr "Tipologia di terreno:<0>Calcareo, argilloso.</0>"
+
 #: src/components/Territorio.js:9
 msgid "TRA GALLURA ED ANGLONA"
 msgstr "TRA GALLURA ED ANGLONA"
+
+#: src/components/Familia.js:92
+#: src/components/MariaTzufia.js:99
+#: src/components/Oberaia.js:78
+#: src/components/PramaDorada.js:80
+msgid "Trattamenti: <0>Rame, zolfo e preparati biologici.</0>"
+msgstr "Trattamenti: <0>Rame, zolfo e preparati biologici.</0>"
 
 #: src/components/Fria.js:102
 msgid "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
@@ -309,42 +363,59 @@ msgstr "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
 msgid "Utilizziamo l’irrigazione solo se strettamente necessaria, non usiamo erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di tecniche alternative come l’inerbimento temporaneo con leguminose e così facendo diamo priorità alle reali necessità delle piante. Il vento della nostra isola che abbonda nella nostra vigna rende il clima asciutto e ci aiuta a ridurre al minimo i trattamenti antiparassitari."
 msgstr "Utilizziamo l’irrigazione solo se strettamente necessaria, non usiamo erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di tecniche alternative come l’inerbimento temporaneo con leguminose e così facendo diamo priorità alle reali necessità delle piante. Il vento della nostra isola che abbonda nella nostra vigna rende il clima asciutto e ci aiuta a ridurre al minimo i trattamenti antiparassitari."
 
-#: src/components/PramaDorada.js:68
-msgid "Vinificazione <0>in bianco, macerazione di minimo sette giorni sulle bucce, pressatura soffice, pied de cuve con lieviti indigeni, blend, battonage di nove mesi sulle fecce fine, senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
-msgstr "Vinificazione <0>in bianco, macerazione di minimo sette giorni sulle bucce, pressatura soffice, pied de cuve con lieviti indigeni, blend, battonage di nove mesi sulle fecce fine, senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
+#: src/components/PramaDorada.js:88
+msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una delicata pressatura a piedi nudi e da una macerazione di almeno sette giorni sulle bucce. Prepariamo un pied de cuve una settimana prima della vendemmia, che viene inoculato il giorno della raccolta. La fermentazione dura circa 10 giorni, seguita dalla fermentazione malo lattica in botti di acacia, dove il vino riposa per un anno intero. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
+msgstr "Vinificazione: <0>La raccolta avviene manualmente, seguita da una delicata pressatura a piedi nudi e da una macerazione di almeno sette giorni sulle bucce. Prepariamo un pied de cuve una settimana prima della vendemmia, che viene inoculato il giorno della raccolta. La fermentazione dura circa 10 giorni, seguita dalla fermentazione malo lattica in botti di acacia, dove il vino riposa per un anno intero. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 
-#: src/components/Oberaia.js:75
-msgid "Vinificazione <0>in rosso con macerazione sulle bucce di venti giorni, lieviti indigeni, affinamento in botti di rovere per dodici mesi sulle fecce ed ulteriori nove mesi in bottiglia.</0>"
-msgstr "Vinificazione <0>in rosso con macerazione sulle bucce di venti giorni, lieviti indigeni, affinamento in botti di rovere per dodici mesi sulle fecce ed ulteriori nove mesi in bottiglia.</0>"
+#: src/components/Familia.js:100
+msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una macerazione sulle bucce di circa sette giorni. La fermentazione è spontanea, l’affinamento avviene in acciaio e legno. Il vino viene imbottigliato senza chiarifiche né filtrazioni, per preservarne l’autenticità.</0>"
+msgstr "Vinificazione: <0>La raccolta avviene manualmente, seguita da una macerazione sulle bucce di circa sette giorni. La fermentazione è spontanea, l’affinamento avviene in acciaio e legno. Il vino viene imbottigliato senza chiarifiche né filtrazioni, per preservarne l’autenticità.</0>"
 
-#: src/components/Familia.js:83
-msgid "Vinificazione <0>raccolta manuale, in rosso con una macerazione sulle bucce di circa sette giorni, lieviti indigeni, affinato in acciaio e in bottiglia. Senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
-msgstr "Vinificazione <0>raccolta manuale, in rosso con una macerazione sulle bucce di circa sette giorni, lieviti indigeni, affinato in acciaio e in bottiglia. Senza prodotti di sintesi, chiarifiche o filtrazioni.</0>"
+#: src/components/Oberaia.js:86
+msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una macerazione sulle bucce di circa venti giorni in tini aperti, senza controllo della temperatura.Fermentazione espontanea, affinamento in botti di rovere per dodici mesi, con ulteriori nove mesi in bottiglia. Il vino viene imbottigliato senza chiarifiche né filtrazioni, per preservarne l'autenticità.</0>"
+msgstr "Vinificazione: <0>La raccolta avviene manualmente, seguita da una macerazione sulle bucce di circa venti giorni in tini aperti, senza controllo della temperatura.Fermentazione espontanea, affinamento in botti di rovere per dodici mesi, con ulteriori nove mesi in bottiglia. Il vino viene imbottigliato senza chiarifiche né filtrazioni, per preservarne l'autenticità.</0>"
+
+#: src/components/MariaTzufia.js:107
+msgid "Vinificazione: <0>La raccolta avviene manualmente. Le due varietà di uve vengono macerate separatamente: quella del Vermentino per un periodo più breve, mentre il Moscato resta a contatto con le bucce più a lungo per estrarre tutto il suo profumo e il suo colore. Successivamente, i mosti vengono assemblati per raggiungere un equilibrio tra mineralità, freschezza e corpo. La pressatura è soffice e la fermentazione è spontanea. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
+msgstr "Vinificazione: <0>La raccolta avviene manualmente. Le due varietà di uve vengono macerate separatamente: quella del Vermentino per un periodo più breve, mentre il Moscato resta a contatto con le bucce più a lungo per estrarre tutto il suo profumo e il suo colore. Successivamente, i mosti vengono assemblati per raggiungere un equilibrio tra mineralità, freschezza e corpo. La pressatura è soffice e la fermentazione è spontanea. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 
 #: src/components/Fria.js:110
 msgid "Vinificazione: <0>Raccolta manuale. macerazione di due o tre giorni sulle bucce, fermentazione spontanea, pressatura soffice. Affinato in acciaio. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 msgstr "Vinificazione: <0>Raccolta manuale. macerazione di due o tre giorni sulle bucce, fermentazione spontanea, pressatura soffice. Affinato in acciaio. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 
-#: src/components/Familia.js:52
-msgid "Vitigno: <0>Muristellu (Bovale Sardo) e vitigno autoctono a bacca rossa.</0>"
-msgstr "Vitigno: <0>Muristellu (Bovale Sardo) e vitigno autoctono a bacca rossa.</0>"
+#: src/components/MariaTzufia.js:53
+msgid "Vitigni: <0>95% Moscato giallo, 5% Vermentino</0>"
+msgstr "Vitigni: <0>95% Moscato giallo, 5% Vermentino</0>"
+
+#: src/components/Oberaia.js:45
+msgid "Vitigni: <0>Cannonau.</0>"
+msgstr "Vitigni: <0>Cannonau.</0>"
+
+#: src/components/Familia.js:47
+msgid "Vitigni: <0>Muristellu (Bovale Sardo), Caricajola e Cannonau.</0>"
+msgstr "Vitigni: <0>Muristellu (Bovale Sardo), Caricajola e Cannonau.</0>"
+
+#: src/components/PramaDorada.js:38
+msgid "Vitigni: <0>Vermentino, Moscato e Malvasia.</0>"
+msgstr "Vitigni: <0>Vermentino, Moscato e Malvasia.</0>"
 
 #: src/components/Fria.js:58
 msgid "Vitigno: <0>Vermentino 100%</0>"
 msgstr "Vitigno: <0>Vermentino 100%</0>"
 
-#: src/components/PramaDorada.js:40
-msgid "Vitigno: <0>vitigni autoctoni sardi a bacca bianca.</0>"
-msgstr "Vitigno: <0>vitigni autoctoni sardi a bacca bianca.</0>"
+#: src/components/MariaTzufia.js:61
+msgid "Zona di produzione: <0>Monte Finuiu e Sessana (Perfugas)</0>"
+msgstr "Zona di produzione: <0>Monte Finuiu e Sessana (Perfugas)</0>"
 
-#: src/components/Oberaia.js:44
-msgid "Vitigno: <0>vitigno autoctono a bacca rossa, Cabernet Sauvignon.</0>"
-msgstr "Vitigno: <0>vitigno autoctono a bacca rossa, Cabernet Sauvignon.</0>"
-
-#: src/components/Familia.js:28
-msgid "Vogliamo lo splendore, il conflitto, il piacere, vogliamo crescere, intorno al tavolo, davanti al calice alimentando l’anima."
-msgstr "Vogliamo lo splendore, il conflitto, il piacere, vogliamo crescere, intorno al tavolo, davanti al calice alimentando l’anima."
+#: src/components/Familia.js:55
+msgid "Zona di produzione: <0>Scupaggiu (Bortigiadas) e Monte Finuiu (Perfugas).</0>"
+msgstr "Zona di produzione: <0>Scupaggiu (Bortigiadas) e Monte Finuiu (Perfugas).</0>"
 
 #: src/components/Fria.js:64
+#: src/components/Oberaia.js:50
 msgid "Zona di produzione: <0>Scupaggiu (Bortigiadas)</0>"
 msgstr "Zona di produzione: <0>Scupaggiu (Bortigiadas)</0>"
+
+#: src/components/PramaDorada.js:46
+msgid "Zona di produzione:<0>Sessana e Monte Finuiu (Perfugas).</0>"
+msgstr "Zona di produzione:<0>Sessana e Monte Finuiu (Perfugas).</0>"

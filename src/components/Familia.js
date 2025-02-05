@@ -26,43 +26,52 @@ const Familia = () => (
           </h2>
           <p className="mt-4">
             <Trans>
-              Vogliamo lo splendore, il conflitto, il piacere, vogliamo
-              crescere, intorno al tavolo, davanti al calice alimentando
-              l’anima.
+              Familia è il vino da condividere, da gustare mentre si mangia e si
+              ride. È rustico, ma con un’anima fine, generoso nei suoi sentori e
+              fiero rappresentante di questa terra.
             </Trans>
           </p>
           <p className="mt-4">
             <Trans>
-              Familia è il vino da bere insieme, mangiando e ridendo, rustico ma
-              dall’anima fine, generoso nei sentori e fiero di rappresentare
-              questa terra, dove il “Muristellu” ha sempre camminato “umpare”
-              assieme al Cannonau.
-            </Trans>
-          </p>
-          <p className="mt-4">
-            <Trans>
-              Infatti i due vitigni per questioni produttive vengono allevati
-              nello stesso vigneto per avere una costanza produttiva. La
-              percentuale tra i due vitigni varia in base all’annata.
+              Questo vino nasce dall’unione di tre vitigni rossi sardi,
+              storicamente coltivati insieme per garantire una costanza
+              produttiva. In passato, il vino era considerato un alimento
+              essenziale. Le percentuali dei vitigni variano di anno in anno,
+              poiché non esiste un protocollo fisso: il blend è creato cercando
+              l’equilibrio perfetto tra freschezza, robustezza ed eleganza.
             </Trans>
           </p>
           <div className="wine-page__columns">
             <div>
               <p>
                 <Trans>
-                  Vitigno:{" "}
+                  Vitigni:{" "}
                   <span className="text-gray-400">
-                    Muristellu (Bovale Sardo) e vitigno autoctono a bacca rossa.
+                    Muristellu (Bovale Sardo), Caricajola e Cannonau.
                   </span>
                 </Trans>
               </p>
               <p>
                 <Trans>
-                  Tipologia di allevamento:
+                  Zona di produzione:{" "}
                   <span className="text-gray-400">
                     {" "}
-                    Cordone speronato.
-                  </span>{" "}
+                    Scupaggiu (Bortigiadas) e Monte Finuiu (Perfugas).
+                  </span>
+                </Trans>
+              </p>
+              <p>
+                <Trans>
+                  Tipologia di terreno:{" "}
+                  <span className="text-gray-400">Calcareo argilloso.</span>
+                </Trans>
+              </p>
+              <p>
+                <Trans>
+                  Tipologia di allevamento:{" "}
+                  <span className="text-gray-400">
+                    Guyot, alberello e cordone speronato.
+                  </span>
                 </Trans>
               </p>
               <p>
@@ -81,12 +90,21 @@ const Familia = () => (
               </p>
               <p>
                 <Trans>
-                  Vinificazione{" "}
+                  Trattamenti:{" "}
                   <span className="text-gray-400">
-                    raccolta manuale, in rosso con una macerazione sulle bucce
-                    di circa sette giorni, lieviti indigeni, affinato in acciaio
-                    e in bottiglia. Senza prodotti di sintesi, chiarifiche o
-                    filtrazioni.
+                    Rame, zolfo e preparati biologici.
+                  </span>
+                </Trans>
+              </p>
+              <p>
+                <Trans>
+                  Vinificazione:{" "}
+                  <span className="text-gray-400">
+                    La raccolta avviene manualmente, seguita da una macerazione
+                    sulle bucce di circa sette giorni. La fermentazione è
+                    spontanea, l’affinamento avviene in acciaio e legno. Il vino
+                    viene imbottigliato senza chiarifiche né filtrazioni, per
+                    preservarne l’autenticità.
                   </span>
                 </Trans>
               </p>
@@ -96,7 +114,7 @@ const Familia = () => (
                 <Trans>
                   Colore:{" "}
                   <span className="text-gray-400">
-                    rosso intenso con riflessi violacei.
+                    Rosso intenso con riflessi violacei.
                   </span>
                 </Trans>
               </p>
@@ -104,8 +122,8 @@ const Familia = () => (
                 <Trans>
                   Olfatto:{" "}
                   <span className="text-gray-400">
-                    al naso spiccano sentori di frutti rossi uniti a delicate
-                    note speziate e balsamiche.{" "}
+                    Al naso si percepiscono sentori di frutti rossi,
+                    accompagnati da delicate note speziate e balsamiche.{" "}
                   </span>
                 </Trans>
               </p>
@@ -113,9 +131,9 @@ const Familia = () => (
                 <Trans>
                   Gusto:{" "}
                   <span className="text-gray-400">
-                    calda morbidezza che si equilibra con i suoi tannini giovani
-                    ma eleganti. Finale lungo e appagante che rimanda in fase di
-                    deglutizione ai riconoscimenti dell’olfatto.
+                    Caldo e corposo, con tannini giovani ed eleganti, di buona
+                    acidità. Il finale è lungo e appagante, con richiami ai
+                    profumi percepiti al naso.
                   </span>
                 </Trans>
               </p>
@@ -123,9 +141,9 @@ const Familia = () => (
                 <Trans>
                   Abbinamenti:{" "}
                   <span className="text-gray-400">
-                    incontri conviviali pomeridiani con salumi e formaggi di
-                    media stagionatura, zuppe di pesce e pesci grassi alla
-                    brace, carni rosse, zuppe di legumi speziate.
+                    Perfetto con salumi e formaggi, pesci grassi alla brace,
+                    carni rosse, zuppe di legumi alla sarda. Ideale per un
+                    ispuntinu.
                   </span>
                 </Trans>
               </p>
