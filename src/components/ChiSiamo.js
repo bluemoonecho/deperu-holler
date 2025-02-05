@@ -22,17 +22,13 @@ const ChiSiamo = () => (
         </h3>
         <p>
           <Trans>
-            Sono Carlo Deperu, sardo, viticoltore ed enologo. Mi sono laureato
-            all’Università degli studi di Milano nella Facoltà di Scienze e
-            Tecnologie Agrarie nel corso di Viticoltura ed Enologia. Nella vita
-            e con le vite (scusate il gioco di parole) non si smette mai di
-            imparare, dopo aver fatto diverse esperienze ed approfondito le
-            conoscenze accademiche in tante aziende qualcosa mi mancava: tornare
-            a casa e “fare il mio”. Nel 2007 ho impiantato i primi quattro
-            ettari di vigna e quello che prima era un sogno oggi è diventato
-            tanto lavoro e tanta gioia. Curo in prima persona la vigna e il
-            lavoro di cantina, nel tempo libero mi dedico alla musica, l’altra
-            mia grande passione.
+            Sardo, laureato all'Università degli Studi di Milano nella Facoltà
+            di Scienze e Tecnologie Agrarie, nel corso di Viticoltura ed
+            Enologia. Nella vita e con le vite non si smette mai di imparare;
+            dopo aver accumulato diverse esperienze, è tornato a casa per "fare
+            il suo". Nel 2007 ha impiantato i primi quattro ettari di vigna e
+            quello che prima era un sogno è oggi molto lavoro e grande gioia. Si
+            occupa personalmente della vigna e del lavoro in cantina.
           </Trans>
         </p>
       </div>
@@ -42,21 +38,53 @@ const ChiSiamo = () => (
         </h3>
         <p>
           <Trans>
-            Sono Tatiana Holler, brasiliana di origine tedesca, viaggiatrice,
-            laureata in Marketing e Comunicazione all’Università ESPM di San
-            Paolo-Brasile. Ho conosciuto Carlo a Milano, dove lavoravo nel
-            settore pubblicitario. Mi sono lasciata contagiare dal suo amore per
-            la Sardegna, per il cibo e per il vino. Insieme abbiamo deciso di
-            mettere radici in questa terra unica. Gestisco la parte
-            amministrativa e il marketing aziendale.
+            Brasiliana di origine tedesca, laureata in Marketing e
+            Comunicazione. Dopo aver completato gli studi in Brasile, parte per
+            un anno sabbatico nel "vecchio mondo". Qui si innamora della nuova
+            vita e conosce Carlo, lasciandosi contagiare dal suo amore per la
+            Sardegna, per il cibo e per il vino. Insieme hanno deciso di mettere
+            radici in questa terra unica. Tatiana gestisce le vendite,
+            l’amministrazione e il marketing dell’azienda.
           </Trans>
         </p>
         <p className="mt-10">
-          <Trans>
-            In un mondo globalizzato in cui la vita è frenetica, abbiamo
-            ritagliato un piccolo angolo di paradiso e qui cerchiamo di fare al
-            meglio ciò che amiamo.
-          </Trans>
+          Eravamo barbatella,
+          <br />
+          Adesso siamo uva,
+          <br />
+          Siamo Vino
+          <br />
+          Ci coltiviamo in quest’isola,
+          <br />
+          Lontano da tutto,
+          <br />
+          avvicinandoci a noi stessi.
+          <br />
+          Guardando il lago,
+          <br />
+          le viti crescono,
+          <br />
+          la vita segue.
+          <br />
+          Dall’uva al vino c’è tanta strada
+          <br />
+          Più che del calice alla bocca.
+          <br />
+          Lavoro e sorpresa,
+          <br />
+          Apprendistato e divertimento
+          <br />
+          Vogliamo il brillo, la risata,
+          <br />
+          il conflitto, il piacere.
+          <br />
+          Vogliamo crescere,
+          <br />
+          intorno al tavolo
+          <br />
+          davantial calice,
+          <br />
+          nutrendo l’anima.
         </p>
       </div>
     </div>

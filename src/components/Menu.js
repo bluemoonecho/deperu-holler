@@ -96,11 +96,16 @@ function Menu({ isMenuOpen, setIsMenuOpen }) {
             <Trans>Maria Tzufia</Trans>
           </Link>
         </li>
-        <li>
+        <li className="ml-4">
+          <Link to={`/${lang}/beijo`} onClick={closeMenu}>
+            <Trans>Beijo</Trans>
+          </Link>
+        </li>
+        {/* <li>
           <Link to={`/${lang}/gallery`} onClick={closeMenu}>
             <Trans>Gallery</Trans>
           </Link>
-        </li>
+        </li> */}
         <li>
           <Link to={`/${lang}/contatti`} onClick={closeMenu}>
             <Trans>Contatti</Trans>

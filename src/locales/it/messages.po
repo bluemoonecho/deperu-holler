@@ -21,6 +21,10 @@ msgstr "…CRESCERE CON LE NOSTRE VITI."
 msgid "Abbinamenti: <0>Con quello che ti ispira o che hai a portata di mano. Noi lo gustiamo con un po’ di tutto, soprattutto con piatti speziati della cucina internazionale. lo amiamo in compagnia di una Moqueca de peixe.</0>"
 msgstr "Abbinamenti: <0>Con quello che ti ispira o che hai a portata di mano. Noi lo gustiamo con un po’ di tutto, soprattutto con piatti speziati della cucina internazionale. lo amiamo in compagnia di una Moqueca de peixe.</0>"
 
+#: src/components/Beijo.js:140
+msgid "Abbinamenti: <0>Fritturine da chiosco, gita in barca.</0>"
+msgstr "Abbinamenti: <0>Fritturine da chiosco, gita in barca.</0>"
+
 #: src/components/Fria.js:149
 msgid "Abbinamenti: <0>Ideale con antipasti di mare, minestroni estivi e grigliate di pesce. Tuttavia, il suo posto preferito è senza dubbio sotto l’ombrellone, in riva al mare.</0>"
 msgstr "Abbinamenti: <0>Ideale con antipasti di mare, minestroni estivi e grigliate di pesce. Tuttavia, il suo posto preferito è senza dubbio sotto l’ombrellone, in riva al mare.</0>"
@@ -40,6 +44,18 @@ msgstr "Abbinamenti: <0>Perfetto con salumi e formaggi, pesci grassi alla brace,
 #: src/components/Territorio.js:15
 msgid "Al mattino il vento è ancora assopito. Monte Ruiu si specchia nel lago Coghinas e si moltiplica, rosso, maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque."
 msgstr "Al mattino il vento è ancora assopito. Monte Ruiu si specchia nel lago Coghinas e si moltiplica, rosso, maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque."
+
+#: src/components/Menu.js:101
+msgid "Beijo"
+msgstr "Beijo"
+
+#: src/components/Beijo.js:35
+msgid "Beijo è un vino semplice, facile, ma pieno di sfumature e profumi che sfuggono all’identificazione delle singole uve. È composto di dieci varietà che crescono insieme nella stessa terra, creando un’armonia unica. Questa ricchezza di varietà riflette la biodiversità del territorio, dove le viti sono accompagnate da una miriade di erbe spontanee che prosperano nel nostro ambiente. Il risultato è un vino che racconta una storia, quella della terra in cui è nato, delle sue tradizioni e delle sue peculiarità."
+msgstr "Beijo è un vino semplice, facile, ma pieno di sfumature e profumi che sfuggono all’identificazione delle singole uve. È composto di dieci varietà che crescono insieme nella stessa terra, creando un’armonia unica. Questa ricchezza di varietà riflette la biodiversità del territorio, dove le viti sono accompagnate da una miriade di erbe spontanee che prosperano nel nostro ambiente. Il risultato è un vino che racconta una storia, quella della terra in cui è nato, delle sue tradizioni e delle sue peculiarità."
+
+#: src/components/ChiSiamo.js:40
+msgid "Brasiliana di origine tedesca, laureata in Marketing e Comunicazione. Dopo aver completato gli studi in Brasile, parte per un anno sabbatico nel \"vecchio mondo\". Qui si innamora della nuova vita e conosce Carlo, lasciandosi contagiare dal suo amore per la Sardegna, per il cibo e per il vino. Insieme hanno deciso di mettere radici in questa terra unica. Tatiana gestisce le vendite, l’amministrazione e il marketing dell’azienda."
+msgstr "Brasiliana di origine tedesca, laureata in Marketing e Comunicazione. Dopo aver completato gli studi in Brasile, parte per un anno sabbatico nel \"vecchio mondo\". Qui si innamora della nuova vita e conosce Carlo, lasciandosi contagiare dal suo amore per la Sardegna, per il cibo e per il vino. Insieme hanno deciso di mettere radici in questa terra unica. Tatiana gestisce le vendite, l’amministrazione e il marketing dell’azienda."
 
 #: src/components/ChiSiamo.js:21
 msgid "CARLO DEPERU"
@@ -69,6 +85,10 @@ msgstr "Colore: <0>Rosso intenso con riflessi violacei.</0>"
 msgid "Colore: <0>Rosso rubino brillante, penetrabile con riflessi granati.</0>"
 msgstr "Colore: <0>Rosso rubino brillante, penetrabile con riflessi granati.</0>"
 
+#: src/components/Beijo.js:118
+msgid "Colore: <0>Rosso rubino chiaro.</0>"
+msgstr "Colore: <0>Rosso rubino chiaro.</0>"
+
 #: src/components/Fria.js:28
 msgid "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
 msgstr "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
@@ -81,7 +101,7 @@ msgstr "Con una superficie aziendale di circa 6 ettari possiamo seguire personal
 msgid "Conquista chi ama la semplicità e l'autenticità."
 msgstr "Conquista chi ama la semplicità e l'autenticità."
 
-#: src/components/Menu.js:106
+#: src/components/Menu.js:111
 msgid "Contatti"
 msgstr "Contatti"
 
@@ -94,6 +114,7 @@ msgstr "CONTATTI"
 msgid "Densità di impianto: <0>4.400 piante per ettaro.</0>"
 msgstr "Densità di impianto: <0>4.400 piante per ettaro.</0>"
 
+#: src/components/Beijo.js:81
 #: src/components/Fria.js:88
 msgid "Densità di impianto: <0>5.600 piante per ettaro.</0>"
 msgstr "Densità di impianto: <0>5.600 piante per ettaro.</0>"
@@ -135,10 +156,6 @@ msgstr "Fria è un Vermentino puro e vero, capace di far emergere sensazioni rar
 msgid "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
 msgstr "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
 
-#: src/components/Menu.js:101
-msgid "Gallery"
-msgstr "Gallery"
-
 #: src/components/PramaDorada.js:124
 msgid "Gusto: <0>Avvolgente, morbido e caldo, bilanciato da una piacevole sapidità. Presenta una buona struttura e una complessità notevole, lasciando un leggero retrogusto di mandorla e crema pasticcera all’arancia.</0>"
 msgstr "Gusto: <0>Avvolgente, morbido e caldo, bilanciato da una piacevole sapidità. Presenta una buona struttura e una complessità notevole, lasciando un leggero retrogusto di mandorla e crema pasticcera all’arancia.</0>"
@@ -150,6 +167,10 @@ msgstr "Gusto: <0>Caldo e corposo, con tannini giovani ed eleganti, di buona aci
 #: src/components/Fria.js:140
 msgid "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 msgstr "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
+
+#: src/components/Beijo.js:132
+msgid "Gusto: <0>Piacevole acidità, secco, avvolgente.</0>"
+msgstr "Gusto: <0>Piacevole acidità, secco, avvolgente.</0>"
 
 #: src/components/MariaTzufia.js:139
 msgid "Gusto: <0>Secco, fresco e sapido, di buona struttura, con un finale mandorlato.</0>"
@@ -167,10 +188,14 @@ msgstr "Home"
 msgid "I nostri vini"
 msgstr "I nostri vini"
 
-#: src/components/Home.js:61
+#: src/components/Home.js:66
 #: src/components/Vini.js:45
 msgid "I NOSTRI VINI"
 msgstr "I NOSTRI VINI"
+
+#: src/components/Beijo.js:28
+msgid "Il nome \"Beijo\" significa \"bacio\", un gesto semplice ma ricco di emozione, così questo vino invita a celebrare l'amore e le connessioni umane."
+msgstr "Il nome \"Beijo\" significa \"bacio\", un gesto semplice ma ricco di emozione, così questo vino invita a celebrare l'amore e le connessioni umane."
 
 #: src/components/Filosofia.js:48
 msgid "Il nostro vino viene fatto soprattutto in vigna, ma è quando l’uva arriva in cantina e la trasformazione ha inizio che la fantasia e l’esperienza iniziano a divinare cosa diventerà, guardando il colore, gustando la dolcezza e inebriandosi con il profumo del mosto in fermentazione. Il risultato sarà merito della natura e dell’uomo che vigila questa magica trasformazione cercando di interferire il meno possibile nel naturale cammino dell’uva in vino."
@@ -187,10 +212,6 @@ msgstr "Il teritorio"
 #: src/components/MariaTzufia.js:28
 msgid "In Sardegna, quando una bambina è spettinata o in disordine, si dice che \"sembra una Maria Tzufia\". Nei racconti popolari, Maria Tzufia è rappresentata come una giovane che vive in un contesto rurale, caratterizzata da una vita semplice e genuina, ma anche da una certa incoscienza riguardo al suo aspetto esteriore."
 msgstr "In Sardegna, quando una bambina è spettinata o in disordine, si dice che \"sembra una Maria Tzufia\". Nei racconti popolari, Maria Tzufia è rappresentata come una giovane che vive in un contesto rurale, caratterizzata da una vita semplice e genuina, ma anche da una certa incoscienza riguardo al suo aspetto esteriore."
-
-#: src/components/ChiSiamo.js:55
-msgid "In un mondo globalizzato in cui la vita è frenetica, abbiamo ritagliato un piccolo angolo di paradiso e qui cerchiamo di fare al meglio ciò che amiamo."
-msgstr "In un mondo globalizzato in cui la vita è frenetica, abbiamo ritagliato un piccolo angolo di paradiso e qui cerchiamo di fare al meglio ciò che amiamo."
 
 #: src/components/Fria.js:37
 msgid "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
@@ -228,12 +249,16 @@ msgstr "Olfatto: <0>Ampio con note di frutta a polpa bianca, note resinose. </0>
 msgid "Olfatto: <0>Ampio, con note di frutta a polpa bianca e agrumi, fiori d'arancio e crema pasticcera. </0>"
 msgstr "Olfatto: <0>Ampio, con note di frutta a polpa bianca e agrumi, fiori d'arancio e crema pasticcera. </0>"
 
+#: src/components/Beijo.js:124
+msgid "Olfatto: <0>Fragolina, essenze vegetali, viola. </0>"
+msgstr "Olfatto: <0>Fragolina, essenze vegetali, viola. </0>"
+
 #: src/components/PramaDorada.js:114
 msgid "Olfatto: <0>I profumi si evolvono e si rivelano durante la degustazione, con delicate note resinose e di miele che si intrecciano in un bouquet di grande finezza. </0>"
 msgstr "Olfatto: <0>I profumi si evolvono e si rivelano durante la degustazione, con delicate note resinose e di miele che si intrecciano in un bouquet di grande finezza. </0>"
 
 #: src/components/Filosofia.js:14
-#: src/components/Home.js:81
+#: src/components/Home.js:86
 msgid "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
 msgstr "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
 
@@ -241,7 +266,7 @@ msgstr "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, la
 msgid "Per ora abbiamo scelto di non avere certificazioni, ma il nostro lavoro è profondamente naturale e biologico col massimo rispetto delle piante, dell’ambiente e della persona."
 msgstr "Per ora abbiamo scelto di non avere certificazioni, ma il nostro lavoro è profondamente naturale e biologico col massimo rispetto delle piante, dell’ambiente e della persona."
 
-#: src/components/Home.js:88
+#: src/components/Home.js:93
 msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
 msgstr "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
 
@@ -265,6 +290,7 @@ msgstr "Questo vino nasce dall’unione di tre vitigni rossi sardi, storicamente
 msgid "Resa per ettaro: <0>40/50 quintali.</0>"
 msgstr "Resa per ettaro: <0>40/50 quintali.</0>"
 
+#: src/components/Beijo.js:89
 #: src/components/MariaTzufia.js:93
 msgid "Resa per ettaro: <0>50 quintali.</0>"
 msgstr "Resa per ettaro: <0>50 quintali.</0>"
@@ -278,11 +304,15 @@ msgstr "Resa per ettaro: <0>55 quintali.</0>"
 msgid "Resa per ettaro: <0>60/70 quintali.</0>"
 msgstr "Resa per ettaro: <0>60/70 quintali.</0>"
 
+#: src/components/ChiSiamo.js:24
+msgid "Sardo, laureato all'Università degli Studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie, nel corso di Viticoltura ed Enologia. Nella vita e con le vite non si smette mai di imparare; dopo aver accumulato diverse esperienze, è tornato a casa per \"fare il suo\". Nel 2007 ha impiantato i primi quattro ettari di vigna e quello che prima era un sogno è oggi molto lavoro e grande gioia. Si occupa personalmente della vigna e del lavoro in cantina."
+msgstr "Sardo, laureato all'Università degli Studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie, nel corso di Viticoltura ed Enologia. Nella vita e con le vite non si smette mai di imparare; dopo aver accumulato diverse esperienze, è tornato a casa per \"fare il suo\". Nel 2007 ha impiantato i primi quattro ettari di vigna e quello che prima era un sogno è oggi molto lavoro e grande gioia. Si occupa personalmente della vigna e del lavoro in cantina."
+
 #: src/components/ChiSiamo.js:9
 msgid "SIAMO FIGLI DEL VENTO"
 msgstr "SIAMO FIGLI DEL VENTO"
 
-#: src/components/Home.js:78
+#: src/components/Home.js:83
 msgid "Siamo figli del vento."
 msgstr "Siamo figli del vento."
 
@@ -290,7 +320,7 @@ msgstr "Siamo figli del vento."
 msgid "SIAMO FIGLI DEL VENTO."
 msgstr "SIAMO FIGLI DEL VENTO."
 
-#: src/components/Home.js:75
+#: src/components/Home.js:80
 msgid "Siamo figli della nostra cultura, dei nostri valori."
 msgstr "Siamo figli della nostra cultura, dei nostri valori."
 
@@ -302,15 +332,7 @@ msgstr "SIAMO FIGLI DELLA NOSTRA CULTURA, DEI NOSTRI VALORI."
 msgid "Siamo nel Nord Sardegna, tra le regioni storiche della Gallura e dell’Anglona, tra i Comuni di Bortigiadas e di Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite per la vicinanza del mare e del lago Coghinas."
 msgstr "Siamo nel Nord Sardegna, tra le regioni storiche della Gallura e dell’Anglona, tra i Comuni di Bortigiadas e di Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite per la vicinanza del mare e del lago Coghinas."
 
-#: src/components/ChiSiamo.js:24
-msgid "Sono Carlo Deperu, sardo, viticoltore ed enologo. Mi sono laureato all’Università degli studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie nel corso di Viticoltura ed Enologia. Nella vita e con le vite (scusate il gioco di parole) non si smette mai di imparare, dopo aver fatto diverse esperienze ed approfondito le conoscenze accademiche in tante aziende qualcosa mi mancava: tornare a casa e “fare il mio”. Nel 2007 ho impiantato i primi quattro ettari di vigna e quello che prima era un sogno oggi è diventato tanto lavoro e tanta gioia. Curo in prima persona la vigna e il lavoro di cantina, nel tempo libero mi dedico alla musica, l’altra mia grande passione."
-msgstr "Sono Carlo Deperu, sardo, viticoltore ed enologo. Mi sono laureato all’Università degli studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie nel corso di Viticoltura ed Enologia. Nella vita e con le vite (scusate il gioco di parole) non si smette mai di imparare, dopo aver fatto diverse esperienze ed approfondito le conoscenze accademiche in tante aziende qualcosa mi mancava: tornare a casa e “fare il mio”. Nel 2007 ho impiantato i primi quattro ettari di vigna e quello che prima era un sogno oggi è diventato tanto lavoro e tanta gioia. Curo in prima persona la vigna e il lavoro di cantina, nel tempo libero mi dedico alla musica, l’altra mia grande passione."
-
-#: src/components/ChiSiamo.js:44
-msgid "Sono Tatiana Holler, brasiliana di origine tedesca, viaggiatrice, laureata in Marketing e Comunicazione all’Università ESPM di San Paolo-Brasile. Ho conosciuto Carlo a Milano, dove lavoravo nel settore pubblicitario. Mi sono lasciata contagiare dal suo amore per la Sardegna, per il cibo e per il vino. Insieme abbiamo deciso di mettere radici in questa terra unica. Gestisco la parte amministrativa e il marketing aziendale."
-msgstr "Sono Tatiana Holler, brasiliana di origine tedesca, viaggiatrice, laureata in Marketing e Comunicazione all’Università ESPM di San Paolo-Brasile. Ho conosciuto Carlo a Milano, dove lavoravo nel settore pubblicitario. Mi sono lasciata contagiare dal suo amore per la Sardegna, per il cibo e per il vino. Insieme abbiamo deciso di mettere radici in questa terra unica. Gestisco la parte amministrativa e il marketing aziendale."
-
-#: src/components/ChiSiamo.js:41
+#: src/components/ChiSiamo.js:37
 msgid "TATIANA HOLLER"
 msgstr "TATIANA HOLLER"
 
@@ -326,6 +348,7 @@ msgstr "Tipologia di allevamento: <0>Guyot, alberello e cordone speronato.</0>"
 msgid "Tipologia di allevamento: <0>Guyot.</0>"
 msgstr "Tipologia di allevamento: <0>Guyot.</0>"
 
+#: src/components/Beijo.js:75
 #: src/components/Fria.js:82
 #: src/components/MariaTzufia.js:79
 msgid "Tipologia di allevamento:<0> Guyot.</0>"
@@ -336,6 +359,7 @@ msgstr "Tipologia di allevamento:<0> Guyot.</0>"
 msgid "Tipologia di terreno: <0>Calcareo argilloso.</0>"
 msgstr "Tipologia di terreno: <0>Calcareo argilloso.</0>"
 
+#: src/components/Beijo.js:66
 #: src/components/Fria.js:73
 msgid "Tipologia di terreno:<0>Calcareo, argilloso. disfacimento granitico. scisti</0>"
 msgstr "Tipologia di terreno:<0>Calcareo, argilloso. disfacimento granitico. scisti</0>"
@@ -348,6 +372,7 @@ msgstr "Tipologia di terreno:<0>Calcareo, argilloso.</0>"
 msgid "TRA GALLURA ED ANGLONA"
 msgstr "TRA GALLURA ED ANGLONA"
 
+#: src/components/Beijo.js:95
 #: src/components/Familia.js:92
 #: src/components/MariaTzufia.js:99
 #: src/components/Oberaia.js:78
@@ -379,6 +404,10 @@ msgstr "Vinificazione: <0>La raccolta avviene manualmente, seguita da una macera
 msgid "Vinificazione: <0>La raccolta avviene manualmente. Le due varietà di uve vengono macerate separatamente: quella del Vermentino per un periodo più breve, mentre il Moscato resta a contatto con le bucce più a lungo per estrarre tutto il suo profumo e il suo colore. Successivamente, i mosti vengono assemblati per raggiungere un equilibrio tra mineralità, freschezza e corpo. La pressatura è soffice e la fermentazione è spontanea. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 msgstr "Vinificazione: <0>La raccolta avviene manualmente. Le due varietà di uve vengono macerate separatamente: quella del Vermentino per un periodo più breve, mentre il Moscato resta a contatto con le bucce più a lungo per estrarre tutto il suo profumo e il suo colore. Successivamente, i mosti vengono assemblati per raggiungere un equilibrio tra mineralità, freschezza e corpo. La pressatura è soffice e la fermentazione è spontanea. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 
+#: src/components/Beijo.js:103
+msgid "Vinificazione: <0>Nello stesso giorno tutte le uve vengono raccolte manualmente e pressate dopo una breve sosta sulle bucce di qualche ora. Fermentazione indotta dalla aggiunta di bucce di moscato e vermentino proveniente da altre vasche in piena fermentazione. Affinato in acciaio viene imbottigliato senza chiarifiche né filtrazioni.</0>"
+msgstr "Vinificazione: <0>Nello stesso giorno tutte le uve vengono raccolte manualmente e pressate dopo una breve sosta sulle bucce di qualche ora. Fermentazione indotta dalla aggiunta di bucce di moscato e vermentino proveniente da altre vasche in piena fermentazione. Affinato in acciaio viene imbottigliato senza chiarifiche né filtrazioni.</0>"
+
 #: src/components/Fria.js:110
 msgid "Vinificazione: <0>Raccolta manuale. macerazione di due o tre giorni sulle bucce, fermentazione spontanea, pressatura soffice. Affinato in acciaio. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 msgstr "Vinificazione: <0>Raccolta manuale. macerazione di due o tre giorni sulle bucce, fermentazione spontanea, pressatura soffice. Affinato in acciaio. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
@@ -399,9 +428,17 @@ msgstr "Vitigni: <0>Muristellu (Bovale Sardo), Caricajola e Cannonau.</0>"
 msgid "Vitigni: <0>Vermentino, Moscato e Malvasia.</0>"
 msgstr "Vitigni: <0>Vermentino, Moscato e Malvasia.</0>"
 
+#: src/components/Beijo.js:49
+msgid "Vitigni: <0>Vitigni a bacca rossa e bianca.</0>"
+msgstr "Vitigni: <0>Vitigni a bacca rossa e bianca.</0>"
+
 #: src/components/Fria.js:58
 msgid "Vitigno: <0>Vermentino 100%</0>"
 msgstr "Vitigno: <0>Vermentino 100%</0>"
+
+#: src/components/Beijo.js:57
+msgid "Zona di produzione: <0>Monte Finuiu (Perfugas-SS)</0>"
+msgstr "Zona di produzione: <0>Monte Finuiu (Perfugas-SS)</0>"
 
 #: src/components/MariaTzufia.js:61
 msgid "Zona di produzione: <0>Monte Finuiu e Sessana (Perfugas)</0>"

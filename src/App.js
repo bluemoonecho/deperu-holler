@@ -11,6 +11,7 @@ import Oberaia from "./components/Oberaia";
 import Familia from "./components/Familia";
 import Fria from "./components/Fria";
 import MariaTzufia from "./components/MariaTzufia";
+import Beijo from "./components/Beijo";
 import ChiSiamo from "./components/ChiSiamo";
 import Filosofia from "./components/Filosofia";
 import Territorio from "./components/Territorio";
@@ -69,6 +70,7 @@ const AppWrapper = ({ isMenuOpen, setIsMenuOpen }) => {
           <Route path="familia" element={<Familia />} />
           <Route path="fria" element={<Fria />} />
           <Route path="maria-tzufia" element={<MariaTzufia />} />
+          <Route path="beijo" element={<Beijo />} />
           <Route path="chi-siamo" element={<ChiSiamo />} />
           <Route path="filosofia-e-pratica" element={<Filosofia />} />
           <Route path="il-territorio" element={<Territorio />} />

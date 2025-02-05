@@ -46,6 +46,11 @@ const Home = () => {
       name: "Maria Tzufia",
       href: `/${lang}/maria-tzufia`,
     },
+    {
+      image: fria,
+      name: "Beijo",
+      href: `/${lang}/beijo`,
+    },
   ];
 
   return (
