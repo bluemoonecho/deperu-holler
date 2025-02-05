@@ -193,7 +193,7 @@ msgid "I nostri vini"
 msgstr ""
 
 #: src/components/Home.js:66
-#: src/components/Vini.js:45
+#: src/components/Vini.js:50
 msgid "I NOSTRI VINI"
 msgstr "BINOS"
 

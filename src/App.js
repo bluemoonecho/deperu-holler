@@ -18,6 +18,7 @@ import Territorio from "./components/Territorio";
 import Contacts from "./components/Contacts";
 import Vini from "./components/Vini";
 import Logo from "./components/Logo";
+import ScrollToTop from "./components/ScrollToTop"; // <-- Import here
 
 import "./styles/menu.css";
 import "./styles/logo.css";
@@ -88,6 +89,8 @@ const App = () => {
 
   return (
     <BrowserRouter>
+      {/* Place ScrollToTop so it listens to all route changes */}
+      <ScrollToTop />
       <Routes>
         <Route
           path="/:lang/*"
