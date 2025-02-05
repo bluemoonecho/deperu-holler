@@ -41,9 +41,13 @@ msgstr "Abbinamenti: <0>Ideale per aperitivi, risotti con crostacei, zuppe e pia
 msgid "Abbinamenti: <0>Perfetto con salumi e formaggi, pesci grassi alla brace, carni rosse, zuppe di legumi alla sarda. Ideale per un ispuntinu.</0>"
 msgstr "Abbinamenti: <0>Perfetto con salumi e formaggi, pesci grassi alla brace, carni rosse, zuppe di legumi alla sarda. Ideale per un ispuntinu.</0>"
 
+#: src/components/Territorio.js:42
+msgid "Ad ogni sorso che berrete, ci sentiremo ripagati e appagati; gioiremo assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi del mare."
+msgstr "Ad ogni sorso che berrete, ci sentiremo ripagati e appagati; gioiremo assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi del mare."
+
 #: src/components/Territorio.js:15
-msgid "Al mattino il vento è ancora assopito. Monte Ruiu si specchia nel lago Coghinas e si moltiplica, rosso, maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque."
-msgstr "Al mattino il vento è ancora assopito. Monte Ruiu si specchia nel lago Coghinas e si moltiplica, rosso, maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque."
+msgid "Al mattino, il vento è ancora assopito. Monte Ruiu si specchia nel lago Coghinas, moltiplicandosi in un rosso maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque"
+msgstr "Al mattino, il vento è ancora assopito. Monte Ruiu si specchia nel lago Coghinas, moltiplicandosi in un rosso maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque"
 
 #: src/components/Menu.js:101
 msgid "Beijo"
@@ -93,9 +97,9 @@ msgstr "Colore: <0>Rosso rubino chiaro.</0>"
 msgid "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
 msgstr "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
 
-#: src/components/Territorio.js:38
-msgid "Con una superficie aziendale di circa 6 ettari possiamo seguire personalmente tutte le fasi della filiera produttiva. Le alte densità di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro (50 quintali) e le tipologie di allevamento, aiutano il vigneto a produrre uve di grande qualità. Ad ogni sorso che berrete verremo ripagati ed appagati, gioiremo assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi del mare."
-msgstr "Con una superficie aziendale di circa 6 ettari possiamo seguire personalmente tutte le fasi della filiera produttiva. Le alte densità di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro (50 quintali) e le tipologie di allevamento, aiutano il vigneto a produrre uve di grande qualità. Ad ogni sorso che berrete verremo ripagati ed appagati, gioiremo assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi del mare."
+#: src/components/Filosofia.js:21
+msgid "Con una superficie aziendale di circa 6 ettari, possiamo seguire personalmente tutte le fasi della filiera produttiva. Il clima ventilato ci consente di ridurre al minimo i trattamenti antiparassitari, mentre le alte densità di impianto e le basse rese per ettaro aiutano le piante a produrre uva di grande qualità."
+msgstr "Con una superficie aziendale di circa 6 ettari, possiamo seguire personalmente tutte le fasi della filiera produttiva. Il clima ventilato ci consente di ridurre al minimo i trattamenti antiparassitari, mentre le alte densità di impianto e le basse rese per ettaro aiutano le piante a produrre uva di grande qualità."
 
 #: src/components/Fria.js:50
 msgid "Conquista chi ama la semplicità e l'autenticità."
@@ -129,8 +133,8 @@ msgid "E a San Giorgio che vince il drago!"
 msgstr "E a San Giorgio che vince il drago!"
 
 #: src/components/Territorio.js:30
-msgid "È il luogo dove le montagne della Gallura perdono quota lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite."
-msgstr "È il luogo dove le montagne della Gallura perdono quota lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite."
+msgid "È il luogo dove le montagne della Gallura perdono quota, lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite. Con il nostro vino, cerchiamo di raccontare questa terra, dove i suoi figli portano un carattere duro, fiero e generoso. Qui, soffiano lingue sarde diverse, tra prati pascolati da mucche e pecore, boschi di sughero, reperti archeologici e fiumi di acqua calda."
+msgstr "È il luogo dove le montagne della Gallura perdono quota, lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite. Con il nostro vino, cerchiamo di raccontare questa terra, dove i suoi figli portano un carattere duro, fiero e generoso. Qui, soffiano lingue sarde diverse, tra prati pascolati da mucche e pecore, boschi di sughero, reperti archeologici e fiumi di acqua calda."
 
 #: src/components/Menu.js:81
 msgid "Familia"
@@ -197,9 +201,9 @@ msgstr "I NOSTRI VINI"
 msgid "Il nome \"Beijo\" significa \"bacio\", un gesto semplice ma ricco di emozione, così questo vino invita a celebrare l'amore e le connessioni umane."
 msgstr "Il nome \"Beijo\" significa \"bacio\", un gesto semplice ma ricco di emozione, così questo vino invita a celebrare l'amore e le connessioni umane."
 
-#: src/components/Filosofia.js:48
-msgid "Il nostro vino viene fatto soprattutto in vigna, ma è quando l’uva arriva in cantina e la trasformazione ha inizio che la fantasia e l’esperienza iniziano a divinare cosa diventerà, guardando il colore, gustando la dolcezza e inebriandosi con il profumo del mosto in fermentazione. Il risultato sarà merito della natura e dell’uomo che vigila questa magica trasformazione cercando di interferire il meno possibile nel naturale cammino dell’uva in vino."
-msgstr "Il nostro vino viene fatto soprattutto in vigna, ma è quando l’uva arriva in cantina e la trasformazione ha inizio che la fantasia e l’esperienza iniziano a divinare cosa diventerà, guardando il colore, gustando la dolcezza e inebriandosi con il profumo del mosto in fermentazione. Il risultato sarà merito della natura e dell’uomo che vigila questa magica trasformazione cercando di interferire il meno possibile nel naturale cammino dell’uva in vino."
+#: src/components/Filosofia.js:41
+msgid "Il nostro vino nasce principalmente in vigna, ma anche il lavoro dell’uomo in cantina gioca un ruolo fondamentale. La nostra esperienza, accumulata attraverso la produzione e il consumo di numerosi vini, ci offre una base preziosa per interpretare ogni annata. L’osservazione del colore, del gusto e del profumo del mosto in fermentazione ci fa sognare sulle potenzialità dei vini. Utilizziamo la fermentazione spontanea delle nostre uve, seguendo attentamente il suo percorso attraverso studi e analisi. Effettuiamo diverse vinificazioni per trovare l’equilibrio e il carattere perfetti per ogni blend. Il risultato finale è il frutto della sinergia tra la natura e l’uomo, che collaborano insieme dalla vite al vino."
+msgstr "Il nostro vino nasce principalmente in vigna, ma anche il lavoro dell’uomo in cantina gioca un ruolo fondamentale. La nostra esperienza, accumulata attraverso la produzione e il consumo di numerosi vini, ci offre una base preziosa per interpretare ogni annata. L’osservazione del colore, del gusto e del profumo del mosto in fermentazione ci fa sognare sulle potenzialità dei vini. Utilizziamo la fermentazione spontanea delle nostre uve, seguendo attentamente il suo percorso attraverso studi e analisi. Effettuiamo diverse vinificazioni per trovare l’equilibrio e il carattere perfetti per ogni blend. Il risultato finale è il frutto della sinergia tra la natura e l’uomo, che collaborano insieme dalla vite al vino."
 
 #: src/components/MariaTzufia.js:37
 msgid "Il nostro vino, Maria Tzufia, racchiude il profumo del Moscato e la freschezza del Vermentino. Nella sua prima annata, si presentava in modo \"spettinato\", con una leggera torbidità, da cui abbiamo tratto ispirazione per il suo nome. Questo vino ci ricorda le meraviglie semplici e uniche della natura, che seguono il proprio ordine. Oggi, Maria Tzufia si è evoluto: da bambina spettinata è diventato un vino raffinato e sorprendente . Non è dolce, ma nel suo cuore sprigiona la gioia della primavera in arrivo, è un vino secco, regalando una freschezza e una mineralità inaspettate."
@@ -257,22 +261,21 @@ msgstr "Olfatto: <0>Fragolina, essenze vegetali, viola. </0>"
 msgid "Olfatto: <0>I profumi si evolvono e si rivelano durante la degustazione, con delicate note resinose e di miele che si intrecciano in un bouquet di grande finezza. </0>"
 msgstr "Olfatto: <0>I profumi si evolvono e si rivelano durante la degustazione, con delicate note resinose e di miele che si intrecciano in un bouquet di grande finezza. </0>"
 
-#: src/components/Filosofia.js:14
+#: src/components/Filosofia.js:30
+msgid "Per comprendere le reali necessità del terreno e delle piante, osserviamo attentamente il manto erboso, ricco di flora spontanea, e alterniamo concimazioni con letame maturo e compost organico a inerbimenti selezionati, basati su leguminose e graminacee. Grazie alla passione e al lavoro svolto in modo naturale, sosteniamo il terreno e le piante nel dare il meglio di sé, senza logorarle, rispettando i tempi, le persone e l’ambiente."
+msgstr "Per comprendere le reali necessità del terreno e delle piante, osserviamo attentamente il manto erboso, ricco di flora spontanea, e alterniamo concimazioni con letame maturo e compost organico a inerbimenti selezionati, basati su leguminose e graminacee. Grazie alla passione e al lavoro svolto in modo naturale, sosteniamo il terreno e le piante nel dare il meglio di sé, senza logorarle, rispettando i tempi, le persone e l’ambiente."
+
 #: src/components/Home.js:86
 msgid "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
 msgstr "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
 
-#: src/components/Filosofia.js:30
-msgid "Per ora abbiamo scelto di non avere certificazioni, ma il nostro lavoro è profondamente naturale e biologico col massimo rispetto delle piante, dell’ambiente e della persona."
-msgstr "Per ora abbiamo scelto di non avere certificazioni, ma il nostro lavoro è profondamente naturale e biologico col massimo rispetto delle piante, dell’ambiente e della persona."
+#: src/components/Filosofia.js:14
+msgid "Per noi, uno dei gesti più belli e profondi dell’essere umano è coltivare, lavorare con la natura e permettere che essa ci ripaghi con generosità."
+msgstr "Per noi, uno dei gesti più belli e profondi dell’essere umano è coltivare, lavorare con la natura e permettere che essa ci ripaghi con generosità."
 
 #: src/components/Home.js:93
 msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
 msgstr "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
-
-#: src/components/Filosofia.js:20
-msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle. Con una superficie aziendale di circa 6 ettari possiamo seguire personalmente tutte le fasi della filiera produttiva. Le alte densità di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro (50 quintali) e le tipologie di allevamento, aiutano il vigneto a produrre uve di grande qualità."
-msgstr "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle. Con una superficie aziendale di circa 6 ettari possiamo seguire personalmente tutte le fasi della filiera produttiva. Le alte densità di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro (50 quintali) e le tipologie di allevamento, aiutano il vigneto a produrre uve di grande qualità."
 
 #: src/components/Menu.js:91
 msgid "Prama Dorada"
@@ -328,9 +331,9 @@ msgstr "Siamo figli della nostra cultura, dei nostri valori."
 msgid "SIAMO FIGLI DELLA NOSTRA CULTURA, DEI NOSTRI VALORI."
 msgstr "SIAMO FIGLI DELLA NOSTRA CULTURA, DEI NOSTRI VALORI."
 
-#: src/components/Territorio.js:21
-msgid "Siamo nel Nord Sardegna, tra le regioni storiche della Gallura e dell’Anglona, tra i Comuni di Bortigiadas e di Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite per la vicinanza del mare e del lago Coghinas."
-msgstr "Siamo nel Nord Sardegna, tra le regioni storiche della Gallura e dell’Anglona, tra i Comuni di Bortigiadas e di Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite per la vicinanza del mare e del lago Coghinas."
+#: src/components/Territorio.js:22
+msgid "Siamo nel Nord Sardegna, tra le storiche regioni della Gallura e dell’Anglona, nei Comuni di Bortigiadas e Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite, grazie alla vicinanza del mare e del lago Coghinas."
+msgstr "Siamo nel Nord Sardegna, tra le storiche regioni della Gallura e dell’Anglona, nei Comuni di Bortigiadas e Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite, grazie alla vicinanza del mare e del lago Coghinas."
 
 #: src/components/ChiSiamo.js:37
 msgid "TATIANA HOLLER"
@@ -383,10 +386,6 @@ msgstr "Trattamenti: <0>Rame, zolfo e preparati biologici.</0>"
 #: src/components/Fria.js:102
 msgid "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
 msgstr "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
-
-#: src/components/Filosofia.js:37
-msgid "Utilizziamo l’irrigazione solo se strettamente necessaria, non usiamo erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di tecniche alternative come l’inerbimento temporaneo con leguminose e così facendo diamo priorità alle reali necessità delle piante. Il vento della nostra isola che abbonda nella nostra vigna rende il clima asciutto e ci aiuta a ridurre al minimo i trattamenti antiparassitari."
-msgstr "Utilizziamo l’irrigazione solo se strettamente necessaria, non usiamo erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di tecniche alternative come l’inerbimento temporaneo con leguminose e così facendo diamo priorità alle reali necessità delle piante. Il vento della nostra isola che abbonda nella nostra vigna rende il clima asciutto e ci aiuta a ridurre al minimo i trattamenti antiparassitari."
 
 #: src/components/PramaDorada.js:88
 msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una delicata pressatura a piedi nudi e da una macerazione di almeno sette giorni sulle bucce. Prepariamo un pied de cuve una settimana prima della vendemmia, che viene inoculato il giorno della raccolta. La fermentazione dura circa 10 giorni, seguita dalla fermentazione malo lattica in botti di acacia, dove il vino riposa per un anno intero. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"

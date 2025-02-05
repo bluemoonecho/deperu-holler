@@ -12,47 +12,44 @@ const Filosofia = () => (
     <div className="container flex text-center">
       <p className="font-bold italic">
         <Trans>
-          Per noi uno dei gesti più belli e profondi dell’uomo è coltivare,
-          lavorare con la natura e lasciare che essa ci ripaghi con generosità.
-        </Trans>
-      </p>
-      <p className="mt-8">
-        <Trans>Per questo abbiamo scelto di lavorarla con rispetto.
-          Aiutiamo la terra e le piante a dare il meglio senza logorarle.
-          Con una superficie aziendale di circa 6 ettari possiamo seguire
-          personalmente tutte le fasi della filiera produttiva. Le alte densità
-          di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro
-          (50 quintali) e le tipologie di allevamento, aiutano il vigneto a
-          produrre uve di grande qualità.
+          Per noi, uno dei gesti più belli e profondi dell’essere umano è
+          coltivare, lavorare con la natura e permettere che essa ci ripaghi con
+          generosità.
         </Trans>
       </p>
       <p className="mt-8">
         <Trans>
-          Per ora abbiamo scelto di non avere certificazioni, ma il nostro
-          lavoro è profondamente naturale e biologico col massimo rispetto delle
-          piante, dell’ambiente e della persona.
+          Con una superficie aziendale di circa 6 ettari, possiamo seguire
+          personalmente tutte le fasi della filiera produttiva. Il clima
+          ventilato ci consente di ridurre al minimo i trattamenti
+          antiparassitari, mentre le alte densità di impianto e le basse rese
+          per ettaro aiutano le piante a produrre uva di grande qualità.
         </Trans>
       </p>
       <p className="mt-8">
         <Trans>
-          Utilizziamo l’irrigazione solo se strettamente necessaria, non usiamo
-          erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di
-          tecniche alternative come l’inerbimento temporaneo con leguminose e
-          così facendo diamo priorità alle reali necessità delle piante.
-          Il vento della nostra isola che abbonda nella nostra vigna rende il
-          clima asciutto e ci aiuta a ridurre al minimo i trattamenti
-          antiparassitari.
+          Per comprendere le reali necessità del terreno e delle piante,
+          osserviamo attentamente il manto erboso, ricco di flora spontanea, e
+          alterniamo concimazioni con letame maturo e compost organico a
+          inerbimenti selezionati, basati su leguminose e graminacee. Grazie
+          alla passione e al lavoro svolto in modo naturale, sosteniamo il
+          terreno e le piante nel dare il meglio di sé, senza logorarle,
+          rispettando i tempi, le persone e l’ambiente.
         </Trans>
       </p>
       <p className="mt-8">
         <Trans>
-          Il nostro vino viene fatto soprattutto in vigna, ma è quando l’uva
-          arriva in cantina e la trasformazione ha inizio che la fantasia e
-          l’esperienza iniziano a divinare cosa diventerà, guardando il colore,
-          gustando la dolcezza e inebriandosi con il profumo del mosto in
-          fermentazione. Il risultato sarà merito della natura e dell’uomo che
-          vigila questa magica trasformazione cercando di interferire il meno
-          possibile nel naturale cammino dell’uva in vino.
+          Il nostro vino nasce principalmente in vigna, ma anche il lavoro
+          dell’uomo in cantina gioca un ruolo fondamentale. La nostra
+          esperienza, accumulata attraverso la produzione e il consumo di
+          numerosi vini, ci offre una base preziosa per interpretare ogni
+          annata. L’osservazione del colore, del gusto e del profumo del mosto
+          in fermentazione ci fa sognare sulle potenzialità dei vini.
+          Utilizziamo la fermentazione spontanea delle nostre uve, seguendo
+          attentamente il suo percorso attraverso studi e analisi. Effettuiamo
+          diverse vinificazioni per trovare l’equilibrio e il carattere perfetti
+          per ogni blend. Il risultato finale è il frutto della sinergia tra la
+          natura e l’uomo, che collaborano insieme dalla vite al vino.
         </Trans>
       </p>
     </div>

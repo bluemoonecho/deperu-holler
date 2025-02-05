@@ -41,9 +41,13 @@ msgstr "Pairings: <0>Ideal for aperitifs, risottos with shellfish, soups, and di
 msgid "Abbinamenti: <0>Perfetto con salumi e formaggi, pesci grassi alla brace, carni rosse, zuppe di legumi alla sarda. Ideale per un ispuntinu.</0>"
 msgstr "Pairings: <0>Perfect with cured meats and cheeses, fatty grilled fish, red meats, and Sardinian legume soups. Ideal for a light snack.</0>"
 
+#: src/components/Territorio.js:42
+msgid "Ad ogni sorso che berrete, ci sentiremo ripagati e appagati; gioiremo assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi del mare."
+msgstr "With every sip you take, we will feel rewarded and fulfilled; we will rejoice together, caressed by the Maestrale wind, between the view of the lake and the echoes of the sea."
+
 #: src/components/Territorio.js:15
-msgid "Al mattino il vento è ancora assopito. Monte Ruiu si specchia nel lago Coghinas e si moltiplica, rosso, maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque."
-msgstr "In the morning, while the the wind is still asleep, Monte Ruiu reflects itself onto lake Coghinas and is multiplied majestically with tones of red. Even the sky mirrored into these waters grants itself twice, both above and below."
+msgid "Al mattino, il vento è ancora assopito. Monte Ruiu si specchia nel lago Coghinas, moltiplicandosi in un rosso maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque"
+msgstr "In the morning, the wind is still drowsy. Monte Ruiu is mirrored in Lake Coghinas, multiplying into a majestic red. Even the sky grants itself a double reflection, above and below, reflected in the waters."
 
 #: src/components/Menu.js:101
 msgid "Beijo"
@@ -55,7 +59,7 @@ msgstr "Beijo is a straightforward, easy wine, yet it is full of nuances and aro
 
 #: src/components/ChiSiamo.js:40
 msgid "Brasiliana di origine tedesca, laureata in Marketing e Comunicazione. Dopo aver completato gli studi in Brasile, parte per un anno sabbatico nel \"vecchio mondo\". Qui si innamora della nuova vita e conosce Carlo, lasciandosi contagiare dal suo amore per la Sardegna, per il cibo e per il vino. Insieme hanno deciso di mettere radici in questa terra unica. Tatiana gestisce le vendite, l’amministrazione e il marketing dell’azienda."
-msgstr "Brazilian of German descent, she holds a degree in Marketing and Communication. After completing her studies in Brazil, she set off on a sabbatical year in the "Old World." There, she fell in love with her new life and met Carlo, letting herself be inspired by his passion for Sardinia, food, and wine. Together, they decided to put down roots in this unique land. Tatiana manages the sales, administration, and marketing of the company."
+msgstr "Brazilian of German descent, she holds a degree in Marketing and Communication. After completing her studies in Brazil, she set off on a sabbatical year in the \"Old World.\" There, she fell in love with her new life and met Carlo, letting herself be inspired by his passion for Sardinia, food, and wine. Together, they decided to put down roots in this unique land. Tatiana manages the sales, administration, and marketing of the company."
 
 #: src/components/ChiSiamo.js:21
 msgid "CARLO DEPERU"
@@ -93,9 +97,9 @@ msgstr "Colour; <0>Light ruby red.</0>"
 msgid "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
 msgstr "With the arrival of summer, working in the vineyard becomes quite tiring, as the temperatures rise right from the morning. Every day, around eleven, something special happens: a blessing arrives from the sea—a fresh breeze that enlivens both us and the plants."
 
-#: src/components/Territorio.js:38
-msgid "Con una superficie aziendale di circa 6 ettari possiamo seguire personalmente tutte le fasi della filiera produttiva. Le alte densità di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro (50 quintali) e le tipologie di allevamento, aiutano il vigneto a produrre uve di grande qualità. Ad ogni sorso che berrete verremo ripagati ed appagati, gioiremo assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi del mare."
-msgstr "The wine we produce translates our love, dedication and respect for the grapes, plants, land and life. It tastes of the overflow of joy that fills our heart each morning when we go up the hill to work and each dawn, when we salute sunset. With every sip you take we will be blessed by the Mistral, enjoying the lake and the breeze of the sea "
+#: src/components/Filosofia.js:21
+msgid "Con una superficie aziendale di circa 6 ettari, possiamo seguire personalmente tutte le fasi della filiera produttiva. Il clima ventilato ci consente di ridurre al minimo i trattamenti antiparassitari, mentre le alte densità di impianto e le basse rese per ettaro aiutano le piante a produrre uva di grande qualità."
+msgstr "With a company estate of about 6 hectares, we can personally oversee all stages of the production process. The breezy climate allows us to minimize pest control treatments, while the high planting densities and low yields per hectare help the vines produce high-quality grapes."
 
 #: src/components/Fria.js:50
 msgid "Conquista chi ama la semplicità e l'autenticità."
@@ -129,8 +133,8 @@ msgid "E a San Giorgio che vince il drago!"
 msgstr "And to Saint George who defeats the dragon!"
 
 #: src/components/Territorio.js:30
-msgid "È il luogo dove le montagne della Gallura perdono quota lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite."
-msgstr "In this place the mountains of Gallura lose altitude and give space to the hills of Anglona. All these details are very important, they give character and uniqueness to our vineyards and wines. The wind from the sea, just 15 km away, passes through the mountains and creates a unique climate for grape growing."
+msgid "È il luogo dove le montagne della Gallura perdono quota, lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite. Con il nostro vino, cerchiamo di raccontare questa terra, dove i suoi figli portano un carattere duro, fiero e generoso. Qui, soffiano lingue sarde diverse, tra prati pascolati da mucche e pecore, boschi di sughero, reperti archeologici e fiumi di acqua calda."
+msgstr "This is the place where the mountains of Gallura descend, giving way to the hilly valleys of Anglona. The winds coming from the nearby sea funnel through the mountain inlets, creating a unique climate for vine cultivation. With our wine, we try to tell the story of this land, where its children carry a character that is tough, proud, and generous. Here, different Sardinian dialects are spoken, amid pastures grazed by cows and sheep, cork oak forests, archaeological relics, and rivers of warm water."
 
 #: src/components/Menu.js:81
 msgid "Familia"
@@ -197,9 +201,9 @@ msgstr "OUR WINES"
 msgid "Il nome \"Beijo\" significa \"bacio\", un gesto semplice ma ricco di emozione, così questo vino invita a celebrare l'amore e le connessioni umane."
 msgstr "The name “Beijo” means “kiss,” a simple gesture full of emotion. This wine invites you to celebrate love and human connections."
 
-#: src/components/Filosofia.js:48
-msgid "Il nostro vino viene fatto soprattutto in vigna, ma è quando l’uva arriva in cantina e la trasformazione ha inizio che la fantasia e l’esperienza iniziano a divinare cosa diventerà, guardando il colore, gustando la dolcezza e inebriandosi con il profumo del mosto in fermentazione. Il risultato sarà merito della natura e dell’uomo che vigila questa magica trasformazione cercando di interferire il meno possibile nel naturale cammino dell’uva in vino."
-msgstr "These elements allow us making the wine which respects the nature and the people who drink it, including us."
+#: src/components/Filosofia.js:41
+msgid "Il nostro vino nasce principalmente in vigna, ma anche il lavoro dell’uomo in cantina gioca un ruolo fondamentale. La nostra esperienza, accumulata attraverso la produzione e il consumo di numerosi vini, ci offre una base preziosa per interpretare ogni annata. L’osservazione del colore, del gusto e del profumo del mosto in fermentazione ci fa sognare sulle potenzialità dei vini. Utilizziamo la fermentazione spontanea delle nostre uve, seguendo attentamente il suo percorso attraverso studi e analisi. Effettuiamo diverse vinificazioni per trovare l’equilibrio e il carattere perfetti per ogni blend. Il risultato finale è il frutto della sinergia tra la natura e l’uomo, che collaborano insieme dalla vite al vino."
+msgstr "Our wine is primarily born in the vineyard, but the work of man in the winery also plays a fundamental role. Our experience, accumulated through the production and enjoyment of numerous wines, provides us with a valuable foundation for interpreting each vintage. Observing the color, taste, and aroma of the fermenting must inspires us to dream about the wine’s potential. We rely on the spontaneous fermentation of our grapes, carefully monitoring its progress through studies and analyses. We carry out various vinifications to find the perfect balance and character for each blend. The final result is the fruit of the synergy between nature and man, collaborating together from the vine to the wine."
 
 #: src/components/MariaTzufia.js:37
 msgid "Il nostro vino, Maria Tzufia, racchiude il profumo del Moscato e la freschezza del Vermentino. Nella sua prima annata, si presentava in modo \"spettinato\", con una leggera torbidità, da cui abbiamo tratto ispirazione per il suo nome. Questo vino ci ricorda le meraviglie semplici e uniche della natura, che seguono il proprio ordine. Oggi, Maria Tzufia si è evoluto: da bambina spettinata è diventato un vino raffinato e sorprendente . Non è dolce, ma nel suo cuore sprigiona la gioia della primavera in arrivo, è un vino secco, regalando una freschezza e una mineralità inaspettate."
@@ -257,22 +261,21 @@ msgstr "Aroma: <0>Wild strawberry, vegetal notes, violet.</0>"
 msgid "Olfatto: <0>I profumi si evolvono e si rivelano durante la degustazione, con delicate note resinose e di miele che si intrecciano in un bouquet di grande finezza. </0>"
 msgstr "Aroma: <0>The scents evolve and reveal themselves during tasting, with delicate resinous and honey notes intertwining in a bouquet of great finesse.</0>"
 
-#: src/components/Filosofia.js:14
+#: src/components/Filosofia.js:30
+msgid "Per comprendere le reali necessità del terreno e delle piante, osserviamo attentamente il manto erboso, ricco di flora spontanea, e alterniamo concimazioni con letame maturo e compost organico a inerbimenti selezionati, basati su leguminose e graminacee. Grazie alla passione e al lavoro svolto in modo naturale, sosteniamo il terreno e le piante nel dare il meglio di sé, senza logorarle, rispettando i tempi, le persone e l’ambiente."
+msgstr "To truly understand the needs of the soil and plants, we carefully observe the grassy cover, rich in wild flora, and alternate between fertilizing with mature manure and organic compost and using selected green manures based on legumes and grasses. Thanks to our passion and our natural approach to work, we support the soil and plants in giving their best without overburdening them, respecting nature’s timing, people, and the environment."
+
 #: src/components/Home.js:86
 msgid "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
 msgstr "For us one of the noblest gestures of mankind is to cultivate the land with respect: to work together with nature and let her gently pay us back."
 
-#: src/components/Filosofia.js:30
-msgid "Per ora abbiamo scelto di non avere certificazioni, ma il nostro lavoro è profondamente naturale e biologico col massimo rispetto delle piante, dell’ambiente e della persona."
-msgstr "We flush the vineyard only when really necessary, we don’t use any weed killer or organ-mineral fertilizer. We promote alternative techniques as temporary grassing with leguminous plants, to respect the real needs of the vines."
+#: src/components/Filosofia.js:14
+msgid "Per noi, uno dei gesti più belli e profondi dell’essere umano è coltivare, lavorare con la natura e permettere che essa ci ripaghi con generosità."
+msgstr "For us, one of the most beautiful and profound gestures of humanity is to cultivate, work with nature, and allow it to reward us generously."
 
 #: src/components/Home.js:93
 msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
 msgstr "We’ve chosen to cultivate our vineyards with love and respect."
-
-#: src/components/Filosofia.js:20
-msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle. Con una superficie aziendale di circa 6 ettari possiamo seguire personalmente tutte le fasi della filiera produttiva. Le alte densità di impianto (circa 6.000 piante per ettaro), le basse rese per ettaro (50 quintali) e le tipologie di allevamento, aiutano il vigneto a produrre uve di grande qualità."
-msgstr "We help the soil and the plants to do its best without impairing their ecosystem. For now we’ve chosen not to have certifications, but our work is deeply natural and organic, with the highest respect for the plants, the environment and ourselves."
 
 #: src/components/Menu.js:91
 msgid "Prama Dorada"
@@ -306,7 +309,7 @@ msgstr "Yield: <0>6/7.000 kg.</0>"
 
 #: src/components/ChiSiamo.js:24
 msgid "Sardo, laureato all'Università degli Studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie, nel corso di Viticoltura ed Enologia. Nella vita e con le vite non si smette mai di imparare; dopo aver accumulato diverse esperienze, è tornato a casa per \"fare il suo\". Nel 2007 ha impiantato i primi quattro ettari di vigna e quello che prima era un sogno è oggi molto lavoro e grande gioia. Si occupa personalmente della vigna e del lavoro in cantina."
-msgstr "Sardinian, he graduated from the University of Milan in the Faculty of Agricultural Sciences and Technologies, specializing in Viticulture and Enology. In life—and with vines—one never stops learning; after gaining various experiences, he returned home to "do his own thing." In 2007, he planted the first four hectares of vineyard, and what was once a dream has now become a labor of love and great joy. He personally takes care of the vineyard and the work in the winery."
+msgstr "Sardinian, he graduated from the University of Milan in the Faculty of Agricultural Sciences and Technologies, specializing in Viticulture and Enology. In life—and with vines—one never stops learning; after gaining various experiences, he returned home to \"do his own thing.\" In 2007, he planted the first four hectares of vineyard, and what was once a dream has now become a labor of love and great joy. He personally takes care of the vineyard and the work in the winery."
 
 #: src/components/ChiSiamo.js:9
 msgid "SIAMO FIGLI DEL VENTO"
@@ -328,9 +331,9 @@ msgstr "We are children of our culture, of our values."
 msgid "SIAMO FIGLI DELLA NOSTRA CULTURA, DEI NOSTRI VALORI."
 msgstr "WE ARE CHILDREN OF OUR CULTURE, OF OUR VALUES."
 
-#: src/components/Territorio.js:21
-msgid "Siamo nel Nord Sardegna, tra le regioni storiche della Gallura e dell’Anglona, tra i Comuni di Bortigiadas e di Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite per la vicinanza del mare e del lago Coghinas."
-msgstr "We are located in North Sardinia, between Gallura and Anglona historical zones, near the towns of Bortigiadas and Perfugas. Our vineyards, settled on limestone land, are located in “Lu Scupaggiu”, a unique area characterized by a mild climate due its proximity to both the sea and the Lake Coghinas."
+#: src/components/Territorio.js:22
+msgid "Siamo nel Nord Sardegna, tra le storiche regioni della Gallura e dell’Anglona, nei Comuni di Bortigiadas e Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite, grazie alla vicinanza del mare e del lago Coghinas."
+msgstr "We are in Northern Sardinia, between the historic regions of Gallura and Anglona, in the municipalities of Bortigiadas and Perfugas. Our vineyards are located at “Lu Scupaggiu” and are characterized by calcareous soils and a mild climate, thanks to the proximity of the sea and Lake Coghinas."
 
 #: src/components/ChiSiamo.js:37
 msgid "TATIANA HOLLER"
@@ -383,10 +386,6 @@ msgstr "Treatments: <0>Copper, sulfur, and organic preparations</0>"
 #: src/components/Fria.js:102
 msgid "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
 msgstr "Treatments: <0>Copper, sulfur, and organic preparations</0>"
-
-#: src/components/Filosofia.js:37
-msgid "Utilizziamo l’irrigazione solo se strettamente necessaria, non usiamo erbicidi né concimi di origine inorganica. Valorizziamo l’utilizzo di tecniche alternative come l’inerbimento temporaneo con leguminose e così facendo diamo priorità alle reali necessità delle piante. Il vento della nostra isola che abbonda nella nostra vigna rende il clima asciutto e ci aiuta a ridurre al minimo i trattamenti antiparassitari."
-msgstr "The wind blows constantly in Sardinia and is abundant in our vineyard it brings dry weather and help us to limit any treatments.Our wine is mainly made in the vinyeard but when the grapes come into the cellar, fantasy and experience start to figure out what is going to happen while watching the colours, tasting the sweetness and inebriating yourself with the scent of the fermenting must. The result is achieved by the nature itself and the man monitoring this magic transformation, trying to interfere as little as possible in the natural walk of the grapes turning into wine. Keen and careful eyes, livable vineyard and propitious nature"
 
 #: src/components/PramaDorada.js:88
 msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una delicata pressatura a piedi nudi e da una macerazione di almeno sette giorni sulle bucce. Prepariamo un pied de cuve una settimana prima della vendemmia, che viene inoculato il giorno della raccolta. La fermentazione dura circa 10 giorni, seguita dalla fermentazione malo lattica in botti di acacia, dove il vino riposa per un anno intero. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
