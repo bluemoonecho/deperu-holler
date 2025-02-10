@@ -25,10 +25,10 @@ const Contacts = () => (
         </a>
 
         <p className="mt-8">CARLO DEPERU</p>
-        <p>cel. 339609783</p>
+        <p>cel. +39 339 609 783</p>
 
         <p className="mt-8">TATIANA HOLLER</p>
-        <p>cel. 3332957208</p>
+        <p>cel. +39 333 295 7208</p>
       </div>
     </div>
   </div>

@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { BrowserRouter, Route, Routes, Navigate, useParams } from "react-router-dom";
 import { I18nProvider } from "@lingui/react";
 import { i18n } from "@lingui/core";
+import { Trans } from "@lingui/macro";
 
 import Home from "./components/Home";
 import Menu from "./components/Menu";
@@ -11,6 +12,7 @@ import Oberaia from "./components/Oberaia";
 import Familia from "./components/Familia";
 import Fria from "./components/Fria";
 import MariaTzufia from "./components/MariaTzufia";
+import TempoRei from "./components/TempoRei";
 import Beijo from "./components/Beijo";
 import ChiSiamo from "./components/ChiSiamo";
 import Filosofia from "./components/Filosofia";
@@ -19,6 +21,7 @@ import Contacts from "./components/Contacts";
 import Vini from "./components/Vini";
 import Logo from "./components/Logo";
 import ScrollToTop from "./components/ScrollToTop"; // <-- Import here
+import CookieConsent from "react-cookie-consent";
 
 import "./styles/menu.css";
 import "./styles/logo.css";
@@ -72,6 +75,7 @@ const AppWrapper = ({ isMenuOpen, setIsMenuOpen }) => {
           <Route path="fria" element={<Fria />} />
           <Route path="maria-tzufia" element={<MariaTzufia />} />
           <Route path="beijo" element={<Beijo />} />
+          <Route path="tempo-rei" element={<TempoRei />} />
           <Route path="chi-siamo" element={<ChiSiamo />} />
           <Route path="filosofia-e-pratica" element={<Filosofia />} />
           <Route path="il-territorio" element={<Territorio />} />
@@ -89,7 +93,18 @@ const App = () => {
 
   return (
     <BrowserRouter>
-      {/* Place ScrollToTop so it listens to all route changes */}
+      {/* Cookie Consent Banner */}
+      {/* <CookieConsent
+        location="bottom"                     // Position of the banner ("bottom" or "top")
+        buttonText="I Understand"             // Text on the consent button
+        cookieName=""          // Name of the cookie that stores consent
+        style={{ background: "#000", fontSize: "14px" }}      // Custom styles for the banner
+        buttonStyle={{ background: "#FFF", color: "#000", fontSize: "14px" }} // Custom styles for the button
+        expires={150}                         // Cookie expiration in days
+      >
+        <p>Questo sito web non utilizza cookies.</p>
+      </CookieConsent> */}
+      {/* Your other app components */}
       <ScrollToTop />
       <Routes>
         <Route

@@ -5,7 +5,7 @@ import filosofiaImage from "../assets/images/deperu_holler_il_nostro_lavoro-1024
 const Filosofia = () => (
   <div>
     <Header
-      heading={t`…CRESCERE CON LE NOSTRE VITI.`}
+      heading={t`CRESCERE CON LE NOSTRE VITI`}
       classNames="text-white"
       image={filosofiaImage}
     />

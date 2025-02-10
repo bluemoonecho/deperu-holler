@@ -22,7 +22,7 @@ const Familia = () => (
         />
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
-            FAMILIA – ISOLA DEI NAURAGHI IGT
+            FAMILIA<br />ISOLA DEI NAURAGHI IGT
           </h2>
           <p className="mt-4">
             <Trans>

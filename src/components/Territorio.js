@@ -15,7 +15,7 @@ const Territorio = () => (
         <Trans>
           Al mattino, il vento è ancora assopito. Monte Ruiu si specchia nel
           lago Coghinas, moltiplicandosi in un rosso maestoso. Anche il cielo si
-          concede due volte, su e giù, riflesso nelle acque
+          concede due volte, su e giù, riflesso nelle acque.
         </Trans>
       </p>
       <p className="mt-8">
@@ -43,7 +43,7 @@ const Territorio = () => (
           Ad ogni sorso che berrete, ci sentiremo ripagati e appagati; gioiremo
           assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi
           del mare.
-          </Trans>
+        </Trans>
       </p>
     </div>
   </div>

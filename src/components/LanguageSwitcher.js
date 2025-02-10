@@ -20,12 +20,15 @@ const LanguageSwitcher = () => {
     <div className="flex gap-6 px-5 mt-5">
       <Link to={createLangSwitchUrl("it")}>
         <img src={italia} alt="italia" />
+        <p className="text-xs ml-3">IT</p>
       </Link>
       <Link to={createLangSwitchUrl("en")}>
         <img src={inghilterra} alt="inghilterra" />
+        <p className="text-xs ml-3">EN</p>
       </Link>
       <Link to={createLangSwitchUrl("srd")}>
         <img src={sardegna} alt="sardegna" />
+        <p className="text-xs mx-auto">SRD</p>
       </Link>
     </div>
   );

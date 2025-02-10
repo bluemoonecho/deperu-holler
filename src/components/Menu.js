@@ -101,6 +101,11 @@ function Menu({ isMenuOpen, setIsMenuOpen }) {
             <Trans>Beijo</Trans>
           </Link>
         </li>
+        <li className="ml-4">
+          <Link to={`/${lang}/tempo-rei`} onClick={closeMenu}>
+            <Trans>Tempo Rei</Trans>
+          </Link>
+        </li>
         {/* <li>
           <Link to={`/${lang}/gallery`} onClick={closeMenu}>
             <Trans>Gallery</Trans>

@@ -6,7 +6,6 @@ const ChiSiamo = () => (
   <div>
     <Header
       classNames="text-white mt-56"
-      heading={t`SIAMO FIGLI DEL VENTO`}
       image={chiSiamo}
     />
     <div className="container flex text-center">

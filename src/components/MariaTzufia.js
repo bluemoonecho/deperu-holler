@@ -22,7 +22,7 @@ const Fria = () => (
         /> */}
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
-            MARIA TZUFIA ISOLA DEI NURAGHI IGT
+            MARIA TZUFIA<br /> ISOLA DEI NURAGHI IGT
           </h2>
           <p className="mt-4">
             <Trans>
@@ -43,8 +43,7 @@ const Fria = () => (
               proprio ordine. Oggi, Maria Tzufia si è evoluto: da bambina
               spettinata è diventato un vino raffinato e sorprendente . Non è
               dolce, ma nel suo cuore sprigiona la gioia della primavera in
-              arrivo, è un vino secco, regalando una freschezza e una mineralità
-              inaspettate.
+              arrivo, è un vino secco, che regala una freschezza e una mineralità inaspettate.
             </Trans>
           </p>
           <div className="wine-page__columns">

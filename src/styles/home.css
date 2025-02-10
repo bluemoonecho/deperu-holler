@@ -19,7 +19,17 @@
 }
 
 .home__wine-link-image {
-  width: 12rem;
+  height: 12rem;
+  width: 100%;
+  object-fit: cover;
+  object-position: center; /* optional: centers the image within the container */
+}
+
+.home__wine-link-image-new {
+  height: 13rem;
+  width: 100%;
+  object-fit: cover;
+  object-position: center; /* optional: centers the image within the container */
 }
 
 .home__wine-link-name {

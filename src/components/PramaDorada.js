@@ -21,7 +21,7 @@ const PramaDorada = () => (
         />
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
-            PRAMA DORADA ISOLA DEI NURAGHI IGT BIANCO
+            PRAMA DORADA<br /> ISOLA DEI NURAGHI IGT BIANCO
           </h2>
           <p className="mt-4">
             <Trans>

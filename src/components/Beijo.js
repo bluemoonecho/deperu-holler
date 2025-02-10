@@ -22,7 +22,7 @@ const Fria = () => (
         /> */}
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
-            BEIJO VINO ROSSO
+            BEIJO<br /> VINO ROSSO
           </h2>
           <p className="mt-4">
             <Trans>

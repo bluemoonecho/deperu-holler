@@ -21,7 +21,7 @@ const Oberaia = () => (
         />
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
-            OBERAÌA – ISOLA DEI NAURAGHI IGT
+            OBERAÌA<br />ISOLA DEI NAURAGHI IGT
           </h2>
           <p className="mt-4">
             <Trans>
