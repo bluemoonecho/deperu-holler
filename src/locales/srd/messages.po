@@ -29,7 +29,6 @@ msgstr "Abbinamenti: <0>Ideale cun antipasti de mare, minestroni estivi e grigli
 msgid "Abbinamenti: <0>Ideale con primi piatti complessi della cucina invernale, cacciagione da pelo e formaggi stagionati.</0>"
 msgstr "Abbinamenti: <0>Ideale cun primi piatti complessi de sa cucina invernale, cacciagione da pelo e formaggi stagionati.</0>"
 
-
 #: src/components/MariaTzufia.js:147
 msgid "Abbinamenti: <0>Ideale per aperitivi, risotti con crostacei, zuppe e piatti con spezie esotiche.</0>"
 msgstr "Abbinamenti: <0>Ideale per aperitivi, risotti cun crostacei, zuppe e piatti cun spezie esotiche.</0>"
@@ -206,7 +205,6 @@ msgstr "Home"
 msgid "I nostri vini"
 msgstr "Is nostri binos"
 
-
 #: src/components/Home.js:28
 #: src/components/Vini.js:14
 msgid "I NOSTRI VINI"
@@ -214,7 +212,7 @@ msgstr "BINOS"
 
 #: src/components/Beijo.js:28
 msgid "Il nome \"Beijo\" significa \"bacio\", un gesto semplice ma ricco di emozione, così questo vino invita a celebrare l'amore e le connessioni umane."
-msgstr ""Su nomi \"Beijo\" significat \"baci\", un gestu semplice ma riccu de emozione, custì custu vino invita a celebràre s'amore e is connessioni umanas."
+msgstr "\"Su nomi \"Beijo\" significat \"baci\", un gestu semplice ma riccu de emozione, custì custu vino invita a celebràre s'amore e is connessioni umanas."
 
 #: src/components/Filosofia.js:41
 msgid "Il nostro vino nasce principalmente in vigna, ma anche il lavoro dell’uomo in cantina gioca un ruolo fondamentale. La nostra esperienza, accumulata attraverso la produzione e il consumo di numerosi vini, ci offre una base preziosa per interpretare ogni annata. L’osservazione del colore, del gusto e del profumo del mosto in fermentazione ci fa sognare sulle potenzialità dei vini. Utilizziamo la fermentazione spontanea delle nostre uve, seguendo attentamente il suo percorso attraverso studi e analisi. Effettuiamo diverse vinificazioni per trovare l’equilibrio e il carattere perfetti per ogni blend. Il risultato finale è il frutto della sinergia tra la natura e l’uomo, che collaborano insieme dalla vite al vino."
