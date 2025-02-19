@@ -37,7 +37,7 @@ msgstr "Abbinamenti: <0>Ideale per aperitivi, risotti con crostacei, zuppe e pia
 msgid "Abbinamenti: <0>Perfetto con salumi e formaggi, pesci grassi alla brace, carni rosse, zuppe di legumi alla sarda. Ideale per un ispuntinu.</0>"
 msgstr "Abbinamenti: <0>Perfetto con salumi e formaggi, pesci grassi alla brace, carni rosse, zuppe di legumi alla sarda. Ideale per un ispuntinu.</0>"
 
-#: src/components/TempoRei.js:151
+#: src/components/TempoRei.js:149
 msgid "Abbinamenti: <0>Un vino importante ma non difficile da bere e da consigliare con pecorini stagionati, dolci-non-dolci, cioccolato fondente di buona concentrazione, sigari cubani.</0>"
 msgstr "Abbinamenti: <0>Un vino importante ma non difficile da bere e da consigliare con pecorini stagionati, dolci-non-dolci, cioccolato fondente di buona concentrazione, sigari cubani.</0>"
 
@@ -57,11 +57,11 @@ msgstr "Beijo"
 msgid "Beijo è un vino semplice, facile, ma pieno di sfumature e profumi che sfuggono all’identificazione delle singole uve. È composto di dieci varietà che crescono insieme nella stessa terra, creando un’armonia unica. Questa ricchezza di varietà riflette la biodiversità del territorio, dove le viti sono accompagnate da una miriade di erbe spontanee che prosperano nel nostro ambiente. Il risultato è un vino che racconta una storia, quella della terra in cui è nato, delle sue tradizioni e delle sue peculiarità."
 msgstr "Beijo è un vino semplice, facile, ma pieno di sfumature e profumi che sfuggono all’identificazione delle singole uve. È composto di dieci varietà che crescono insieme nella stessa terra, creando un’armonia unica. Questa ricchezza di varietà riflette la biodiversità del territorio, dove le viti sono accompagnate da una miriade di erbe spontanee che prosperano nel nostro ambiente. Il risultato è un vino che racconta una storia, quella della terra in cui è nato, delle sue tradizioni e delle sue peculiarità."
 
-#: src/components/ChiSiamo.js:39
+#: src/components/ChiSiamo.js:43
 msgid "Brasiliana di origine tedesca, laureata in Marketing e Comunicazione. Dopo aver completato gli studi in Brasile, parte per un anno sabbatico nel \"vecchio mondo\". Qui si innamora della nuova vita e conosce Carlo, lasciandosi contagiare dal suo amore per la Sardegna, per il cibo e per il vino. Insieme hanno deciso di mettere radici in questa terra unica. Tatiana gestisce le vendite, l’amministrazione e il marketing dell’azienda."
 msgstr "Brasiliana di origine tedesca, laureata in Marketing e Comunicazione. Dopo aver completato gli studi in Brasile, parte per un anno sabbatico nel \"vecchio mondo\". Qui si innamora della nuova vita e conosce Carlo, lasciandosi contagiare dal suo amore per la Sardegna, per il cibo e per il vino. Insieme hanno deciso di mettere radici in questa terra unica. Tatiana gestisce le vendite, l’amministrazione e il marketing dell’azienda."
 
-#: src/components/ChiSiamo.js:20
+#: src/components/ChiSiamo.js:24
 msgid "CARLO DEPERU"
 msgstr "CARLO DEPERU"
 
@@ -81,7 +81,7 @@ msgstr "Colore: <0>Giallo intenso con lucide sfumature di topazio.</0>"
 msgid "Colore: <0>Giallo paglierino tendente al dorato.</0>"
 msgstr "Colore: <0>Giallo paglierino tendente al dorato.</0>"
 
-#: src/components/TempoRei.js:115
+#: src/components/TempoRei.js:113
 msgid "Colore: <0>Rosso ciliegia scarico e leggermente velato. Introduzione ad un vino fuori dalle righe a partire dalla vista. Un aspetto molto casual che viene immediatamente smentito appena il naso si avvicina al calice. È il vino delle grandi contraddizioni: se l'aspetto visivo è vestito in jeans e camperos, il naso ci parla di abito da sera da grandi occasioni.</0>"
 msgstr "Colore: <0>Rosso ciliegia scarico e leggermente velato. Introduzione ad un vino fuori dalle righe a partire dalla vista. Un aspetto molto casual che viene immediatamente smentito appena il naso si avvicina al calice. È il vino delle grandi contraddizioni: se l'aspetto visivo è vestito in jeans e camperos, il naso ci parla di abito da sera da grandi occasioni.</0>"
 
@@ -133,7 +133,7 @@ msgstr "Densità di impianto: <0>5.600 piante per ettaro.</0>"
 
 #: src/components/Familia.js:78
 #: src/components/Oberaia.js:64
-#: src/components/TempoRei.js:77
+#: src/components/TempoRei.js:75
 msgid "Densità di impianto: <0>5.680 piante per ettaro.</0>"
 msgstr "Densità di impianto: <0>5.680 piante per ettaro.</0>"
 
@@ -181,7 +181,7 @@ msgstr "Gusto: <0>Caldo e corposo, con tannini giovani ed eleganti, di buona aci
 msgid "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 msgstr "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 
-#: src/components/TempoRei.js:139
+#: src/components/TempoRei.js:137
 msgid "Gusto: <0>In bocca si chiude il cerchio delle sorprese: se da un vino dal bouquet così articolato e complesso, ti aspetti un vino giunonico e ciccione, rimani spiazzato dalla grande scorrevolezza regalata dai tannini residui ma ancora operativi e da una sapida freschezza.</0>"
 msgstr "Gusto: <0>In bocca si chiude il cerchio delle sorprese: se da un vino dal bouquet così articolato e complesso, ti aspetti un vino giunonico e ciccione, rimani spiazzato dalla grande scorrevolezza regalata dai tannini residui ma ancora operativi e da una sapida freschezza.</0>"
 
@@ -242,6 +242,14 @@ msgstr "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del V
 msgid "La vite è una meraviglia della natura, simbolo della simbiosi tra terra e ambiente, celebrazione delle radici e della vita che si evolve. Sprofondare nella terra senza morire, crescere verso il cielo e dare frutti che inebriano e raccontano. Questo vino rosso è un omaggio alle nostre radici e alla cultura, dedicato a tutti coloro che trasmettono passione e raccontano storie."
 msgstr "La vite è una meraviglia della natura, simbolo della simbiosi tra terra e ambiente, celebrazione delle radici e della vita che si evolve. Sprofondare nella terra senza morire, crescere verso il cielo e dare frutti che inebriano e raccontano. Questo vino rosso è un omaggio alle nostre radici e alla cultura, dedicato a tutti coloro che trasmettono passione e raccontano storie."
 
+#: src/components/ChiSiamo.js:15
+msgid "Lavoriamo rispettando la natura, le nostre viti e le persone. Guidiamo le viti con cura, preservando la loro identità, affrontando rischi e raccogliendo soddisfazioni uniche. Radici profonde, forgiati dal vento, cerchiamo il sole."
+msgstr "Lavoriamo rispettando la natura, le nostre viti e le persone. Guidiamo le viti con cura, preservando la loro identità, affrontando rischi e raccogliendo soddisfazioni uniche. Radici profonde, forgiati dal vento, cerchiamo il sole."
+
+#: src/components/Menu.js:120
+msgid "Lingue:"
+msgstr "Lingue:"
+
 #: src/components/Menu.js:96
 msgid "Maria Tzufia"
 msgstr "Maria Tzufia"
@@ -278,7 +286,7 @@ msgstr "Olfatto: <0>Fragolina, essenze vegetali, viola. </0>"
 msgid "Olfatto: <0>I profumi si evolvono e si rivelano durante la degustazione, con delicate note resinose e di miele che si intrecciano in un bouquet di grande finezza. </0>"
 msgstr "Olfatto: <0>I profumi si evolvono e si rivelano durante la degustazione, con delicate note resinose e di miele che si intrecciano in un bouquet di grande finezza. </0>"
 
-#: src/components/TempoRei.js:129
+#: src/components/TempoRei.js:127
 msgid "Olfatto: <0>Un’incalzante raffica di suggestioni che vanno dalla frutta secca alle note balsamiche di eucalipto. Il tutto su una base di liquirizia e profumato tabacco. </0>"
 msgstr "Olfatto: <0>Un’incalzante raffica di suggestioni che vanno dalla frutta secca alle note balsamiche di eucalipto. Il tutto su una base di liquirizia e profumato tabacco. </0>"
 
@@ -306,10 +314,6 @@ msgstr "Prama Dorada"
 msgid "Prama Dorada è un omaggio alla tradizione dei vini bianchi di un tempo, quando nei vigneti si mescolavano varietà innestate con marze selezionate, dando vita a vini unici e irripetibili. Questo vino è un’armonia delle varietà autoctone sarde che amiamo di più, creando una mescita ricca, elegante e, soprattutto, inimitabile."
 msgstr "Prama Dorada è un omaggio alla tradizione dei vini bianchi di un tempo, quando nei vigneti si mescolavano varietà innestate con marze selezionate, dando vita a vini unici e irripetibili. Questo vino è un’armonia delle varietà autoctone sarde che amiamo di più, creando una mescita ricca, elegante e, soprattutto, inimitabile."
 
-#: src/App.js:105
-msgid "Questo sito web non utilizza cookies."
-msgstr "Questo sito web non utilizza cookies."
-
 #: src/components/Familia.js:35
 msgid "Questo vino nasce dall’unione di tre vitigni rossi sardi, storicamente coltivati insieme per garantire una costanza produttiva. In passato, il vino era considerato un alimento essenziale. Le percentuali dei vitigni variano di anno in anno, poiché non esiste un protocollo fisso: il blend è creato cercando l’equilibrio perfetto tra freschezza, robustezza ed eleganza."
 msgstr "Questo vino nasce dall’unione di tre vitigni rossi sardi, storicamente coltivati insieme per garantire una costanza produttiva. In passato, il vino era considerato un alimento essenziale. Le percentuali dei vitigni variano di anno in anno, poiché non esiste un protocollo fisso: il blend è creato cercando l’equilibrio perfetto tra freschezza, robustezza ed eleganza."
@@ -325,7 +329,7 @@ msgstr "Resa per ettaro: <0>50 quintali.</0>"
 
 #: src/components/Familia.js:86
 #: src/components/Oberaia.js:72
-#: src/components/TempoRei.js:85
+#: src/components/TempoRei.js:83
 msgid "Resa per ettaro: <0>55 quintali.</0>"
 msgstr "Resa per ettaro: <0>55 quintali.</0>"
 
@@ -333,31 +337,27 @@ msgstr "Resa per ettaro: <0>55 quintali.</0>"
 msgid "Resa per ettaro: <0>60/70 quintali.</0>"
 msgstr "Resa per ettaro: <0>60/70 quintali.</0>"
 
-#: src/components/ChiSiamo.js:23
+#: src/components/ChiSiamo.js:27
 msgid "Sardo, laureato all'Università degli Studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie, nel corso di Viticoltura ed Enologia. Nella vita e con le vite non si smette mai di imparare; dopo aver accumulato diverse esperienze, è tornato a casa per \"fare il suo\". Nel 2007 ha impiantato i primi quattro ettari di vigna e quello che prima era un sogno è oggi molto lavoro e grande gioia. Si occupa personalmente della vigna e del lavoro in cantina."
 msgstr "Sardo, laureato all'Università degli Studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie, nel corso di Viticoltura ed Enologia. Nella vita e con le vite non si smette mai di imparare; dopo aver accumulato diverse esperienze, è tornato a casa per \"fare il suo\". Nel 2007 ha impiantato i primi quattro ettari di vigna e quello che prima era un sogno è oggi molto lavoro e grande gioia. Si occupa personalmente della vigna e del lavoro in cantina."
+
+#: src/components/ChiSiamo.js:10
+msgid "Siamo Carlo e Tatiana Deperu Holler, cresciamo con le nostre viti."
+msgstr "Siamo Carlo e Tatiana Deperu Holler, cresciamo con le nostre viti."
 
 #: src/components/Home.js:45
 msgid "Siamo figli del vento."
 msgstr "Siamo figli del vento."
 
-#: src/components/ChiSiamo.js:16
-msgid "SIAMO FIGLI DEL VENTO."
-msgstr "SIAMO FIGLI DEL VENTO."
-
 #: src/components/Home.js:42
 msgid "Siamo figli della nostra cultura, dei nostri valori."
 msgstr "Siamo figli della nostra cultura, dei nostri valori."
-
-#: src/components/ChiSiamo.js:13
-msgid "SIAMO FIGLI DELLA NOSTRA CULTURA, DEI NOSTRI VALORI."
-msgstr "SIAMO FIGLI DELLA NOSTRA CULTURA, DEI NOSTRI VALORI."
 
 #: src/components/Territorio.js:22
 msgid "Siamo nel Nord Sardegna, tra le storiche regioni della Gallura e dell’Anglona, nei Comuni di Bortigiadas e Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite, grazie alla vicinanza del mare e del lago Coghinas."
 msgstr "Siamo nel Nord Sardegna, tra le storiche regioni della Gallura e dell’Anglona, nei Comuni di Bortigiadas e Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite, grazie alla vicinanza del mare e del lago Coghinas."
 
-#: src/components/ChiSiamo.js:36
+#: src/components/ChiSiamo.js:40
 msgid "TATIANA HOLLER"
 msgstr "TATIANA HOLLER"
 
@@ -383,16 +383,13 @@ msgstr "Tipologia di allevamento: <0>Guyot.</0>"
 msgid "Tipologia di allevamento:<0> Guyot.</0>"
 msgstr "Tipologia di allevamento:<0> Guyot.</0>"
 
-#: src/components/TempoRei.js:68
+#: src/components/TempoRei.js:66
 msgid "Tipologia di allevamento:<0>Alberello e cordone speronato.</0>"
 msgstr "Tipologia di allevamento:<0>Alberello e cordone speronato.</0>"
 
-#: src/components/TempoRei.js:60
-msgid "Tipologia di terreno:  <0>Calcareo argilloso.</0>"
-msgstr "Tipologia di terreno:  <0>Calcareo argilloso.</0>"
-
 #: src/components/Familia.js:64
 #: src/components/PramaDorada.js:54
+#: src/components/TempoRei.js:60
 msgid "Tipologia di terreno: <0>Calcareo argilloso.</0>"
 msgstr "Tipologia di terreno: <0>Calcareo argilloso.</0>"
 
@@ -414,7 +411,7 @@ msgstr "TRA GALLURA ED ANGLONA"
 #: src/components/MariaTzufia.js:98
 #: src/components/Oberaia.js:78
 #: src/components/PramaDorada.js:80
-#: src/components/TempoRei.js:91
+#: src/components/TempoRei.js:89
 msgid "Trattamenti: <0>Rame, zolfo e preparati biologici.</0>"
 msgstr "Trattamenti: <0>Rame, zolfo e preparati biologici.</0>"
 
@@ -426,7 +423,7 @@ msgstr "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
 msgid "Un vino che ormai era senza pretese, lasciato al tempo per evolversi, si trasforma e porta con se tutti gli anni del legno, del sole e della flor. Ammorbidito è diventato un scrigno di profumi e sensazioni e il tempo è stato sovranno di questa trasformazione."
 msgstr "Un vino che ormai era senza pretese, lasciato al tempo per evolversi, si trasforma e porta con se tutti gli anni del legno, del sole e della flor. Ammorbidito è diventato un scrigno di profumi e sensazioni e il tempo è stato sovranno di questa trasformazione."
 
-#: src/components/TempoRei.js:99
+#: src/components/TempoRei.js:97
 msgid "Vinificazione: <0>Fermentazione spontanea in tini aperti e poi un passaggio di 4 anni in legno grande. Ancora il vino risultava ostico e scomposto. Affinamento in damigiane esposte all' aria e alle intemperie per un anno in stile Roussillon. Ultimo passaggio in vasche di cemento scolme con formazione della Flor e processo ossidativo, fino alla bottiglia senza chiarifiche né filtrazioni.</0>"
 msgstr "Vinificazione: <0>Fermentazione spontanea in tini aperti e poi un passaggio di 4 anni in legno grande. Ancora il vino risultava ostico e scomposto. Affinamento in damigiane esposte all' aria e alle intemperie per un anno in stile Roussillon. Ultimo passaggio in vasche di cemento scolme con formazione della Flor e processo ossidativo, fino alla bottiglia senza chiarifiche né filtrazioni.</0>"
 

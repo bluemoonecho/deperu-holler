@@ -2,8 +2,8 @@ import React from "react";
 import TempoReiImage from "../assets/bottles/tempo.png";
 import "../styles/wine-page.css";
 import Header from "./Header";
-import Background from "../assets/images/fria_bg.jpg";
 import { Trans } from "@lingui/macro";
+import Background from "../assets/images/deperu_holler_oberaia_bg.jpg";
 
 const TempoRei = () => (
     <>

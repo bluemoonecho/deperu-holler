@@ -37,7 +37,7 @@ msgstr "Pairings: <0>Ideal for aperitifs, risottos with shellfish, soups, and di
 msgid "Abbinamenti: <0>Perfetto con salumi e formaggi, pesci grassi alla brace, carni rosse, zuppe di legumi alla sarda. Ideale per un ispuntinu.</0>"
 msgstr "Pairings: <0>Perfect with cured meats and cheeses, fatty grilled fish, red meats, and Sardinian legume soups. Ideal for a light snack.</0>"
 
-#: src/components/TempoRei.js:151
+#: src/components/TempoRei.js:149
 msgid "Abbinamenti: <0>Un vino importante ma non difficile da bere e da consigliare con pecorini stagionati, dolci-non-dolci, cioccolato fondente di buona concentrazione, sigari cubani.</0>"
 msgstr "Pairings: <0>An important wine that is not difficult to drink, recommended with aged pecorino cheeses, desserts that are sweet-but-not-overly sweet, intensely flavored dark chocolate, and Cuban cigars.</0>"
 
@@ -57,11 +57,11 @@ msgstr "Beijo"
 msgid "Beijo è un vino semplice, facile, ma pieno di sfumature e profumi che sfuggono all’identificazione delle singole uve. È composto di dieci varietà che crescono insieme nella stessa terra, creando un’armonia unica. Questa ricchezza di varietà riflette la biodiversità del territorio, dove le viti sono accompagnate da una miriade di erbe spontanee che prosperano nel nostro ambiente. Il risultato è un vino che racconta una storia, quella della terra in cui è nato, delle sue tradizioni e delle sue peculiarità."
 msgstr "Beijo is a straightforward, easy wine, yet it is full of nuances and aromas that transcend the identity of any single grape. It is composed of ten varieties growing together in the same land, creating a unique harmony. This richness of varieties reflects the biodiversity of the territory, where the vines are accompanied by a myriad of wild herbs thriving in our environment. The result is a wine that tells a story—the story of the land in which it was born, its traditions, and its peculiarities."
 
-#: src/components/ChiSiamo.js:39
+#: src/components/ChiSiamo.js:43
 msgid "Brasiliana di origine tedesca, laureata in Marketing e Comunicazione. Dopo aver completato gli studi in Brasile, parte per un anno sabbatico nel \"vecchio mondo\". Qui si innamora della nuova vita e conosce Carlo, lasciandosi contagiare dal suo amore per la Sardegna, per il cibo e per il vino. Insieme hanno deciso di mettere radici in questa terra unica. Tatiana gestisce le vendite, l’amministrazione e il marketing dell’azienda."
 msgstr "Brazilian of German descent, she holds a degree in Marketing and Communication. After completing her studies in Brazil, she set off on a sabbatical year in the \"Old World.\" There, she fell in love with her new life and met Carlo, letting herself be inspired by his passion for Sardinia, food, and wine. Together, they decided to put down roots in this unique land. Tatiana manages the sales, administration, and marketing of the company."
 
-#: src/components/ChiSiamo.js:20
+#: src/components/ChiSiamo.js:24
 msgid "CARLO DEPERU"
 msgstr "CARLO DEPERU"
 
@@ -81,7 +81,7 @@ msgstr "Colour: <0>Intense yellow with shiny topaz hues.</0>"
 msgid "Colore: <0>Giallo paglierino tendente al dorato.</0>"
 msgstr "Colour: <0>Straw yellow with a golden tinge</0>"
 
-#: src/components/TempoRei.js:115
+#: src/components/TempoRei.js:113
 msgid "Colore: <0>Rosso ciliegia scarico e leggermente velato. Introduzione ad un vino fuori dalle righe a partire dalla vista. Un aspetto molto casual che viene immediatamente smentito appena il naso si avvicina al calice. È il vino delle grandi contraddizioni: se l'aspetto visivo è vestito in jeans e camperos, il naso ci parla di abito da sera da grandi occasioni.</0>"
 msgstr "Color: <0>A faded cherry red with a slight veil. An introduction to an unconventional wine from the very first glance—a very casual appearance that is immediately contradicted when the nose approaches the glass. It is a wine of great contradictions: while its visual aspect is dressed in jeans and rustic style, its aroma speaks of evening wear for grand occasions.</0>"
 
@@ -133,7 +133,7 @@ msgstr "Density: <0>5.600 plants per hectar.</0>"
 
 #: src/components/Familia.js:78
 #: src/components/Oberaia.js:64
-#: src/components/TempoRei.js:77
+#: src/components/TempoRei.js:75
 msgid "Densità di impianto: <0>5.680 piante per ettaro.</0>"
 msgstr "Density: <0>5.860 plants per hectar.</0>"
 
@@ -181,7 +181,7 @@ msgstr "Taste: <0>Warm and full-bodied, with young and elegant tannins and good 
 msgid "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 msgstr "Taste: <0>Fresh and savory, with good structure. An authentic Vermentino that offers a lovely almond finish.</0>"
 
-#: src/components/TempoRei.js:139
+#: src/components/TempoRei.js:137
 msgid "Gusto: <0>In bocca si chiude il cerchio delle sorprese: se da un vino dal bouquet così articolato e complesso, ti aspetti un vino giunonico e ciccione, rimani spiazzato dalla grande scorrevolezza regalata dai tannini residui ma ancora operativi e da una sapida freschezza.</0>"
 msgstr "Taste: <0>On the palate, the circle of surprises is completed: if, from such an articulate and complex bouquet, you expect a robust, heavy wine, you will be taken aback by the remarkable fluidity provided by the residual, yet active, tannins and a savory freshness.</0>"
 
@@ -242,6 +242,14 @@ msgstr "The clear, briny air gently settles on the golden clusters of Vermentino
 msgid "La vite è una meraviglia della natura, simbolo della simbiosi tra terra e ambiente, celebrazione delle radici e della vita che si evolve. Sprofondare nella terra senza morire, crescere verso il cielo e dare frutti che inebriano e raccontano. Questo vino rosso è un omaggio alle nostre radici e alla cultura, dedicato a tutti coloro che trasmettono passione e raccontano storie."
 msgstr "The vine is a marvel of nature, a symbol of the symbiosis between the land and its environment, a celebration of roots and the evolving life. To sink into the earth without dying, to grow toward the sky, and to bear fruits that intoxicate and tell stories. This red wine is a tribute to our roots and culture, dedicated to all those who transmit passion and share stories."
 
+#: src/components/ChiSiamo.js:15
+msgid "Lavoriamo rispettando la natura, le nostre viti e le persone. Guidiamo le viti con cura, preservando la loro identità, affrontando rischi e raccogliendo soddisfazioni uniche. Radici profonde, forgiati dal vento, cerchiamo il sole."
+msgstr "We work respecting nature, our vines, and people. We guide the vines with care, preserving their identity, facing risks, and reaping unique satisfactions. Deep roots, forged by the wind, we seek the sun."
+
+#: src/components/Menu.js:120
+msgid "Lingue:"
+msgstr "Languages:"
+
 #: src/components/Menu.js:96
 msgid "Maria Tzufia"
 msgstr "Maria Tzufia"
@@ -278,7 +286,7 @@ msgstr "Aroma: <0>Wild strawberry, vegetal notes, violet.</0>"
 msgid "Olfatto: <0>I profumi si evolvono e si rivelano durante la degustazione, con delicate note resinose e di miele che si intrecciano in un bouquet di grande finezza. </0>"
 msgstr "Aroma: <0>The scents evolve and reveal themselves during tasting, with delicate resinous and honey notes intertwining in a bouquet of great finesse.</0>"
 
-#: src/components/TempoRei.js:129
+#: src/components/TempoRei.js:127
 msgid "Olfatto: <0>Un’incalzante raffica di suggestioni che vanno dalla frutta secca alle note balsamiche di eucalipto. Il tutto su una base di liquirizia e profumato tabacco. </0>"
 msgstr "Aroma: <0>A relentless burst of impressions ranging from dried fruit to balsamic hints of eucalyptus, all resting on a base of licorice and fragrant tobacco.</0>"
 
@@ -306,10 +314,6 @@ msgstr "Prama Dorada"
 msgid "Prama Dorada è un omaggio alla tradizione dei vini bianchi di un tempo, quando nei vigneti si mescolavano varietà innestate con marze selezionate, dando vita a vini unici e irripetibili. Questo vino è un’armonia delle varietà autoctone sarde che amiamo di più, creando una mescita ricca, elegante e, soprattutto, inimitabile."
 msgstr "Prama Dorada is a tribute to the tradition of white wines of the past, when vineyards blended grafted varieties with selected rootstocks to create unique and unrepeatable wines. This wine is a harmony of the Sardinian native varieties we cherish most, resulting in a blend that is rich, elegant, and, above all, inimitable."
 
-#: src/App.js:105
-msgid "Questo sito web non utilizza cookies."
-msgstr "This website does not use cookies."
-
 #: src/components/Familia.js:35
 msgid "Questo vino nasce dall’unione di tre vitigni rossi sardi, storicamente coltivati insieme per garantire una costanza produttiva. In passato, il vino era considerato un alimento essenziale. Le percentuali dei vitigni variano di anno in anno, poiché non esiste un protocollo fisso: il blend è creato cercando l’equilibrio perfetto tra freschezza, robustezza ed eleganza."
 msgstr "This wine is born from the union of three Sardinian red grape varieties, historically cultivated together to ensure consistent production. In the past, wine was considered an essential food. The percentages of the grape varieties vary from year to year, as there is no fixed protocol: the blend is created by seeking the perfect balance between freshness, robustness, and elegance."
@@ -325,7 +329,7 @@ msgstr "Yield: <0>50 quintals.</0>"
 
 #: src/components/Familia.js:86
 #: src/components/Oberaia.js:72
-#: src/components/TempoRei.js:85
+#: src/components/TempoRei.js:83
 msgid "Resa per ettaro: <0>55 quintali.</0>"
 msgstr "Yield: <0>5.500 kg.</0>"
 
@@ -333,31 +337,27 @@ msgstr "Yield: <0>5.500 kg.</0>"
 msgid "Resa per ettaro: <0>60/70 quintali.</0>"
 msgstr "Yield: <0>6/7.000 kg.</0>"
 
-#: src/components/ChiSiamo.js:23
+#: src/components/ChiSiamo.js:27
 msgid "Sardo, laureato all'Università degli Studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie, nel corso di Viticoltura ed Enologia. Nella vita e con le vite non si smette mai di imparare; dopo aver accumulato diverse esperienze, è tornato a casa per \"fare il suo\". Nel 2007 ha impiantato i primi quattro ettari di vigna e quello che prima era un sogno è oggi molto lavoro e grande gioia. Si occupa personalmente della vigna e del lavoro in cantina."
 msgstr "Sardinian, he graduated from the University of Milan in the Faculty of Agricultural Sciences and Technologies, specializing in Viticulture and Enology. In life—and with vines—one never stops learning; after gaining various experiences, he returned home to \"do his own thing.\" In 2007, he planted the first four hectares of vineyard, and what was once a dream has now become a labor of love and great joy. He personally takes care of the vineyard and the work in the winery."
+
+#: src/components/ChiSiamo.js:10
+msgid "Siamo Carlo e Tatiana Deperu Holler, cresciamo con le nostre viti."
+msgstr "We are Carlo and Tatiana Deperu Holler, we grow with our vines."
 
 #: src/components/Home.js:45
 msgid "Siamo figli del vento."
 msgstr "We are children of the wind."
 
-#: src/components/ChiSiamo.js:16
-msgid "SIAMO FIGLI DEL VENTO."
-msgstr "WE ARE CHILDREN OF THE WIND."
-
 #: src/components/Home.js:42
 msgid "Siamo figli della nostra cultura, dei nostri valori."
 msgstr "We are children of our culture, of our values."
-
-#: src/components/ChiSiamo.js:13
-msgid "SIAMO FIGLI DELLA NOSTRA CULTURA, DEI NOSTRI VALORI."
-msgstr "WE ARE CHILDREN OF OUR CULTURE, OF OUR VALUES."
 
 #: src/components/Territorio.js:22
 msgid "Siamo nel Nord Sardegna, tra le storiche regioni della Gallura e dell’Anglona, nei Comuni di Bortigiadas e Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite, grazie alla vicinanza del mare e del lago Coghinas."
 msgstr "We are in Northern Sardinia, between the historic regions of Gallura and Anglona, in the municipalities of Bortigiadas and Perfugas. Our vineyards are located at “Lu Scupaggiu” and are characterized by calcareous soils and a mild climate, thanks to the proximity of the sea and Lake Coghinas."
 
-#: src/components/ChiSiamo.js:36
+#: src/components/ChiSiamo.js:40
 msgid "TATIANA HOLLER"
 msgstr "TATIANA HOLLER"
 
@@ -383,16 +383,13 @@ msgstr "Training System: <0>Guyot.</0>"
 msgid "Tipologia di allevamento:<0> Guyot.</0>"
 msgstr "Training System: <0>Guyot.</0>"
 
-#: src/components/TempoRei.js:68
+#: src/components/TempoRei.js:66
 msgid "Tipologia di allevamento:<0>Alberello e cordone speronato.</0>"
 msgstr "Training System: <0>Alberello and spur cordon.</0>"
 
-#: src/components/TempoRei.js:60
-msgid "Tipologia di terreno:  <0>Calcareo argilloso.</0>"
-msgstr ""
-
 #: src/components/Familia.js:64
 #: src/components/PramaDorada.js:54
+#: src/components/TempoRei.js:60
 msgid "Tipologia di terreno: <0>Calcareo argilloso.</0>"
 msgstr "Wine-Making: <0>Guyot, bush vine, and spur-pruned cordon.</0>"
 
@@ -414,7 +411,7 @@ msgstr "BETWEEN GALLURA AND ANGLONA"
 #: src/components/MariaTzufia.js:98
 #: src/components/Oberaia.js:78
 #: src/components/PramaDorada.js:80
-#: src/components/TempoRei.js:91
+#: src/components/TempoRei.js:89
 msgid "Trattamenti: <0>Rame, zolfo e preparati biologici.</0>"
 msgstr "Treatments: <0>Copper, sulfur, and organic preparations</0>"
 
@@ -426,7 +423,7 @@ msgstr "Treatments: <0>Copper, sulfur, and organic preparations</0>"
 msgid "Un vino che ormai era senza pretese, lasciato al tempo per evolversi, si trasforma e porta con se tutti gli anni del legno, del sole e della flor. Ammorbidito è diventato un scrigno di profumi e sensazioni e il tempo è stato sovranno di questa trasformazione."
 msgstr "A wine that was once unassuming, left to evolve with time, transforms and carries with it all the years of wood, sun, and flor. Having softened, it has become a treasure trove of aromas and sensations, with time presiding over this transformation."
 
-#: src/components/TempoRei.js:99
+#: src/components/TempoRei.js:97
 msgid "Vinificazione: <0>Fermentazione spontanea in tini aperti e poi un passaggio di 4 anni in legno grande. Ancora il vino risultava ostico e scomposto. Affinamento in damigiane esposte all' aria e alle intemperie per un anno in stile Roussillon. Ultimo passaggio in vasche di cemento scolme con formazione della Flor e processo ossidativo, fino alla bottiglia senza chiarifiche né filtrazioni.</0>"
 msgstr "Winemaking: <0>Spontaneous fermentation in open vats, followed by a 4‑year period in large wooden barrels. The wine still appeared austere and disjointed. It was then aged in demijohns exposed to air and the elements for one year in the Roussillon style. The final stage took place in cement tanks filled to the brim, with the formation of the Flor and an oxidative process, until bottling without fining or filtration.</0>"
 

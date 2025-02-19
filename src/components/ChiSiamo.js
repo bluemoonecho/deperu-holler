@@ -1,11 +1,11 @@
 import React from "react";
 import Header from "./Header";
 import { Trans } from "@lingui/macro";
-import chiSiamo from "../assets/images/deperu_holler_chi_siamo-1024x768.jpg";
+import chiSiamo from "../assets/images/carlo-tati.jpeg";
 const ChiSiamo = () => (
   <div>
     <Header classNames="text-white mt-56" image={chiSiamo} />
-    <div className="container flex text-center">
+    <div className="container flex text-left">
       <h2 className="font-bold text-2xl">
         <Trans>
           Siamo Carlo e Tatiana Deperu Holler, cresciamo con le nostre viti.

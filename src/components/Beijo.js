@@ -2,8 +2,8 @@ import React from "react";
 import BeijoImage from "../assets/bottles/beijo.png";
 import "../styles/wine-page.css";
 import Header from "./Header";
-import Background from "../assets/images/fria_bg.jpg";
 import { Trans } from "@lingui/macro";
+import Background from "../assets/images/deperu_holler_familia_bg.jpg";
 
 const Fria = () => (
   <>

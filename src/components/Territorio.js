@@ -10,7 +10,7 @@ const Territorio = () => (
       classNames="text-white"
       image={territorioImage}
     />
-    <div className="container flex text-center">
+    <div className="container flex text-left">
       <p className="font-bold italic">
         <Trans>
           Al mattino, il vento è ancora assopito. Monte Ruiu si specchia nel

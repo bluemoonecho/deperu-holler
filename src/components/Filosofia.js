@@ -9,7 +9,7 @@ const Filosofia = () => (
       classNames="text-white"
       image={filosofiaImage}
     />
-    <div className="container flex text-center">
+    <div className="container flex text-left">
       <p className="font-bold italic">
         <Trans>
           Per noi, uno dei gesti più belli e profondi dell’essere umano è
