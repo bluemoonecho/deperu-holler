@@ -18,6 +18,8 @@ const Contacts = () => (
 
         <p>E-Mail: </p>
         <a
+          target="_blank"
+          rel="noreferrer"
           href="mailto:info@deperuholler.com"
           className="font-bold text-l underline"
         >
@@ -26,9 +28,10 @@ const Contacts = () => (
         <p class="mt-8">
           <p>Seguici:</p>
           <a
+            target="_blank"
+            rel="noreferrer"
             href="https://www.instagram.com/deperuholler/"
             className="font-bold text-l underline"
-            _t
           >
             Instagram
           </a>

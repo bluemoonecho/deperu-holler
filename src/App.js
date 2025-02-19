@@ -1,5 +1,11 @@
 import React, { useState } from "react";
-import { BrowserRouter, Route, Routes, Navigate, useParams } from "react-router-dom";
+import {
+  BrowserRouter,
+  Route,
+  Routes,
+  Navigate,
+  useParams,
+} from "react-router-dom";
 import { I18nProvider } from "@lingui/react";
 import { i18n } from "@lingui/core";
 import { Trans } from "@lingui/macro";
@@ -94,33 +100,38 @@ const App = () => {
   return (
     <BrowserRouter>
       {/* Cookie Consent Banner */}
-      {/* <CookieConsent
-        location="bottom"                     // Position of the banner ("bottom" or "top")
-        buttonText="I Understand"             // Text on the consent button
-        cookieName=""          // Name of the cookie that stores consent
-        style={{ background: "#000", fontSize: "14px" }}      // Custom styles for the banner
-        buttonStyle={{ background: "#FFF", color: "#000", fontSize: "14px" }} // Custom styles for the button
-        expires={150}                         // Cookie expiration in days
+      <CookieConsent
+        location="bottom" // Position of the banner ("bottom" or "top")
+        buttonText="Accetta" // Text on the consent button
+        cookieName="no-cookies" // Name of the cookie that stores consent
+        style={{ background: "#000", fontSize: "12px" }} // Custom styles for the banner
+        buttonStyle={{
+          background: "#FFF",
+          color: "#000",
+          fontSize: "14px",
+          borderRadius: "25px", // This makes the button round
+          padding: "10px 20px", // Adjust padding to keep the button looking good
+        }} // Custom styles for the button        expires={150}                         // Cookie expiration in days
       >
         <p>Questo sito web non utilizza cookies.</p>
-      </CookieConsent> */}
+      </CookieConsent>
       {/* Your other app components */}
       <ScrollToTop />
       <Routes>
         <Route
           path="/:lang/*"
           element={
-            <AppWrapper
-              isMenuOpen={isMenuOpen}
-              setIsMenuOpen={setIsMenuOpen}
-            />
+            <AppWrapper isMenuOpen={isMenuOpen} setIsMenuOpen={setIsMenuOpen} />
           }
         />
         {/* If the URL does not match, redirect to the saved language or default */}
         <Route
           path="*"
           element={
-            <Navigate to={`/${localStorage.getItem("selectedLang") || defaultLocale}`} replace />
+            <Navigate
+              to={`/${localStorage.getItem("selectedLang") || defaultLocale}`}
+              replace
+            />
           }
         />
       </Routes>
