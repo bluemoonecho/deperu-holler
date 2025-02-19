@@ -1,5 +1,5 @@
 import React from "react";
-// import FriaImage from "../assets/images/Still-FRIA_edit.png";
+import MariaImage from "../assets/bottles/maria.png";
 import "../styles/wine-page.css";
 import Header from "./Header";
 import Background from "../assets/images/fria_bg.jpg";
@@ -15,11 +15,11 @@ const Fria = () => (
     />
     <div className="wine-page container">
       <div className="wine-page__area">
-        {/* <img
+        <img
           className="wine-page__bottle md:-mt-80"
-          src={null}
-          alt="prama-dorada-bottle"
-        /> */}
+          src={MariaImage}
+          alt="maria-tzufia-bottle"
+        />
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
             MARIA TZUFIA<br /> ISOLA DEI NURAGHI IGT

@@ -1,5 +1,5 @@
 import React from "react";
-import FriaImage from "../assets/images/Still-FRIA_edit.png";
+import FriaImage from "../assets/bottles/fria.png";
 import "../styles/wine-page.css";
 import Header from "./Header";
 import Background from "../assets/images/fria_bg.jpg";

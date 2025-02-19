@@ -1,5 +1,5 @@
 import React from "react";
-import PramaDoradaImage from "../assets/images/Still-Prama-Dorada.png";
+import PramaDoradaImage from "../assets/bottles/prama.png";
 import "../styles/wine-page.css";
 import Header from "./Header";
 import Background from "../assets/images/fria_bg.jpg";

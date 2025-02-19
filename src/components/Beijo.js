@@ -1,5 +1,5 @@
 import React from "react";
-// import FriaImage from "../assets/images/Still-FRIA_edit.png";
+import BeijoImage from "../assets/bottles/beijo.png";
 import "../styles/wine-page.css";
 import Header from "./Header";
 import Background from "../assets/images/fria_bg.jpg";
@@ -15,11 +15,11 @@ const Fria = () => (
     />
     <div className="wine-page container">
       <div className="wine-page__area">
-        {/* <img
+        <img
           className="wine-page__bottle md:-mt-80"
-          src={null}
-          alt="prama-dorada-bottle"
-        /> */}
+          src={BeijoImage}
+          alt="beijo-bottle"
+        />
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
             BEIJO<br /> VINO ROSSO

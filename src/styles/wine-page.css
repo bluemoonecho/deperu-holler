@@ -2,18 +2,22 @@
   display: grid;
   grid-template-areas: "image content";
   grid-template-columns: minmax(0, 30%) minmax(0, 70%);
-  gap: 3rem;
+  gap: 1rem;
 }
 
 .wine-page__bottle {
   grid-area: image;
-  max-width: 18rem;
   width: 100%;
-  height: auto;
+  height: 100vh; /* Full viewport height */
+  object-fit: cover; /* Stretches the bottle while maintaining proportions */
+  display: block;
+  margin-left: -1rem;
 }
 
 .wine-page__content {
   grid-area: content;
+  margin: 0;
+  padding-left: 1rem; /* Prevents overlap with bottle */
 }
 
 .wine-page__columns {
@@ -25,18 +29,26 @@
 
 /* on small screens */
 
+/* Small screens */
 @media (max-width: 768px) {
   .wine-page__area {
-    grid-template-columns: minmax(0, 30%) minmax(0, 70%);
+    grid-template-columns: 1fr; /* Stacks the image and content vertically */
+    grid-template-areas: "image" "content"; /* Ensures bottle goes on top, text below */
+    gap: 1.5rem;
+  }
+
+  .wine-page__bottle {
+    width: 100%;
+    height: auto;
+    max-height: 80vh; /* Keeps the bottle large, but not too big */
+    object-fit: contain; /* Maintains the aspect ratio */
+  }
+
+  .wine-page__content {
+    padding-left: 0; /* Removes unnecessary left padding */
   }
 
   .wine-page__columns {
     grid-template-columns: 1fr;
-  }
-
-  .wine-page__bottle {
-    max-width: 100%;
-    width: 100%;
-    height: auto;
   }
 }

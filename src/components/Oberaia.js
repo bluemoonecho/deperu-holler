@@ -1,5 +1,5 @@
 import React from "react";
-import OberaiaImage from "../assets/images/Oberaia-264x1024.png";
+import OberaiaImage from "../assets/bottles/oberaia.png";
 import "../styles/wine-page.css";
 import Header from "./Header";
 import Background from "../assets/images/deperu_holler_oberaia_bg.jpg";

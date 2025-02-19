@@ -1,20 +1,24 @@
 import React from "react";
 import Header from "./Header";
-import { Trans, t } from "@lingui/macro";
+import { Trans } from "@lingui/macro";
 import chiSiamo from "../assets/images/deperu_holler_chi_siamo-1024x768.jpg";
 const ChiSiamo = () => (
   <div>
-    <Header
-      classNames="text-white mt-56"
-      image={chiSiamo}
-    />
+    <Header classNames="text-white mt-56" image={chiSiamo} />
     <div className="container flex text-center">
       <h2 className="font-bold text-2xl">
-        <Trans>SIAMO FIGLI DELLA NOSTRA CULTURA, DEI NOSTRI VALORI.</Trans>
+        <Trans>
+          Siamo Carlo e Tatiana Deperu Holler, cresciamo con le nostre viti.
+        </Trans>
       </h2>
-      <h2 className="font-bold text-2xl">
-        <Trans>SIAMO FIGLI DEL VENTO.</Trans>
-      </h2>
+      <h3 className="font-muli">
+        <Trans>
+          Lavoriamo rispettando la natura, le nostre viti e le persone. Guidiamo
+          le viti con cura, preservando la loro identità, affrontando rischi e
+          raccogliendo soddisfazioni uniche. Radici profonde, forgiati dal
+          vento, cerchiamo il sole.
+        </Trans>
+      </h3>
       <div className="mt-5">
         <h3 className="font-bold font-muli">
           <Trans>CARLO DEPERU</Trans>

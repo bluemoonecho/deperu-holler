@@ -116,8 +116,12 @@ function Menu({ isMenuOpen, setIsMenuOpen }) {
             <Trans>Contatti</Trans>
           </Link>
         </li>
+        <li>
+          <Trans>Lingue:</Trans>
+          <LanguageSwitcher />
+        </li>
       </ul>
-      <LanguageSwitcher />
+
     </div>
   );
 }

@@ -1,5 +1,5 @@
 import React from "react";
-// import FriaImage from "../assets/images/Still-FRIA_edit.png";
+import TempoReiImage from "../assets/bottles/tempo.png";
 import "../styles/wine-page.css";
 import Header from "./Header";
 import Background from "../assets/images/fria_bg.jpg";
@@ -15,11 +15,11 @@ const TempoRei = () => (
         />
         <div className="wine-page container">
             <div className="wine-page__area">
-                {/* <img
-          className="wine-page__bottle md:-mt-80"
-          src={null}
-          alt="prama-dorada-bottle"
-        /> */}
+                <img
+                    className="wine-page__bottle md:-mt-80"
+                    src={TempoReiImage}
+                    alt="prama-dorada-bottle"
+                />
                 <div className="wine-page__content">
                     <h2 className="font-bold text-2xl md:text-3xl mt-4">
                         TEMPO REI
@@ -58,10 +58,8 @@ const TempoRei = () => (
                             </p>
                             <p>
                                 <Trans>
-                                    Tipologia di terreno: {" "}
-                                    <span className="text-gray-400">
-                                        Calcareo argilloso.
-                                    </span>{" "}
+                                    Tipologia di terreno:{" "}
+                                    <span className="text-gray-400">Calcareo argilloso.</span>{" "}
                                 </Trans>
                             </p>
                             <p>

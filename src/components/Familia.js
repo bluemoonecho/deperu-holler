@@ -1,5 +1,5 @@
 import React from "react";
-import FamiliaImage from "../assets/images/Familia.png";
+import FamiliaImage from "../assets/bottles/familia.png";
 import "../styles/wine-page.css";
 import Header from "./Header";
 import Background from "../assets/images/deperu_holler_familia_bg.jpg";
