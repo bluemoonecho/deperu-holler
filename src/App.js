@@ -27,7 +27,7 @@ import Contacts from "./components/Contacts";
 import Vini from "./components/Vini";
 import Logo from "./components/Logo";
 import ScrollToTop from "./components/ScrollToTop"; // <-- Import here
-import CookieConsent from "react-cookie-consent";
+import CookieBanner from "./components/CookieBanner";
 
 import "./styles/menu.css";
 import "./styles/logo.css";
@@ -100,22 +100,7 @@ const App = () => {
   return (
     <BrowserRouter>
       {/* Cookie Consent Banner */}
-      <CookieConsent
-        location="bottom" // Position of the banner ("bottom" or "top")
-        buttonText="Accetta" // Text on the consent button
-        cookieName="no-cookies" // Name of the cookie that stores consent
-        style={{ background: "#000", fontSize: "12px" }} // Custom styles for the banner
-        buttonStyle={{
-          background: "#FFF",
-          color: "#000",
-          fontSize: "14px",
-          borderRadius: "25px", // This makes the button round
-          padding: "10px 20px", // Adjust padding to keep the button looking good
-        }} // Custom styles for the button        expires={150}                         // Cookie expiration in days
-      >
-        <p>Questo sito web non utilizza cookies.</p>
-      </CookieConsent>
-      {/* Your other app components */}
+      <CookieBanner />
       <ScrollToTop />
       <Routes>
         <Route
