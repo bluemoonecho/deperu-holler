@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 import { I18nProvider } from "@lingui/react";
 import { i18n } from "@lingui/core";
-import { Trans } from "@lingui/macro";
+
 
 import Home from "./components/Home";
 import Menu from "./components/Menu";
@@ -27,7 +27,7 @@ import Contacts from "./components/Contacts";
 import Vini from "./components/Vini";
 import Logo from "./components/Logo";
 import ScrollToTop from "./components/ScrollToTop"; // <-- Import here
-import CookieBanner from "./components/CookieBanner";
+// import CookieBanner from "./components/CookieBanner";
 
 import "./styles/menu.css";
 import "./styles/logo.css";
@@ -100,7 +100,7 @@ const App = () => {
   return (
     <BrowserRouter>
       {/* Cookie Consent Banner */}
-      <CookieBanner />
+      {/* <CookieBanner /> */}
       <ScrollToTop />
       <Routes>
         <Route
