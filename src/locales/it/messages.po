@@ -21,7 +21,7 @@ msgstr "Abbinamenti: <0>Con quello che ti ispira o che hai a portata di mano. No
 msgid "Abbinamenti: <0>Fritturine da chiosco, gita in barca.</0>"
 msgstr "Abbinamenti: <0>Fritturine da chiosco, gita in barca.</0>"
 
-#: src/components/Fria.js:149
+#: src/components/Fria.js:151
 msgid "Abbinamenti: <0>Ideale con antipasti di mare, minestroni estivi e grigliate di pesce. Tuttavia, il suo posto preferito è senza dubbio sotto l’ombrellone, in riva al mare.</0>"
 msgstr "Abbinamenti: <0>Ideale con antipasti di mare, minestroni estivi e grigliate di pesce. Tuttavia, il suo posto preferito è senza dubbio sotto l’ombrellone, in riva al mare.</0>"
 
@@ -77,7 +77,7 @@ msgstr "Colore: <0> Giallo dorato.</0>"
 msgid "Colore: <0>Giallo intenso con lucide sfumature di topazio.</0>"
 msgstr "Colore: <0>Giallo intenso con lucide sfumature di topazio.</0>"
 
-#: src/components/Fria.js:123
+#: src/components/Fria.js:125
 msgid "Colore: <0>Giallo paglierino tendente al dorato.</0>"
 msgstr "Colore: <0>Giallo paglierino tendente al dorato.</0>"
 
@@ -97,7 +97,7 @@ msgstr "Colore: <0>Rosso rubino brillante, penetrabile con riflessi granati.</0>
 msgid "Colore: <0>Rosso rubino chiaro.</0>"
 msgstr "Colore: <0>Rosso rubino chiaro.</0>"
 
-#: src/components/Fria.js:28
+#: src/components/Fria.js:30
 msgid "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
 msgstr "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
 
@@ -105,7 +105,7 @@ msgstr "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, 
 msgid "Con una superficie aziendale di circa 6 ettari, possiamo seguire personalmente tutte le fasi della filiera produttiva. Il clima ventilato ci consente di ridurre al minimo i trattamenti antiparassitari, mentre le alte densità di impianto e le basse rese per ettaro aiutano le piante a produrre uva di grande qualità."
 msgstr "Con una superficie aziendale di circa 6 ettari, possiamo seguire personalmente tutte le fasi della filiera produttiva. Il clima ventilato ci consente di ridurre al minimo i trattamenti antiparassitari, mentre le alte densità di impianto e le basse rese per ettaro aiutano le piante a produrre uva di grande qualità."
 
-#: src/components/Fria.js:50
+#: src/components/Fria.js:52
 msgid "Conquista chi ama la semplicità e l'autenticità."
 msgstr "Conquista chi ama la semplicità e l'autenticità."
 
@@ -127,7 +127,7 @@ msgid "Densità di impianto: <0>4.400 piante per ettaro.</0>"
 msgstr "Densità di impianto: <0>4.400 piante per ettaro.</0>"
 
 #: src/components/Beijo.js:81
-#: src/components/Fria.js:88
+#: src/components/Fria.js:90
 msgid "Densità di impianto: <0>5.600 piante per ettaro.</0>"
 msgstr "Densità di impianto: <0>5.600 piante per ettaro.</0>"
 
@@ -145,6 +145,10 @@ msgstr "E a San Giorgio che vince il drago!"
 msgid "È il luogo dove le montagne della Gallura perdono quota, lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite. Con il nostro vino, cerchiamo di raccontare questa terra, dove i suoi figli portano un carattere duro, fiero e generoso. Qui, soffiano lingue sarde diverse, tra prati pascolati da mucche e pecore, boschi di sughero, reperti archeologici e fiumi di acqua calda."
 msgstr "È il luogo dove le montagne della Gallura perdono quota, lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite. Con il nostro vino, cerchiamo di raccontare questa terra, dove i suoi figli portano un carattere duro, fiero e generoso. Qui, soffiano lingue sarde diverse, tra prati pascolati da mucche e pecore, boschi di sughero, reperti archeologici e fiumi di acqua calda."
 
+#: src/components/ChiSiamo.js:54
+msgid "Eravamo barbatella,<0/>Adesso siamo uva,<1/>Siamo Vino<2/>Ci coltiviamo in quest’isola,<3/>Lontano da tutto,<4/>avvicinandoci a noi stessi.<5/>Guardando il lago,<6/>le viti crescono,<7/>la vita segue.<8/>Dall’uva al vino c’è tanta strada<9/>Più che del calice alla bocca.<10/>Lavoro e sorpresa,<11/>Apprendistato e divertimento<12/>Vogliamo il brillo, la risata,<13/>il conflitto, il piacere.<14/>Vogliamo crescere,<15/>intorno al tavolo<16/>davantial calice,<17/>nutrendo l’anima."
+msgstr "Eravamo barbatella,<0/>Adesso siamo uva,<1/>Siamo Vino<2/>Ci coltiviamo in quest’isola,<3/>Lontano da tutto,<4/>avvicinandoci a noi stessi.<5/>Guardando il lago,<6/>le viti crescono,<7/>la vita segue.<8/>Dall’uva al vino c’è tanta strada<9/>Più che del calice alla bocca.<10/>Lavoro e sorpresa,<11/>Apprendistato e divertimento<12/>Vogliamo il brillo, la risata,<13/>il conflitto, il piacere.<14/>Vogliamo crescere,<15/>intorno al tavolo<16/>davantial calice,<17/>nutrendo l’anima."
+
 #: src/components/Menu.js:81
 msgid "Familia"
 msgstr "Familia"
@@ -161,11 +165,11 @@ msgstr "Filosofia e pratica"
 msgid "Fria"
 msgstr "Fria"
 
-#: src/components/Fria.js:44
+#: src/components/Fria.js:46
 msgid "Fria è un Vermentino puro e vero, capace di far emergere sensazioni rare in un'epoca in cui tutto può essere rimodellato."
 msgstr "Fria è un Vermentino puro e vero, capace di far emergere sensazioni rare in un'epoca in cui tutto può essere rimodellato."
 
-#: src/components/Fria.js:53
+#: src/components/Fria.js:55
 msgid "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
 msgstr "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
 
@@ -177,7 +181,7 @@ msgstr "Gusto: <0>Avvolgente, morbido e caldo, bilanciato da una piacevole sapid
 msgid "Gusto: <0>Caldo e corposo, con tannini giovani ed eleganti, di buona acidità. Il finale è lungo e appagante, con richiami ai profumi percepiti al naso.</0>"
 msgstr "Gusto: <0>Caldo e corposo, con tannini giovani ed eleganti, di buona acidità. Il finale è lungo e appagante, con richiami ai profumi percepiti al naso.</0>"
 
-#: src/components/Fria.js:140
+#: src/components/Fria.js:142
 msgid "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 msgstr "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 
@@ -234,7 +238,7 @@ msgstr "Il teritorio"
 msgid "In Sardegna, quando una bambina è spettinata o in disordine, si dice che \"sembra una Maria Tzufia\". Nei racconti popolari, Maria Tzufia è rappresentata come una giovane che vive in un contesto rurale, caratterizzata da una vita semplice e genuina, ma anche da una certa incoscienza riguardo al suo aspetto esteriore."
 msgstr "In Sardegna, quando una bambina è spettinata o in disordine, si dice che \"sembra una Maria Tzufia\". Nei racconti popolari, Maria Tzufia è rappresentata come una giovane che vive in un contesto rurale, caratterizzata da una vita semplice e genuina, ma anche da una certa incoscienza riguardo al suo aspetto esteriore."
 
-#: src/components/Fria.js:37
+#: src/components/Fria.js:39
 msgid "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
 msgstr "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
 
@@ -270,7 +274,7 @@ msgstr "Olfatto: <0>Al naso emergono profumi di frutti di bosco – mirtilli e l
 msgid "Olfatto: <0>Al naso si percepiscono sentori di frutti rossi, accompagnati da delicate note speziate e balsamiche. </0>"
 msgstr "Olfatto: <0>Al naso si percepiscono sentori di frutti rossi, accompagnati da delicate note speziate e balsamiche. </0>"
 
-#: src/components/Fria.js:132
+#: src/components/Fria.js:134
 msgid "Olfatto: <0>Ampio con note di frutta a polpa bianca, note resinose. </0>"
 msgstr "Olfatto: <0>Ampio con note di frutta a polpa bianca, note resinose. </0>"
 
@@ -333,7 +337,7 @@ msgstr "Resa per ettaro: <0>50 quintali.</0>"
 msgid "Resa per ettaro: <0>55 quintali.</0>"
 msgstr "Resa per ettaro: <0>55 quintali.</0>"
 
-#: src/components/Fria.js:96
+#: src/components/Fria.js:98
 msgid "Resa per ettaro: <0>60/70 quintali.</0>"
 msgstr "Resa per ettaro: <0>60/70 quintali.</0>"
 
@@ -378,7 +382,7 @@ msgid "Tipologia di allevamento: <0>Guyot.</0>"
 msgstr "Tipologia di allevamento: <0>Guyot.</0>"
 
 #: src/components/Beijo.js:75
-#: src/components/Fria.js:82
+#: src/components/Fria.js:84
 #: src/components/MariaTzufia.js:78
 msgid "Tipologia di allevamento:<0> Guyot.</0>"
 msgstr "Tipologia di allevamento:<0> Guyot.</0>"
@@ -394,7 +398,7 @@ msgid "Tipologia di terreno: <0>Calcareo argilloso.</0>"
 msgstr "Tipologia di terreno: <0>Calcareo argilloso.</0>"
 
 #: src/components/Beijo.js:66
-#: src/components/Fria.js:73
+#: src/components/Fria.js:75
 msgid "Tipologia di terreno:<0>Calcareo, argilloso. disfacimento granitico. scisti</0>"
 msgstr "Tipologia di terreno:<0>Calcareo, argilloso. disfacimento granitico. scisti</0>"
 
@@ -415,7 +419,7 @@ msgstr "TRA GALLURA ED ANGLONA"
 msgid "Trattamenti: <0>Rame, zolfo e preparati biologici.</0>"
 msgstr "Trattamenti: <0>Rame, zolfo e preparati biologici.</0>"
 
-#: src/components/Fria.js:102
+#: src/components/Fria.js:104
 msgid "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
 msgstr "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
 
@@ -447,7 +451,7 @@ msgstr "Vinificazione: <0>La raccolta avviene manualmente. Le due varietà di uv
 msgid "Vinificazione: <0>Nello stesso giorno tutte le uve vengono raccolte manualmente e pressate dopo una breve sosta sulle bucce di qualche ora. Fermentazione indotta dalla aggiunta di bucce di moscato e vermentino proveniente da altre vasche in piena fermentazione. Affinato in acciaio viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 msgstr "Vinificazione: <0>Nello stesso giorno tutte le uve vengono raccolte manualmente e pressate dopo una breve sosta sulle bucce di qualche ora. Fermentazione indotta dalla aggiunta di bucce di moscato e vermentino proveniente da altre vasche in piena fermentazione. Affinato in acciaio viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 
-#: src/components/Fria.js:110
+#: src/components/Fria.js:112
 msgid "Vinificazione: <0>Raccolta manuale. macerazione di due o tre giorni sulle bucce, fermentazione spontanea, pressatura soffice. Affinato in acciaio. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 msgstr "Vinificazione: <0>Raccolta manuale. macerazione di due o tre giorni sulle bucce, fermentazione spontanea, pressatura soffice. Affinato in acciaio. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 
@@ -475,7 +479,7 @@ msgstr "Vitigni: <0>Vermentino, Moscato e Malvasia.</0>"
 msgid "Vitigni: <0>Vitigni a bacca rossa e bianca.</0>"
 msgstr "Vitigni: <0>Vitigni a bacca rossa e bianca.</0>"
 
-#: src/components/Fria.js:58
+#: src/components/Fria.js:60
 msgid "Vitigno: <0>Vermentino 100%</0>"
 msgstr "Vitigno: <0>Vermentino 100%</0>"
 
@@ -491,7 +495,7 @@ msgstr "Zona di produzione: <0>Monte Finuiu e Sessana (Perfugas)</0>"
 msgid "Zona di produzione: <0>Scupaggiu (Bortigiadas) e Monte Finuiu (Perfugas).</0>"
 msgstr "Zona di produzione: <0>Scupaggiu (Bortigiadas) e Monte Finuiu (Perfugas).</0>"
 
-#: src/components/Fria.js:64
+#: src/components/Fria.js:66
 #: src/components/Oberaia.js:50
 #: src/components/TempoRei.js:51
 msgid "Zona di produzione: <0>Scupaggiu (Bortigiadas)</0>"

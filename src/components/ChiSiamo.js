@@ -51,43 +51,45 @@ const ChiSiamo = () => (
           </Trans>
         </p>
         <p className="mt-10">
-          Eravamo barbatella,
-          <br />
-          Adesso siamo uva,
-          <br />
-          Siamo Vino
-          <br />
-          Ci coltiviamo in quest’isola,
-          <br />
-          Lontano da tutto,
-          <br />
-          avvicinandoci a noi stessi.
-          <br />
-          Guardando il lago,
-          <br />
-          le viti crescono,
-          <br />
-          la vita segue.
-          <br />
-          Dall’uva al vino c’è tanta strada
-          <br />
-          Più che del calice alla bocca.
-          <br />
-          Lavoro e sorpresa,
-          <br />
-          Apprendistato e divertimento
-          <br />
-          Vogliamo il brillo, la risata,
-          <br />
-          il conflitto, il piacere.
-          <br />
-          Vogliamo crescere,
-          <br />
-          intorno al tavolo
-          <br />
-          davantial calice,
-          <br />
-          nutrendo l’anima.
+          <Trans>
+            Eravamo barbatella,
+            <br />
+            Adesso siamo uva,
+            <br />
+            Siamo Vino
+            <br />
+            Ci coltiviamo in quest’isola,
+            <br />
+            Lontano da tutto,
+            <br />
+            avvicinandoci a noi stessi.
+            <br />
+            Guardando il lago,
+            <br />
+            le viti crescono,
+            <br />
+            la vita segue.
+            <br />
+            Dall’uva al vino c’è tanta strada
+            <br />
+            Più che del calice alla bocca.
+            <br />
+            Lavoro e sorpresa,
+            <br />
+            Apprendistato e divertimento
+            <br />
+            Vogliamo il brillo, la risata,
+            <br />
+            il conflitto, il piacere.
+            <br />
+            Vogliamo crescere,
+            <br />
+            intorno al tavolo
+            <br />
+            davantial calice,
+            <br />
+            nutrendo l’anima.
+          </Trans>
         </p>
       </div>
     </div>

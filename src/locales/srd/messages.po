@@ -15,39 +15,39 @@ msgstr ""
 
 #: src/components/PramaDorada.js:135
 msgid "Abbinamenti: <0>Con quello che ti ispira o che hai a portata di mano. Noi lo gustiamo con un po’ di tutto, soprattutto con piatti speziati della cucina internazionale. lo amiamo in compagnia di una Moqueca de peixe.</0>"
-msgstr "Abbinamenti: <0>Con su chi ti ispira o chi hai a portata de manu. Noi lo gustamus cun un pò de totu, soprattutto cun piatti speziati de sa cucina internazionale. Lo amamus in cumpanghìa de una Moqueca de peixe.</0>"
+msgstr "Cumbinatzione: <0>Lu podes acumpangiare cun cussu chi ti benit a manu. Nois lu cumbinamus cun unu pagu de totu, mescamente cun pratos de sa cughina internatzionale chi tenent ispètia. A praghere nostru bi deghet cun una “Moqueca de Peixe.</0>"
 
 #: src/components/Beijo.js:140
 msgid "Abbinamenti: <0>Fritturine da chiosco, gita in barca.</0>"
-msgstr "Abbinamenti: <0>Fritturine da chioscu, gita in barca.</0>"
+msgstr "Cumbinatzione: <0>Pische frissu, perfetu pro bufare in barca.</0>"
 
-#: src/components/Fria.js:149
+#: src/components/Fria.js:151
 msgid "Abbinamenti: <0>Ideale con antipasti di mare, minestroni estivi e grigliate di pesce. Tuttavia, il suo posto preferito è senza dubbio sotto l’ombrellone, in riva al mare.</0>"
-msgstr "Abbinamenti: <0>Ideale cun antipasti de mare, minestroni estivi e grigliate de pesce. Tuttavia, su su postu preferidu est senza dubbiu sotto s’ombrellone, in riva a su mare.</0>"
+msgstr "Cumbinatzione: <0>Ideale pro aperitivos, risotos cun crustàtzeos, supas e pratos cun ispètias esòticas.</0>"
 
 #: src/components/Oberaia.js:133
 msgid "Abbinamenti: <0>Ideale con primi piatti complessi della cucina invernale, cacciagione da pelo e formaggi stagionati.</0>"
-msgstr "Abbinamenti: <0>Ideale cun primi piatti complessi de sa cucina invernale, cacciagione da pelo e formaggi stagionati.</0>"
+msgstr "Cumbinatzione: <0>Ideale cun primos pratos cumplessos tìpicos de s’ijerru, petza de càtzia, casu sicu.</0>"
 
 #: src/components/MariaTzufia.js:147
 msgid "Abbinamenti: <0>Ideale per aperitivi, risotti con crostacei, zuppe e piatti con spezie esotiche.</0>"
-msgstr "Abbinamenti: <0>Ideale per aperitivi, risotti cun crostacei, zuppe e piatti cun spezie esotiche.</0>"
+msgstr "Cumbinatzione: <0>Ideale pro aperitivos, risotos cun crustàtzeos, supas e pratos cun ispètias esòticas.</0>"
 
 #: src/components/Familia.js:141
 msgid "Abbinamenti: <0>Perfetto con salumi e formaggi, pesci grassi alla brace, carni rosse, zuppe di legumi alla sarda. Ideale per un ispuntinu.</0>"
-msgstr "Abbinamenti: <0>Perfettu cun salumi e formaggi, pesci grassi a sa brace, carni rossi, zuppe de legumi alla sarda. Ideale per un ispuntinu.</0>"
+msgstr "Cumbinatzione: <0>Afitados e casu sardu sicu, pische rassu a sa graìllia, petza ruja e primos pratos de legùmines a sa sarda. Perfetu pro un’ispuntinu.</0>"
 
 #: src/components/TempoRei.js:149
 msgid "Abbinamenti: <0>Un vino importante ma non difficile da bere e da consigliare con pecorini stagionati, dolci-non-dolci, cioccolato fondente di buona concentrazione, sigari cubani.</0>"
-msgstr "Abbinamenti: <0>Un vino importante ma non difficili da bere e da cunsigliare cun pecorini stagionati, dolci-non-dolci, cioccolato fondente de bona concentrazione, sigari cubani.</0>"
+msgstr "Cumbinatziones: <0>Unu binu importante ma non difìtzile de bufare. Si cunsìgiat de lu cumbinare cun casu berbeghinu istajonadu, durches-no-durches, ciocolate fondente cuntzentradu, zigarros cubanos.</0>"
 
 #: src/components/Territorio.js:42
 msgid "Ad ogni sorso che berrete, ci sentiremo ripagati e appagati; gioiremo assieme, accarezzati dal Maestrale, tra la vista del lago e gli echi del mare."
-msgstr "Ad ogni sorso chi berret, nos sentiremu ripagati e appagati; gioiremu inseme, accarezzati dal Maestrale, tra sa vista de su laghu e is echi de su mare."
+msgstr "A cada butiu chi si bufat, nos amus a sentire sodisfatos e cuntentos. Amus a rìere in pare carinniados dae su bentuestu, abbaidende su lagu a una perra e s’eco de su mare a s’àtera."
 
 #: src/components/Territorio.js:15
 msgid "Al mattino, il vento è ancora assopito. Monte Ruiu si specchia nel lago Coghinas, moltiplicandosi in un rosso maestoso. Anche il cielo si concede due volte, su e giù, riflesso nelle acque."
-msgstr "Al matin, su ventu est ancora assopita. Monte Ruiu si specchit in su laghu Coghinas, moltiplicandosi in un rossu maestosu. Anche su cielu si concedit duu borta, su e giò, riflessu in is acque."
+msgstr "A mangianile, su bentu est malu a si nde pesare. Su riflessu de su Monte Ruju in su laghu Coghinas si multìplicat maestosu in ruju. Finas su chelu bolat iscoetende su riflessu asulu suo in sas abbas de su lagu."
 
 #: src/components/Menu.js:101
 msgid "Beijo"
@@ -55,11 +55,11 @@ msgstr "Beijo"
 
 #: src/components/Beijo.js:35
 msgid "Beijo è un vino semplice, facile, ma pieno di sfumature e profumi che sfuggono all’identificazione delle singole uve. È composto di dieci varietà che crescono insieme nella stessa terra, creando un’armonia unica. Questa ricchezza di varietà riflette la biodiversità del territorio, dove le viti sono accompagnate da una miriade di erbe spontanee che prosperano nel nostro ambiente. Il risultato è un vino che racconta una storia, quella della terra in cui è nato, delle sue tradizioni e delle sue peculiarità."
-msgstr "Beijo est un vino semplice, facili, ma pienu de sfumaturas e profumi chi sfuggint a s’identificazione de is singulas uvas. Est cuncordada de dieci varietà chi creschint inseme in sa stessa terra, creandu un’armonia unica. Custa ricchezza de varietà riflette sa biodiversidade de su territoriu, onde is viti sunt accompagnadas da una miriada de erbe spontàneas chi prosperant in su nostru ambienti. Su risultadu est un vino chi contat una storia, quella de sa terra in cui est naschidu, de is traditziones e de is peculiarità."
+msgstr "Beijo est unu binu sentzillu, fàtzile, ma prenu de tonalidades e profumos chi trampant a cuddos chi proant a identificare su tipu de sa ua. Est unu “cuncordu” de deghe variedades chi creschent in pare in sa matessi terra, creende un’armonia ùnica. Custa richesa de variedades rifletit sa biodiversidade de su territòriu, ue sas bides sunt acumpanniadas dae unu muntone de erbas agrestes ispontàneas chi prosperant in s’ambiente nostru. Su resurtadu est unu binu chi contat un’istòria, cussa de sa terra in ue est nàschidu, de sas traditziones e de sas peculiaridades."
 
 #: src/components/ChiSiamo.js:43
 msgid "Brasiliana di origine tedesca, laureata in Marketing e Comunicazione. Dopo aver completato gli studi in Brasile, parte per un anno sabbatico nel \"vecchio mondo\". Qui si innamora della nuova vita e conosce Carlo, lasciandosi contagiare dal suo amore per la Sardegna, per il cibo e per il vino. Insieme hanno deciso di mettere radici in questa terra unica. Tatiana gestisce le vendite, l’amministrazione e il marketing dell’azienda."
-msgstr "Brasiliana de origine tedesca, laureada in Marketing e Comunicazione. Dopo aver completado is studi in Brasile, partet per un anno sabbaticu in su \"vecchiu mundu\". Qui si innamorat de sa nuova vita e conòscit Carlo, lasciendosi contagiare da su so amore per sa Sardigna, per su cibo e per su vino. Inseme hanno decididu de metter radici in cust'terra unica. Tatiana gestit is venditas, s'amministratzione e su marketing de s’azienda."
+msgstr "Brasiliana de orìgine tedesca, laureada in Marketing e Comunicatzione. A pusti de àere cumpridu sos istùdios suos in Brasile, si leat unu annu sabàticu pro connòschere s’Europa. A pustis de pagu tempus cumprendet chi custu est su logu ue cheret istare e dae in cue a pagu tempus, connoschet a Carlo chi li donat s’amore pro sa Sardigna pro su màndigu e pro su binu. Ant leadu in pare sa detzisione de andare a istare in Sardigna. Tatiana tenet sa gestione amministrativa, bèndida e su marketing de s’azienda."
 
 #: src/components/ChiSiamo.js:24
 msgid "CARLO DEPERU"
@@ -71,41 +71,41 @@ msgstr "Chi semus"
 
 #: src/components/MariaTzufia.js:124
 msgid "Colore: <0> Giallo dorato.</0>"
-msgstr "Colori: <0> Giallu doratu.</0>"
+msgstr "Colore: <0>Grogu doradu.</0>"
 
 #: src/components/PramaDorada.js:105
 msgid "Colore: <0>Giallo intenso con lucide sfumature di topazio.</0>"
-msgstr "Colori: <0>Giallu intensu cun lucidi sfumaturas de topaziu.</0>"
+msgstr "Colores: <0>Grogu intensu cun tonalidades lùtzigas de topàtziu.</0>"
 
-#: src/components/Fria.js:123
+#: src/components/Fria.js:125
 msgid "Colore: <0>Giallo paglierino tendente al dorato.</0>"
-msgstr "Colori: <0>Giallu paglierinu tendente a su doratu.</0>"
+msgstr "Colore: <0>Grogu doradu.</0>"
 
 #: src/components/TempoRei.js:113
 msgid "Colore: <0>Rosso ciliegia scarico e leggermente velato. Introduzione ad un vino fuori dalle righe a partire dalla vista. Un aspetto molto casual che viene immediatamente smentito appena il naso si avvicina al calice. È il vino delle grandi contraddizioni: se l'aspetto visivo è vestito in jeans e camperos, il naso ci parla di abito da sera da grandi occasioni.</0>"
-msgstr "Colori: <0>Rossu ciliegia scaricu e leggermente velatu. Introduzione a un vino fora de is rigas a partire da sa vista. Un aspettu molto casual chi est immediatamenti smentidu appena su nasu si avvicinat a su caliciu. Est su vino de is grandi contradditziones: si l'aspettu visuale est vestidu in jeans e camperos, su nasu ci parle de abitu de sera de grandi occasioni.</0>"
+msgstr "Colores: <0>Ruju cariasa iscàrrigu e pagu mascaradu. Introdutzione a unu binu fora de sas règulas a cumentzare dae sa vista. Un’aparièntzia casuale chi benit traita manu-manu s’acùrtziat sa nare a su càlighe. Est su binu de sas contraditziones mannas: si s’aparièntzia visiva giughet sos jeans e camperos, sa nare nos faeddat de ispòllia de ocasiones galantes.</0>"
 
 #: src/components/Familia.js:114
 msgid "Colore: <0>Rosso intenso con riflessi violacei.</0>"
-msgstr "Colori: <0>Rossu intensu cun riflessos violaceos.</0>"
+msgstr "Colore: <0>Ruju prenu cun riflessos tanados.</0>"
 
 #: src/components/Oberaia.js:102
 msgid "Colore: <0>Rosso rubino brillante, penetrabile con riflessi granati.</0>"
-msgstr "Colori: <0>Rossu rubinu brillanti, penetrabile cun riflessos granatis.</0>"
+msgstr "Colore: <0>Ruju intensu cun riflessos granados.</0>"
 
 #: src/components/Beijo.js:118
 msgid "Colore: <0>Rosso rubino chiaro.</0>"
-msgstr "Colori: <0>Rossu rubinu chiaro.</0>"
+msgstr "Colores: <0>Ruju rubinu craro.</0>"
 
-#: src/components/Fria.js:28
+#: src/components/Fria.js:30
 msgid "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
 msgstr "Cun s'arrivu de s'estate, traballare in vigna diventa piuttostu faticosu, cun is temperaturis chi si alzant già dae su matin. Ogni die, intornu a is undici, accadet qualcosa de speciale: dae su mare arriva una benedizione, un’aria fresca chi rallegra nois e is piante."
 
 #: src/components/Filosofia.js:21
 msgid "Con una superficie aziendale di circa 6 ettari, possiamo seguire personalmente tutte le fasi della filiera produttiva. Il clima ventilato ci consente di ridurre al minimo i trattamenti antiparassitari, mentre le alte densità di impianto e le basse rese per ettaro aiutano le piante a produrre uva di grande qualità."
-msgstr "Cun una superficie aziendale de circa 6 ettari, podimus segui personalmente totus is fasi de sa filiera produttiva. Su clima ventiladu nos permettet de ridurre a su minimu is trattamentos antiparassitari, mentre is altas densidades de impiantu e is bassas rese per ettaru aiutant is piante a prudùciri uva de grande qualità."
+msgstr "Cun una superfìtzie aziendale de gasi 6 ètaros, podimus sighire totu sas fases de produtzione. Su clima bentosu nos permitit de miminare sos tratamentos antiparassitàrios, e a s’àter’ala sa densidade arta de s’impiantu e sa resa bàscia a ètaru, agiuant sos fundos a prodùere ua de calidade arta."
 
-#: src/components/Fria.js:50
+#: src/components/Fria.js:52
 msgid "Conquista chi ama la semplicità e l'autenticità."
 msgstr "Conquisti chi amat sa simplicidade e s'autenticidade."
 
@@ -119,31 +119,35 @@ msgstr "CONTATTOS"
 
 #: src/components/Filosofia.js:8
 msgid "CRESCERE CON LE NOSTRE VITI"
-msgstr "CRESCERE CUN IS NOSTRAS VITI"
+msgstr "CRÈSCERE CUN SAS BIDES NOSTRAS"
 
 #: src/components/MariaTzufia.js:84
 #: src/components/PramaDorada.js:66
 msgid "Densità di impianto: <0>4.400 piante per ettaro.</0>"
-msgstr "Densidade de impiantu: <0>4.400 piante per ettaru.</0>"
+msgstr "Densidade de impiantu: <0>4.400 fundos a ètaru.</0>"
 
 #: src/components/Beijo.js:81
-#: src/components/Fria.js:88
+#: src/components/Fria.js:90
 msgid "Densità di impianto: <0>5.600 piante per ettaro.</0>"
-msgstr "Densidade de impiantu: <0>5.600 piante per ettaru.</0>"
+msgstr "Densidade de impiantu: <0>5.680 fundos a ètaru.</0>"
 
 #: src/components/Familia.js:78
 #: src/components/Oberaia.js:64
 #: src/components/TempoRei.js:75
 msgid "Densità di impianto: <0>5.680 piante per ettaro.</0>"
-msgstr "Densidade de impiantu: <0>5.680 piante per ettaru.</0>"
+msgstr "Densidade de impiantu: <0>5.680 fundos a ètaru.</0>"
 
 #: src/components/Oberaia.js:37
 msgid "E a San Giorgio che vince il drago!"
-msgstr "E a San Giorgio chi vincit su dragu!"
+msgstr "E a Santu Jorzi chi binchet cuntra su dragu!"
 
 #: src/components/Territorio.js:30
 msgid "È il luogo dove le montagne della Gallura perdono quota, lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite. Con il nostro vino, cerchiamo di raccontare questa terra, dove i suoi figli portano un carattere duro, fiero e generoso. Qui, soffiano lingue sarde diverse, tra prati pascolati da mucche e pecore, boschi di sughero, reperti archeologici e fiumi di acqua calda."
-msgstr "Est su logu onde is montes de sa Gallura perdint quota, lassende spazio a is vallatas collinarias de l’Anglona. Is ventos chi provenghidu dae su mare vicino si incanallant tra is insenaduras de is montes, creando un clima unicu per sa coltivazione de sa vite. Cun su nostru vino, cerchimus de contare custaterra, onde is figli portant un carattere duru, fieru e generosu. Qui, soffiant linghias sardas differenti, tra prati pascolados da vaccas e pecoras, boschi de sughero, reperti archeologicos e fiumes de acqua calda."
+msgstr "Est su logu ue sos montes de sa Gaddura perdent s’artària, lassende su logu a unu territòriu prus aparinadu, chi est sa foto tìpica de s’Anglona. Sos bentos chi benint dae su mare si intzùfint in sos caminos, in sos uturighinos e in sos istrintòrgios de sos montes, formende unu clima ùnicu pro sa vida de sa bide. Cun su binu nostru chircamus de contare a manera nostra su caràtere de custa terra, ue sos fìgios giughent intranniados fieresa, generosidade e balentia, chi cheret nàrrere coràgiu e valore. Est unu logu ue si sunt atobiadas persones de diferentes limbas in mesu a pàsculu de bacas e berveghes e padentes de ortìgiu chi abbarrant testimònios únicos de un’archeologia antiga e rios de abba caente."
+
+#: src/components/ChiSiamo.js:54
+msgid "Eravamo barbatella,<0/>Adesso siamo uva,<1/>Siamo Vino<2/>Ci coltiviamo in quest’isola,<3/>Lontano da tutto,<4/>avvicinandoci a noi stessi.<5/>Guardando il lago,<6/>le viti crescono,<7/>la vita segue.<8/>Dall’uva al vino c’è tanta strada<9/>Più che del calice alla bocca.<10/>Lavoro e sorpresa,<11/>Apprendistato e divertimento<12/>Vogliamo il brillo, la risata,<13/>il conflitto, il piacere.<14/>Vogliamo crescere,<15/>intorno al tavolo<16/>davantial calice,<17/>nutrendo l’anima."
+msgstr "Barbatellas fiamus,<0/>E como ua.<1/>Binu semus<2/>E creschimus in cust’ìsula,<3/>A tesu dae totu,<4/>acurtziende·nos, acustiende·nos.<5/>Abbaidende su lagu,<6/>sas bides creschent,<7/>a vida continuat.<8/>\\Dae sa ua a su binu su caminu est longu<9/>prus chi dae su càlighe a sa buca.<10/>Traballu e sorpresas.<11/>Formatzione e recreu.<12/>Cherimus s’allegria, sas risadas,<13/>Su cunflitu, s’agradu.<14/>Cherimus crèschere,<15/>Sètzidos in banca<16/>A dae in antis a unu càlighe,<17/>alimentende s’ànima."
 
 #: src/components/Menu.js:81
 msgid "Familia"
@@ -151,7 +155,7 @@ msgstr "Familia"
 
 #: src/components/Familia.js:28
 msgid "Familia è il vino da condividere, da gustare mentre si mangia e si ride. È rustico, ma con un’anima fine, generoso nei suoi sentori e fiero rappresentante di questa terra."
-msgstr "Familia est su vino da cundividire, da gustare mentre si mangiat e si rident. Est rusticu, ma cun un’anima fine, generosu in is sentoros suos e fieru rappresentante de custaterra."
+msgstr "Familia est unu binu pro cumpartzire, pro lu bufare cando si màndigat e si istat bene cun amigos. Est rùsticu però tenet un’ànima galana e lèbia, generosu cun sos sentores suos e finas nòbile, rapresentante de custa terra."
 
 #: src/components/Menu.js:61
 msgid "Filosofia e pratica"
@@ -161,41 +165,41 @@ msgstr "Filosofia e pratica"
 msgid "Fria"
 msgstr "Fria"
 
-#: src/components/Fria.js:44
+#: src/components/Fria.js:46
 msgid "Fria è un Vermentino puro e vero, capace di far emergere sensazioni rare in un'epoca in cui tutto può essere rimodellato."
 msgstr "Fria est un Vermentinu puru e veru, capace de fai emergere sensazioni rare in un'epoca in cui totu podet essere remodelladu."
 
-#: src/components/Fria.js:53
+#: src/components/Fria.js:55
 msgid "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
 msgstr "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
 
 #: src/components/PramaDorada.js:124
 msgid "Gusto: <0>Avvolgente, morbido e caldo, bilanciato da una piacevole sapidità. Presenta una buona struttura e una complessità notevole, lasciando un leggero retrogusto di mandorla e crema pasticcera all’arancia.</0>"
-msgstr "Gustu: <0>Avvolgente, morbido e caldu, bilanciatu da una piacevole sapididade. Presentat una bona struttura e una complexidade notevole, lassende un leggeru retrogustu de mandorla e crema pasticcera all’arancia.</0>"
+msgstr ""
 
 #: src/components/Familia.js:131
 msgid "Gusto: <0>Caldo e corposo, con tannini giovani ed eleganti, di buona acidità. Il finale è lungo e appagante, con richiami ai profumi percepiti al naso.</0>"
-msgstr "Gustu: <0>Caldu e corpu, cun tannini giòvani ed elegantes, de bona acididade. Su finale est longu e appagante, cun richiami a is profumos perceptos a su nasu.</0>"
+msgstr "Sabore: <0>Caente chi s'agradesset, armònicu, pagu tànnicu, nos torrat sos aromas chi si leant a su nare.</0>"
 
-#: src/components/Fria.js:140
+#: src/components/Fria.js:142
 msgid "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 msgstr "Gustu: <0>Frescu e sapidu, de bona struttura. Un autenticu Vermentinu chi regalat un bellu finale mandorlatu.</0>"
 
 #: src/components/TempoRei.js:137
 msgid "Gusto: <0>In bocca si chiude il cerchio delle sorprese: se da un vino dal bouquet così articolato e complesso, ti aspetti un vino giunonico e ciccione, rimani spiazzato dalla grande scorrevolezza regalata dai tannini residui ma ancora operativi e da una sapida freschezza.</0>"
-msgstr "Gustu: <0>In bocca si chiudet su cerchi de is sorpresas: si dae un vino cun su bouquet cusì articoladu e complexu, ti aspetti un vino giunònicu e ciccionu, restat spiazzadu dae sa grande scorrevolezza regalada dae is tannini residui ma ancora operativos e da una sapida freschezza.</0>"
+msgstr "Gustu: <0>In buca si serrat in chircos de sorpresas: Custu binu tenet unu bouquet articoladu e cumplessu chi trampat ca podet giùghere una persone a imaginare chi siat giunònicu, ricu e rassu. A pustis est fàtzile a abarrare disorientadu pro sa fluididade manna sua e pro sa presèntzia de sos tanninos residuales, ma galu operativos, e dae su sabore friscu e naturale chi tenet.</0>"
 
 #: src/components/Beijo.js:132
 msgid "Gusto: <0>Piacevole acidità, secco, avvolgente.</0>"
-msgstr "Gustu: <0>Piacevole acididade, seccu, avvolgente.</0>"
+msgstr "Gustu: <0>De agradu, atzididade, sicu, rafinadu, intensu.</0>"
 
 #: src/components/MariaTzufia.js:138
 msgid "Gusto: <0>Secco, fresco e sapido, di buona struttura, con un finale mandorlato.</0>"
-msgstr "Gustu: <0>Seccu, frescu e sapidu, de bona struttura, cun un finale mandorlatu.</0>"
+msgstr "Gustu: <0>Sicu, friscu e saboridu, de istrutura bona, cun unu finale de mèndula.</0>"
 
 #: src/components/Oberaia.js:122
 msgid "Gusto: <0>Un sapore ricco e avvolgente, sostenuto da una struttura armoniosa e tannini setosi. La freschezza che lo caratterizza lo rende un vino invitante, perfetto per essere sorseggiato con piacere.</0>"
-msgstr "Gustu: <0>Un sapore riccu e avvolgente, sostenidu da una struttura armoniosa e tannini setosi. Sa freschezza chi su caratterizat lo rendit un vino invitante, perfettu per essere sorseggiatu cun piacere.</0>"
+msgstr "Gustu: <0>Sabore prenu, ricu, corposu (de cunsistèntzia), tànnicu chi s’agradesset. Sa naturalesa sua lu caraterizat e risultat invitante e perfetu pro èssere degustadu a ticos.</0>"
 
 #: src/components/Menu.js:51
 msgid "Home"
@@ -203,28 +207,28 @@ msgstr "Home"
 
 #: src/components/Menu.js:71
 msgid "I nostri vini"
-msgstr "Is nostri binos"
+msgstr "Sos Binos Nostros"
 
 #: src/components/Home.js:28
 #: src/components/Vini.js:14
 msgid "I NOSTRI VINI"
-msgstr "BINOS"
+msgstr "SOS BINOS NOSTROS"
 
 #: src/components/Beijo.js:28
 msgid "Il nome \"Beijo\" significa \"bacio\", un gesto semplice ma ricco di emozione, così questo vino invita a celebrare l'amore e le connessioni umane."
-msgstr "\"Su nomi \"Beijo\" significat \"baci\", un gestu semplice ma riccu de emozione, custì custu vino invita a celebràre s'amore e is connessioni umanas."
+msgstr "Su nùmene \"Beijo\" cheret nàrrere \"basu\", unu gestu sentzillu e ricu de emotziones. Custu binu invitat a tzelebrare s'amore e sas connessiones umanas."
 
-#: src/components/Filosofia.js:41
+#: src/compo3nents/Filosofia.js:41
 msgid "Il nostro vino nasce principalmente in vigna, ma anche il lavoro dell’uomo in cantina gioca un ruolo fondamentale. La nostra esperienza, accumulata attraverso la produzione e il consumo di numerosi vini, ci offre una base preziosa per interpretare ogni annata. L’osservazione del colore, del gusto e del profumo del mosto in fermentazione ci fa sognare sulle potenzialità dei vini. Utilizziamo la fermentazione spontanea delle nostre uve, seguendo attentamente il suo percorso attraverso studi e analisi. Effettuiamo diverse vinificazioni per trovare l’equilibrio e il carattere perfetti per ogni blend. Il risultato finale è il frutto della sinergia tra la natura e l’uomo, che collaborano insieme dalla vite al vino."
-msgstr "Su nostru vino nascit principalmente in vigna, ma puru su traballu de s’omu in cantina giocat un rolu fondamentale. Sa nostra esperienza, accumulada attraversu sa produzione e su consumu de numerosos vinos, nos offrit una base preziosa per interpretare ogni annada. S’osservazione de su coloru, de su gustu e de su profumu de su mostu in fermentazione nos fai sognare sulle potenzialidades de is vinos. Utilizamus sa fermentazione spontanea de is nostras uvas, seguindhu attentamente su percorsu suo attraversu studi e analisis. Fattimus diferentes vinificatziones per trovare s’equilibriu e su carattere perfetti per ogni blend. Su risultadu finale est su fruttu de sa sinergia tra sa natura e s’omu, chi collaborant inseme dae sa vite a su vino."
+msgstr "Su binu nostru naschet in bìngia, e pensamus chi finas su traballu de s’òmine in chentina est importante meda. S’esperièntzia nostra in totu custos annos de produtzione e de consumu nos donat una base pretziosa chi serbit a interpretare cada annada. S’osservatzione de su colore, de su gustu e de su profumu de su mostu in fermentatzione, nos faghet meledare e immaginare a comente at a èssere su binu. Impreamus sa fermentatzione ispontànea de sa ua nostra e seghimus cun coidadu su caminu de su protzessu cun istùdios e anàlisis. Faghimus e proamus diferentes vinificatziones pro agatare s’ecuilìbriu e su carattere perfetu pro cada ammisturu o blend, comente si diat nàrrere in inglesu. Su resurtadu finale est su frutu de sa sinergia de sa natura e s’òmine, chi collaborant in pare dae sa bide a su binu."
 
 #: src/components/MariaTzufia.js:37
 msgid "Il nostro vino, Maria Tzufia, racchiude il profumo del Moscato e la freschezza del Vermentino. Nella sua prima annata, si presentava in modo \"spettinato\", con una leggera torbidità, da cui abbiamo tratto ispirazione per il suo nome. Questo vino ci ricorda le meraviglie semplici e uniche della natura, che seguono il proprio ordine. Oggi, Maria Tzufia si è evoluto: da bambina spettinata è diventato un vino raffinato e sorprendente . Non è dolce, ma nel suo cuore sprigiona la gioia della primavera in arrivo, è un vino secco, che regala una freschezza e una mineralità inaspettate."
-msgstr "Su nostru vino, Maria Tzufia, racchiudit su profumu de su Moscato e sa freschezza de su Vermentinu. In sa prima annada, si presentabat in modu \"spettinadu\", cun una leggera torbidità, dae chi est tratta inspirazione pro su nomi suo. Custu vino ci ricordat is meraviglias simples e unicas de sa natura, chi seguint su propriu ordini. Oe, Maria Tzufia si est evolvidu: dae bambina spettinada est diventada un vino raffinadu e sorprendente. Non est dolci, ma in su cori suo sprigionat sa gioia de sa primavera chi est in arrivu, est un vino seccu, chi regalat una freschezza e una mineralidade inaspettadas."
+msgstr " Su binu nostru, Maria Tzufia, abratzat su profumu de su muscadellu e sa naturalesa de su vermentinu. In sa prima annada si presentat \"iscrabionadu\", e unu paghitu finas tròbulu o bulugiadu, pro custu motivu leat su matessi nùmene populare chi si li daiat a sa femina discoidada. Custu binu nos ammentat sos incantos puros e ùnicos de sa natura, chi sighit su caminu e s’òrdine suo. Oe, Maria Tzufia si est evòlvidu: dae cussu chi fiat una pitzinna iscrabionada, s’est trasformada in binu rafinadu chi sorprendet. No est durche, ma in su coro suo derramat sa diciosidade de su beranu chi est a proa a bènnere, est unu binu sicu, chi donat una naturalesa frisca e una mineralidade inspensada."
 
 #: src/components/TempoRei.js:29
 msgid "Il tempo trova sempre la via."
-msgstr "Su tempu trova semper sa via."
+msgstr "Su tempus agatat semper su caminu."
 
 #: src/components/Menu.js:66
 msgid "Il teritorio"
@@ -232,19 +236,19 @@ msgstr "Su territoriu"
 
 #: src/components/MariaTzufia.js:28
 msgid "In Sardegna, quando una bambina è spettinata o in disordine, si dice che \"sembra una Maria Tzufia\". Nei racconti popolari, Maria Tzufia è rappresentata come una giovane che vive in un contesto rurale, caratterizzata da una vita semplice e genuina, ma anche da una certa incoscienza riguardo al suo aspetto esteriore."
-msgstr "In Sardigna, quando una bambina est spettinada o in disordine, si dit chi \"sembrat una Maria Tzufia\". In is raccontos popolarios, Maria Tzufia est rappresentada comente una giòvana chi vivit in un contextu rurale, caratterizada da una vita semplice e genuina, ma puru da una certa incoscienza riguardu a su so aspettu esteriore."
+msgstr "A una pitzinna iscrabionada e discoidada in Sardigna si li narat chi paret una “Maria Tzufia”. In sos contos populares, Maria Tzufia est rapresentada comente una giòvana chi bivit in unu cuntestu rurale e chi faghet una vida sentzilla e genuina, ma finas cun una tzerta dose de imprudèntzia pro s’aspetu suo estèticu. Su binu nostru, Maria Tzufia, abratzat su profumu de su muscadellu e sa naturalesa de su vermentinu. In sa prima annada si presentat \"iscrabionadu\", e unu paghitu finas tròbulu o bulugiadu, pro custu motivu leat su matessi nùmene populare chi si li daiat a sa femina discoidada. Custu binu nos ammentat sos incantos puros e ùnicos de sa natura, chi sighit su caminu e s’òrdine suo. Oe, Maria Tzufia si est evòlvidu: dae cussu chi fiat una pitzinna iscrabionada, s’est trasformada in binu rafinadu chi sorprendet. No est durche, ma in su coro suo derramat sa diciosidade de su beranu chi est a proa a bènnere, est unu binu sicu, chi donat una naturalesa frisca e una mineralidade inspensada."
 
-#: src/components/Fria.js:37
+#: src/components/Fria.js:39
 msgid "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
 msgstr "S'aria tersa e salmastra si posat delicatamente supra is grappolos doratos de su Vermentinu. Custa sapididade si ritrovat in su vino, evocandu su ventu e is percorsos chi hat attraversadu."
 
 #: src/components/Oberaia.js:27
 msgid "La vite è una meraviglia della natura, simbolo della simbiosi tra terra e ambiente, celebrazione delle radici e della vita che si evolve. Sprofondare nella terra senza morire, crescere verso il cielo e dare frutti che inebriano e raccontano. Questo vino rosso è un omaggio alle nostre radici e alla cultura, dedicato a tutti coloro che trasmettono passione e raccontano storie."
-msgstr "Sa vite est una meraviglia de sa natura, simbolu de sa simbiosi tra terra e ambienti, celebrazione de is radichis e de sa vita chi si evolvit. Sprofundare in sa terra senza morire, crescere versu su cielu e dare fruttos chi inebriant e raccontant. Custu vino rossu est un omaggiu a is nostras radichis e a sa cultura, dedicadu a totus is chi trasmettent passione e raccontant istorias."
+msgstr "Sa bide est un’ispetàculu de sa natura, sìmbulu de sa simbiosi chi tenet sa terra cun sos àteros ambientes, tzelebratzione de sas raighinas e de s’evolutzione de sa vida. Afundare in sa terra sena mòrrere, crèschere pighende a chelu e dare frutos chi inèbriant e nos faeddant. Custu binu ruju est unu donu a sas raighinas nostras e a sa cultura, dedicadu a totus sos chi trasmitint passione e contant istòrias."
 
 #: src/components/ChiSiamo.js:15
 msgid "Lavoriamo rispettando la natura, le nostre viti e le persone. Guidiamo le viti con cura, preservando la loro identità, affrontando rischi e raccogliendo soddisfazioni uniche. Radici profonde, forgiati dal vento, cerchiamo il sole."
-msgstr "Traballamus rispettende sa natura, is nostras viti e is personas. Guidamus is viti cun cura, preservende sa loro identità, affrontende rischios e raccogliende soddisfatziones unicas. Radichis profundas, forgiadas dae su ventu, cerchimus su sole."
+msgstr "Traballamus rispetende sa natura, sas bides nostras e sas persones. Contivigiamus cada fundu pro abalorare s’identidade issoro, afrontende sos rìschios chi manu-manu si presentant e de totu custu, semus incungende sodisfatziones ùnicas. Raighinas profundas modelladas dae su bentu, chi chircant su sole."
 
 #: src/components/Menu.js:120
 msgid "Lingue:"
@@ -260,39 +264,39 @@ msgstr "Oberaìa"
 
 #: src/components/Oberaia.js:40
 msgid "Oberaìa è il nostro Cannonau delle feste."
-msgstr "Oberaìa est su nostru Cannonau de is festas."
+msgstr "Oberaìa est su cannonau nostru de sas festas."
 
 #: src/components/Oberaia.js:110
 msgid "Olfatto: <0>Al naso emergono profumi di frutti di bosco – mirtilli e lamponi – mescolati con note di amarena dolce. Si evolve con sentori di tabacco e cioccolato. Al finale si aggiungono sfumature speziate che rendono l’aroma ancora più intrigante.</0>"
-msgstr "Olfattu: <0>In su nasu emergint profumos de fruttos de boscu – mirtilli e lamponi – mesclados cun notas de amarena dolci. Si evolvit cun sentoros de tabaccu e cioccolatu. A su finale si aggiungint sfumaturas speziadas chi rendint su aroma ancora più intrigante.</0>"
+msgstr "Profumos: <0>Su nasu leat aromas de frutas agrestes de litu e amarena durche, sentores de tabacu e ciocolate. B’at finas una tonalidade, un’umbra de aroma ispetziadu chi li donat unu caràtere prus intrigante.</0>"
 
 #: src/components/Familia.js:122
 msgid "Olfatto: <0>Al naso si percepiscono sentori di frutti rossi, accompagnati da delicate note speziate e balsamiche. </0>"
-msgstr "Olfattu: <0>In su nasu si percepit sentoros de fruttos rojos, accompagnados dae delicate notas speziadas e balsàmicas.</0>"
+msgstr "Profumu: <0>A nasu si leant aromas de frutos rujos aunidos a notas dìligas e balsàmicas e de profumos de ispètzias e balsámicas.</0>"
 
-#: src/components/Fria.js:132
+#: src/components/Fria.js:134
 msgid "Olfatto: <0>Ampio con note di frutta a polpa bianca, note resinose. </0>"
-msgstr "Olfattu: <0>Ampiu cun notas de frutta a polpa bianca, notas resinòses.</0>"
+msgstr "Profumu: <0>Amprosu, cun notas de fruta a pulpa bianca e agrumes, frores de arantzu e “crema pasticcera”.</0>"
 
 #: src/components/MariaTzufia.js:129
 msgid "Olfatto: <0>Ampio, con note di frutta a polpa bianca e agrumi, fiori d'arancio e crema pasticcera. </0>"
-msgstr "Olfattu: <0>Ampiu, cun notas de frutta a polpa bianca e agrumi, fiori d'arancio e crema pasticcera.</0>"
+msgstr "Profumu: <0>Amprosu, cun notas de fruta a pulpa bianca e agrumes, frores de arantzu e “crema pasticcera”.</0>"
 
 #: src/components/Beijo.js:124
 msgid "Olfatto: <0>Fragolina, essenze vegetali, viola. </0>"
-msgstr "Olfattu: <0>Fragolina, essèntzias vegetales, viola.</0>"
+msgstr "Profumu: <0>Fragolina, essèntzias vegetales, viola.</0>"
 
 #: src/components/PramaDorada.js:114
 msgid "Olfatto: <0>I profumi si evolvono e si rivelano durante la degustazione, con delicate note resinose e di miele che si intrecciano in un bouquet di grande finezza. </0>"
-msgstr "Olfattu: <0>I profumos si evolvint e si rivelant duranti sa degustatzione, cun delicate notas resinòses e de miele chi si intrecciant in un bouquet de grande finezza.</0>"
+msgstr "Profumos: <0>Sos profumos si generant e si rivelant in sa degustatzione, cun notas dìligas resinosas e melosas chi si agatant e si aunint in unu bouquet de finesa superiore.</0>"
 
 #: src/components/TempoRei.js:127
 msgid "Olfatto: <0>Un’incalzante raffica di suggestioni che vanno dalla frutta secca alle note balsamiche di eucalipto. Il tutto su una base di liquirizia e profumato tabacco. </0>"
-msgstr "Olfattu: <0>Un’incalzende raffica de suggestiones chi bint dae sa frutta secca a is notas balsàmicas de eucaliptu. Su totu supra una base de liquirizia e profumadu tabaccu.</0>"
+msgstr "Profumu: <0>Una sèrie apretada e lestra de sugestiones chi benint dae sa fruta sica e dae sas notas balsàmicas de eucalitu. Totu custu subra una base de regalìssia e tabacu profumadu.</0>"
 
 #: src/components/Filosofia.js:30
 msgid "Per comprendere le reali necessità del terreno e delle piante, osserviamo attentamente il manto erboso, ricco di flora spontanea, e alterniamo concimazioni con letame maturo e compost organico a inerbimenti selezionati, basati su leguminose e graminacee. Grazie alla passione e al lavoro svolto in modo naturale, sosteniamo il terreno e le piante nel dare il meglio di sé, senza logorarle, rispettando i tempi, le persone e l’ambiente."
-msgstr "Pro comprendere is necessità realis de su terrenu e de is piante, osservamus attentamente su mantu erboso, riccu de flora spontànea, e alternamus concimatziones cun letame maturu e compost organico a inerbimentus selezionados, basados su leguminosas e graminaceas. Grazias a sa passione e a su traballu fatti in modu naturale, sustentamus su terrenu e is piante in dare su megliu de sè, senza logorarle, rispettende is tempos, is personas e s’ambienti."
+msgstr "Pro cumprèndere sas netzessidades reales de su terrinu e de sos fundos, monitoramus cun coidadu sa flora ispontànea tra sos filares e alternamus sas fases de concimatzione cun ledàmine e compost orgànicu a inerbimentu selezionadu, basadu subra leguminosas e graminàtzeas. Gràtzias a sa passione e a su traballu fatu in modu naturale, sustentamus su terrinu e sos fundos pro los agiuare a dare su mègius sena los arruinare. S’obietivu est de rispetare su tempus issoro, sas persones e s’ambiente."
 
 #: src/components/Home.js:48
 msgid "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, lavorare con la natura e lasciare che essa ci ripaghi con generosità."
@@ -304,7 +308,7 @@ msgstr "Pro nois su de traballare sa terra est unu de sos gestos prus nòbiles e
 
 #: src/components/Home.js:55
 msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
-msgstr "Pro custu motivu amus isseberadu de traballare sa terra cun rispetu dende agiudu a issa e a sos fundos pro dare su mègius sena los isogiare."
+msgstr "Pro cumprèndere sas netzessidades reales de su terrinu e de sos fundos, monitoramus cun coidadu sa flora ispontànea tra sos filares e alternamus sas fases de concimatzione cun ledàmine e compost orgànicu a inerbimentu selezionadu, basadu subra leguminosas e graminàtzeas. Gràtzias a sa passione e a su traballu fatu in modu naturale, sustentamus su terrinu e sos fundos pro los agiuare a dare su mègius sena los arruinare. S’obietivu est de rispetare su tempus issoro, sas persones e s’ambiente."
 
 #: src/components/Menu.js:91
 msgid "Prama Dorada"
@@ -312,38 +316,38 @@ msgstr "Prama Dorada"
 
 #: src/components/PramaDorada.js:27
 msgid "Prama Dorada è un omaggio alla tradizione dei vini bianchi di un tempo, quando nei vigneti si mescolavano varietà innestate con marze selezionate, dando vita a vini unici e irripetibili. Questo vino è un’armonia delle varietà autoctone sarde che amiamo di più, creando una mescita ricca, elegante e, soprattutto, inimitabile."
-msgstr "Prama Dorada est un omaggiu a sa tradizione de is vinos bianchus de un tempus, quando in sos vignetos si mesclabant varietades innestadas cun marzas selezionadas, dandho vita a vinos unicos e irripetìbiles. Custu vino est un’armonia de is varietades autoctonas sardas chi amamus de più, creandu una mescita ricca, elegante e, soprattutto, inimitabile."
+msgstr "Prama Dorada est in onore a sa traditzione de sos binos biancos de unu tempus, cando in sos biddighìngios s’ammesturaiant variedades innestadas cun isticos seletzionados, dende vida a binos ùnicos e irripetìbiles. Custu binu est un’armonia de sas variedades autòctonas sardas chi amamus de prus, creende un’ammisturu ricu, elegante e mescamente inimitàbile."
 
 #: src/components/Familia.js:35
 msgid "Questo vino nasce dall’unione di tre vitigni rossi sardi, storicamente coltivati insieme per garantire una costanza produttiva. In passato, il vino era considerato un alimento essenziale. Le percentuali dei vitigni variano di anno in anno, poiché non esiste un protocollo fisso: il blend è creato cercando l’equilibrio perfetto tra freschezza, robustezza ed eleganza."
-msgstr "Custu vino nascit dall’unione de tres vitignos rojos sardos, storicamente coltivados inseme pro garantire una costanza produttiva. In su passatu, su vino est consideradu un alimentu essenziale. Is percentuales de is vitignos variat de annu in annu, chi non esiste un protocollo fissu: su blend est creadu cercandu s’equilibriu perfettu tra freschezza, robustezza e eleganza."
+msgstr "Custu binu naschet dae s’unione de tres variedades rujas sardas chi si impreaiant meda in tempos antigòrios pro s’assegurare una produtividade costante. In su passadu, su binu fiat cunsideradu un’alimentu importante. Su nùmeru de sas bìngias oe vàriat cun su tempus e cun sos annos e no esistit una pertzentuale fissa de riferimentu. S’ammisturu o blend est istadu pensadu pro chircare un’istabilidade perfeta cun sa naturalesa a una perra e s’elegàntzia e sa vigoria a s’àtera."
 
 #: src/components/PramaDorada.js:74
 msgid "Resa per ettaro: <0>40/50 quintali.</0>"
-msgstr "Resa per ettaru: <0>40/50 quintali.</0>"
+msgstr "Rendimentu/ètaru: <0>40/50 cuintales.</0>"
 
 #: src/components/Beijo.js:89
 #: src/components/MariaTzufia.js:92
 msgid "Resa per ettaro: <0>50 quintali.</0>"
-msgstr "Resa per ettaru: <0>50 quintali.</0>"
+msgstr "Rendimentu/ètaru: <0>50 cuintales.</0>"
 
 #: src/components/Familia.js:86
 #: src/components/Oberaia.js:72
 #: src/components/TempoRei.js:83
 msgid "Resa per ettaro: <0>55 quintali.</0>"
-msgstr "Resa per ettaru: <0>55 quintali.</0>"
+msgstr "Rendimentu/ètaru: <0>55 cuintales.</0>"
 
-#: src/components/Fria.js:96
+#: src/components/Fria.js:98
 msgid "Resa per ettaro: <0>60/70 quintali.</0>"
-msgstr "Resa per ettaru: <0>60/70 quintali.</0>"
+msgstr "Rendimentu/ètaru: <0>60/70 cuintales.</0>"
 
 #: src/components/ChiSiamo.js:27
 msgid "Sardo, laureato all'Università degli Studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie, nel corso di Viticoltura ed Enologia. Nella vita e con le vite non si smette mai di imparare; dopo aver accumulato diverse esperienze, è tornato a casa per \"fare il suo\". Nel 2007 ha impiantato i primi quattro ettari di vigna e quello che prima era un sogno è oggi molto lavoro e grande gioia. Si occupa personalmente della vigna e del lavoro in cantina."
-msgstr "Sardu, laureadu all'Università de Is Studi de Milano in sa Facoltà de Scienzas e Tecnologias Agrarias, in su corsu de Viticultura e Enologia. In sa vita e cun is viti non si smette mai de imparare; dopo aver accumuladu diversas esperientzias, est tornadu a casa pro \"fai su so\". In su 2007 hat impiantadu is primeros quatre ettarios de vigna e custu chi prima est istadu un sogno est oe molto traballu e grande gioia. Si occupat personalmente de sa vigna e de su traballu in cantina."
+msgstr "Sardu, laureadu a sa Universidae de sos Istùdios de Milanu in sa Facultade de Sièntzias e Tecnologias Agràrias, in su cursu de Viticultura e Enologia. In sa vida e cun sas bides no si cumprit mai de imparare; A pustis de àere àpidu paritzas esperièntzias, est torradu a domo sua pro cuntivigiare su sònniu suo. In su 2007 at postu sos primos bator ètaros de bìngia pro cumentzare a cuncretare cun felitzidade sa visione sua, cussa chi fintzas a pagu tempus prima, fiat isceti unu sònniu. Issu e totu tenet contu a sos traballos in bìngia e a su de fàghere in chentina."
 
 #: src/components/ChiSiamo.js:10
 msgid "Siamo Carlo e Tatiana Deperu Holler, cresciamo con le nostre viti."
-msgstr "Semus Carlo e Tatiana Deperu Holler, crescemus cun is nostras viti."
+msgstr "Semus Carlo Deperu e Tatiana Holler, creschimus cun sas bides nostras"
 
 #: src/components/Home.js:45
 msgid "Siamo figli del vento."
@@ -355,7 +359,7 @@ msgstr "Semus fìgios de sa cultura nostra, de sos balores nostros."
 
 #: src/components/Territorio.js:22
 msgid "Siamo nel Nord Sardegna, tra le storiche regioni della Gallura e dell’Anglona, nei Comuni di Bortigiadas e Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite, grazie alla vicinanza del mare e del lago Coghinas."
-msgstr "Semus in su Nord Sardigna, tra is storicas regionis de sa Gallura e de s’Anglona, in sos Comuni de Bortigiadas e Perfugas. Is nostros vignetos si trovant a “Lu Scupaggiu” e sunt caratterizados dae tierras calcareas e dae un clima mite, grazias a sa vicinanza de su mare e de su laghu Coghinas."
+msgstr "Semus in su Nord de sa Sardigna, tra sas istòricas regiones de sa Gaddura e de s’Anglona, in sos Comunes de Bortigiadas e Pèrfugas. Sa bìngia est in localidade “Lu Scupaggiu” e est in prevalèntzia lugiana cun unu clima bastante ecuilibradu ca est a curtzu a su mare e a làcana a su lagu Coghinas."
 
 #: src/components/ChiSiamo.js:40
 msgid "TATIANA HOLLER"
@@ -367,44 +371,44 @@ msgstr "Tempo Rei"
 
 #: src/components/Oberaia.js:56
 msgid "Tipologia di allevamento: <0>Alberello e cordone speronato.</0>"
-msgstr "Tipologia de allevamentu: <0>Alberellu e cordone speronadu.</0>"
+msgstr "Tipu de coltivatzione: <0>Arborita e cordone isperonadu.</0>"
 
 #: src/components/Familia.js:70
 msgid "Tipologia di allevamento: <0>Guyot, alberello e cordone speronato.</0>"
-msgstr "Tipologia de allevamentu: <0>Guyot, alberellu e cordone speronadu.</0>"
+msgstr "Tipu de coltivatzione: <0>Cordone isperonadu, guyot.</0>"
 
 #: src/components/PramaDorada.js:60
 msgid "Tipologia di allevamento: <0>Guyot.</0>"
-msgstr "Tipologia de allevamentu: <0>Guyot.</0>"
+msgstr "Tipu de coltivatzione: <0>Guyot.</0>"
 
 #: src/components/Beijo.js:75
-#: src/components/Fria.js:82
+#: src/components/Fria.js:84
 #: src/components/MariaTzufia.js:78
 msgid "Tipologia di allevamento:<0> Guyot.</0>"
-msgstr "Tipologia de allevamentu:<0> Guyot.</0>"
+msgstr "Tipu de coltivatzione: <0>Guyot.</0>"
 
 #: src/components/TempoRei.js:66
 msgid "Tipologia di allevamento:<0>Alberello e cordone speronato.</0>"
-msgstr "Tipologia de allevamentu:<0>Alberellu e cordone speronadu.</0>"
+msgstr "Tipu de coltivatzione: <0>Arborita e cordone isperonadu.</0>"
 
 #: src/components/Familia.js:64
 #: src/components/PramaDorada.js:54
 #: src/components/TempoRei.js:60
 msgid "Tipologia di terreno: <0>Calcareo argilloso.</0>"
-msgstr "Tipologia de terrenu: <0>Calcareo argilloso.</0>"
+msgstr "Tipologia de terrinu: <0>Calcàriu, lugianosu.</0>"
 
 #: src/components/Beijo.js:66
-#: src/components/Fria.js:73
+#: src/components/Fria.js:75
 msgid "Tipologia di terreno:<0>Calcareo, argilloso. disfacimento granitico. scisti</0>"
-msgstr "Tipologia de terrenu:<0>Calcareo, argilloso. disfacimentu graniticu. scisti.</0>"
+msgstr "Tipu de terrinu: <0>Calcàrio, lugianosu. Degradamentu granìticu. Lugianischistu (Lapides schistosi).</0>"
 
 #: src/components/MariaTzufia.js:69
 msgid "Tipologia di terreno:<0>Calcareo, argilloso.</0>"
-msgstr "Tipologia de terrenu:<0>Calcareo, argilloso.</0>"
+msgstr "Tipu de terrinu: <0>Calcàriu, lugianosu.</0>"
 
 #: src/components/Territorio.js:9
 msgid "TRA GALLURA ED ANGLONA"
-msgstr "TRA GALLURA E ANGLONA"
+msgstr "TRA SA GADDURA E S’ANGLONA"
 
 #: src/components/Beijo.js:95
 #: src/components/Familia.js:92
@@ -413,90 +417,90 @@ msgstr "TRA GALLURA E ANGLONA"
 #: src/components/PramaDorada.js:80
 #: src/components/TempoRei.js:89
 msgid "Trattamenti: <0>Rame, zolfo e preparati biologici.</0>"
-msgstr ""
+msgstr "Tratamentos: <0>Ràmine, sùlfaru e preparados biològicos.</0>"
 
-#: src/components/Fria.js:102
+#: src/components/Fria.js:104
 msgid "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
-msgstr "Trattamentos: <0>Rame, zolfo e preparados biologicos</0>"
+msgstr "Tratamentos: <0>Ràmine, sùlfaru e preparados biològicos.</0>"
 
 #: src/components/TempoRei.js:32
 msgid "Un vino che ormai era senza pretese, lasciato al tempo per evolversi, si trasforma e porta con se tutti gli anni del legno, del sole e della flor. Ammorbidito è diventato un scrigno di profumi e sensazioni e il tempo è stato sovranno di questa trasformazione."
-msgstr "Un vino chi ormai est senza pretensiones, lassado a su tempu per evolversi, si trasforma e portat cun sè totus is annus de su legnu, de su sole e de sa flor. Ammorbididu est diventadu un scrignu de profumos e sensaciones e su tempu est istadu sovrano de cust’istoria."
+msgstr "Unu binu chi giai est sena pretentziones, lassadu a su tempus pro si evòlvere, si trasformat e si giughet totus sos annos de sa linna, de su sole e de su frore. Ammoddigadu est divènnidu unu siddadu de profumos e sensatziones e su tempus tenet sa garantzia de s’importàntzia soberana de cust’istòria."
 
 #: src/components/TempoRei.js:97
 msgid "Vinificazione: <0>Fermentazione spontanea in tini aperti e poi un passaggio di 4 anni in legno grande. Ancora il vino risultava ostico e scomposto. Affinamento in damigiane esposte all' aria e alle intemperie per un anno in stile Roussillon. Ultimo passaggio in vasche di cemento scolme con formazione della Flor e processo ossidativo, fino alla bottiglia senza chiarifiche né filtrazioni.</0>"
-msgstr "Vinificazione: <0>Fermentazione spontanea in tini aperti e poi un passaggio de 4 annos in legnu grande. Ancora su vino risultabat osticu e scompositu. Affinamentu in damigianes esposti a s’aria e a is intemperies per un anno in stile Roussillon. Ultimu passaggio in vasques de cimentu scolme cun formazione de sa Flor e processu ossidativu, finché a sa bottiglia senza chiarificas né filtratziones.</0>"
+msgstr "Vinificatzione: <0>Fermentatzione ispontànea in cubas abertas e a sighire una pasada de bator annos in cubas de linna. Su binu tenet una compositzione tosta e pagu armònica. Afinamentu in tamijanas postas e lassadas a fora pro un’annu sigundu su mètodu Rousillon. S’ùrtimu passu est fatu in balsas de tzimentu in parte bòidas pro permìtere su protzessu ossidativu e sa formatzione de sa Flor. A sa fine si ponet in ampullas sena protzessos de crarificatziones e/o filtratziones.</0>"
 
 #: src/components/PramaDorada.js:88
 msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una delicata pressatura a piedi nudi e da una macerazione di almeno sette giorni sulle bucce. Prepariamo un pied de cuve una settimana prima della vendemmia, che viene inoculato il giorno della raccolta. La fermentazione dura circa 10 giorni, seguita dalla fermentazione malo lattica in botti di acacia, dove il vino riposa per un anno intero. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
-msgstr "Vinificazione: <0>Sa raccolta avvinit manualmente, seguita dae una delicata pressadura a pidi nudi e dae una macerazione de almeno sette die su bùccias. Preparamus un pied de cuve una settimana prima de sa vendemmia, chi est inoculadu su die de sa raccolta. Sa fermentazione durat circa 10 die, seguita dae sa fermentazione malo lattica in bottis de acacia, onde su vino riposat per un anno interu. Su vino est imbottigliadu senza chiarificas né filtratziones.</0>"
+msgstr "Vinificatzione: <0>Sa binnenna si faghet a manu e si pressat cun sos pes. A sa fine si tenet nessi sete dies in sas bùcias a matzerare. Preparamus unu “pied de cuve” una chida anteriore a sa die chi cumentzat sa binnenna, chi benit inoculadu sa die matessi chi benit acabidada sa ua. Sa fermentatzione durat gasi 10 dies, seghida dae sa fermentatzione malolàtica in cubas de acàtzia, ue su binu discansat pro un annu. Su binu est imbotilliadu sena protzessos de crarificatziones o filtratziones.</0>"
 
 #: src/components/Familia.js:100
 msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una macerazione sulle bucce di circa sette giorni. La fermentazione è spontanea, l’affinamento avviene in acciaio e legno. Il vino viene imbottigliato senza chiarifiche né filtrazioni, per preservarne l’autenticità.</0>"
-msgstr "Vinificazione: <0>Sa raccolta avvinit manualmente, seguita dae una macerazione sulle bùccias de circa sette die. Sa fermentazione est spontanea, l’affinamentu avvinit in acciaio e legnu. Su vino est imbottigliadu senza chiarificas né filtratziones, pro preservare s’autenticidade.</0>"
+msgstr "Vinificatzione: <0>In ruju e una boddidura in sas bùcias de sete dies. Sa fermentazione est ispontànea, s’afinigadura est a intro sas cubas de atzàrgiu e linna. Su binu est imbotilliadu sena tècnicas de crarificatzione o filtratzione pro respetare s’autentitzidade.</0>"
 
 #: src/components/Oberaia.js:86
 msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una macerazione sulle bucce di circa venti giorni in tini aperti, senza controllo della temperatura.Fermentazione espontanea, affinamento in botti di rovere per dodici mesi, con ulteriori nove mesi in bottiglia. Il vino viene imbottigliato senza chiarifiche né filtrazioni, per preservarne l'autenticità.</0>"
-msgstr "Vinificazione: <0>Sa raccolta avvinit manualmente, seguita dae una macerazione sulle bùccias de circa venti die in tini aperti, senza controlu de sa temperatura. Fermentazione spontanea, affinamentu in bottis de rovere per dodici meses, cun ulteriori nove meses in bottiglia. Su vino est imbottigliadu senza chiarificas né filtratziones, pro preservare s’autenticidade.</0>"
+msgstr "Vinificatzione: <0>Sa binnenna si faghet a manu. Sa boddidura de sa bùcias est de binti dies a cubas abertas sena controllu diretu de sa temperatura. Buddidura ispontànea, afinamentu in cubas de chercu pro dòighi meses e a sighire noe meses in ampulla. Su binu est imbotilliadu sena lu filtrare o crarificare pro rispetare s’autentitzidade sua.</0>"
 
 #: src/components/MariaTzufia.js:106
 msgid "Vinificazione: <0>La raccolta avviene manualmente. Le due varietà di uve vengono macerate separatamente: quella del Vermentino per un periodo più breve, mentre il Moscato resta a contatto con le bucce più a lungo per estrarre tutto il suo profumo e il suo colore. Successivamente, i mosti vengono assemblati per raggiungere un equilibrio tra mineralità, freschezza e corpo. La pressatura è soffice e la fermentazione è spontanea. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
-msgstr "Vinificazione: <0>Sa raccolta avvinit manualmente. Is duos varietades de uvas sunt maceradas separadamente: quella de su Vermentinu per un periodu più brevi, mentre su Moscato restat a contattu cun is bùccias più a longu pro estrarre totu su profumu suo e su coloru suo. Successivamenti, is mostos sunt assemblados pro raggiungere un equilibriu tra mineralidade, freschezza e corpu. Sa pressadura est soffice e sa fermentazione est spontanea. Su vino est imbottigliadu senza chiarificas né filtratziones.</0>"
+msgstr "Vinificatzione: <0>Sa binnenna benit fata a manu. Sas duas variedades de ua sunt matceradas a banda: Su Vermentinu pro unu tempus prus curtzu, e su moscadellu imbarat a cuntatu cun sas bùcias pro unu tempus prus largu pro nde bogare totu su profumu e su colore suo. A pustis sos mostos benint ammesturados pro arribare a un’istabilidade tra sa mineralidade, naturalesa e corpus. Sa pressadura est ligera e sa fermentatzione est ispontànea. Su binu est imbotilliadu sena protzessos de crarificatziones o filtratziones.</0>"
 
 #: src/components/Beijo.js:103
 msgid "Vinificazione: <0>Nello stesso giorno tutte le uve vengono raccolte manualmente e pressate dopo una breve sosta sulle bucce di qualche ora. Fermentazione indotta dalla aggiunta di bucce di moscato e vermentino proveniente da altre vasche in piena fermentazione. Affinato in acciaio viene imbottigliato senza chiarifiche né filtrazioni.</0>"
-msgstr "Vinificazione: <0>In su istessu die totus is uvas sunt raccoltas manualmente e pressadas dopo una breve sosta sulle bùccias de qualche ora. Fermentazione indotta dae l’aggiunta de bùccias de Moscato e Vermentinu provientes dae altre vasques in fermentazione plena. Affinadu in acciaio su vino est imbottigliadu senza chiarificas né filtratziones.</0>"
+msgstr "Vinificatzione: <0>Sa binnenna totu a manu benit fata in una die. Luego sa ua benit pressada e a pustis sa ua benit lassada un’ora in pare a sas bùcias. Sa fermentatzione benit agiuada annanghende bùcias de muscadellu e vermentinu leadas dae sas àteras cubas giai in fermentatzione prena. Sun binu est afinadu in atàrgiu e a pustis benit imbotilliadu sena protzessos de crarificatzione o filtratziones.</0>"
 
-#: src/components/Fria.js:110
+#: src/components/Fria.js:112
 msgid "Vinificazione: <0>Raccolta manuale. macerazione di due o tre giorni sulle bucce, fermentazione spontanea, pressatura soffice. Affinato in acciaio. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 msgstr "Vinificazione: <0>Raccolta manuale. macerazione de due o tres die sulle bùccias, fermentazione spontanea, pressadura soffice. Affinadu in acciaio. Su vino est imbottigliadu senza chiarificas né filtratziones.</0>"
 
 #: src/components/MariaTzufia.js:52
 msgid "Vitigni: <0>95% Moscato giallo, 5% Vermentino</0>"
-msgstr "Vitignos: <0>95% Moscato giallu, 5% Vermentinu</0>"
+msgstr "Biddighìngios: <0>95% Muscadellu grogu, 5% Vermentinu.</0>"
 
 #: src/components/TempoRei.js:43
 msgid "Vitigni: <0>Cannonau e Cabernet Sauvignon.</0>"
-msgstr "Vitignos: <0>Cannonau e Cabernet Sauvignon.</0>"
+msgstr "Biddighìngios: <0>Cannonau e Cabernet Sauvignon.</0>"
 
 #: src/components/Oberaia.js:45
 msgid "Vitigni: <0>Cannonau.</0>"
-msgstr "Vitignos: <0>Cannonau.</0>"
+msgstr "Bidighìngiu: <0>Cannonau.</0>"
 
 #: src/components/Familia.js:47
 msgid "Vitigni: <0>Muristellu (Bovale Sardo), Caricajola e Cannonau.</0>"
-msgstr "Vitignos: <0>Muristellu (Bovale Sardo), Caricajola e Cannonau.</0>"
+msgstr "Bidighìngiu: <0>Muristellu (Bovaleddu), bidighìngiu sardu a pupujone ruiu, Caricajola e Cannonau.</0>"
 
 #: src/components/PramaDorada.js:38
 msgid "Vitigni: <0>Vermentino, Moscato e Malvasia.</0>"
-msgstr "Vitignos: <0>Vermentinu, Moscato e Malvasia.</0>"
+msgstr "Biddighìngios: <0>Vermentinu, Moscadellu e Malvasia.</0>"
 
 #: src/components/Beijo.js:49
 msgid "Vitigni: <0>Vitigni a bacca rossa e bianca.</0>"
-msgstr "Vitignos: <0>Vitignos a bacca rossa e bianca.</0>"
+msgstr "Biddighìngios: <0>Pupujone de calidade ruja e bianca.</0>"
 
-#: src/components/Fria.js:58
+#: src/components/Fria.js:60
 msgid "Vitigno: <0>Vermentino 100%</0>"
-msgstr "Vitignu: <0>Vermentinu 100%</0>"
+msgstr "Biddighìngios: <0>Vermentinu 100%.</0>"
 
 #: src/components/Beijo.js:57
 msgid "Zona di produzione: <0>Monte Finuiu (Perfugas-SS)</0>"
-msgstr "Zona de produzione: <0>Monte Finuiu (Perfugas-SS)</0>"
+msgstr "Zona de produtzione: <0>Monte Finuju (Pèrfugas).</0>"
 
 #: src/components/MariaTzufia.js:60
 msgid "Zona di produzione: <0>Monte Finuiu e Sessana (Perfugas)</0>"
-msgstr "Zona de produzione: <0>Monte Finuiu e Sessana (Perfugas)</0>"
+msgstr "Zona de produtzione: <0>Monte Finuju e Sessana (Pèrfugas).</0>"
 
 #: src/components/Familia.js:55
 msgid "Zona di produzione: <0>Scupaggiu (Bortigiadas) e Monte Finuiu (Perfugas).</0>"
-msgstr "Zona de produzione: <0>Scupaggiu (Bortigiadas) e Monte Finuiu (Perfugas).</0>"
+msgstr "Zona de produtzione: <0>Scupaggiu (Bortigiadas) e Monte Finuju (Pèrfugas).</0>"
 
-#: src/components/Fria.js:64
+#: src/components/Fria.js:66
 #: src/components/Oberaia.js:50
 #: src/components/TempoRei.js:51
 msgid "Zona di produzione: <0>Scupaggiu (Bortigiadas)</0>"
-msgstr "Zona de produzione: <0>Scupaggiu (Bortigiadas)</0>"
+msgstr "Zona de produtzione: <0>Scupaggiu (Bortigiadas).</0>"
 
 #: src/components/PramaDorada.js:46
 msgid "Zona di produzione:<0>Sessana e Monte Finuiu (Perfugas).</0>"
-msgstr "Zona de produzione:<0>Sessana e Monte Finuiu (Perfugas).</0>"
+msgstr "Zona de produtzione: <0>Sessana e Monte Finuju (Pèrfugas).</0>"

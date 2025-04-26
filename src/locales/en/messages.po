@@ -21,7 +21,7 @@ msgstr "Abbinamenti: <0>Con quello che ti ispira o che hai a portata di mano. No
 msgid "Abbinamenti: <0>Fritturine da chiosco, gita in barca.</0>"
 msgstr "Pairing: <0>Perfect with fried snacks from a street kiosk or enjoyed on a boat trip.</0>"
 
-#: src/components/Fria.js:149
+#: src/components/Fria.js:151
 msgid "Abbinamenti: <0>Ideale con antipasti di mare, minestroni estivi e grigliate di pesce. Tuttavia, il suo posto preferito è senza dubbio sotto l’ombrellone, in riva al mare.</0>"
 msgstr "Pairings: <0>Ideal with seafood appetizers, summer minestrones, and grilled fish. However, its favorite spot is undoubtedly under an umbrella by the seaside.</0>"
 
@@ -77,7 +77,7 @@ msgstr "Colour: <0>Golden yellow.</0>"
 msgid "Colore: <0>Giallo intenso con lucide sfumature di topazio.</0>"
 msgstr "Colour: <0>Intense yellow with shiny topaz hues.</0>"
 
-#: src/components/Fria.js:123
+#: src/components/Fria.js:125
 msgid "Colore: <0>Giallo paglierino tendente al dorato.</0>"
 msgstr "Colour: <0>Straw yellow with a golden tinge</0>"
 
@@ -97,7 +97,7 @@ msgstr "Colour: <0>Brilliant ruby red with garnet reflections.</0>"
 msgid "Colore: <0>Rosso rubino chiaro.</0>"
 msgstr "Colour; <0>Light ruby red.</0>"
 
-#: src/components/Fria.js:28
+#: src/components/Fria.js:30
 msgid "Con l'arrivo dell'estate, lavorare in vigna diventa piuttosto faticoso, con le temperature che si alzano già dal mattino. Ogni giorno, intorno alle undici, accade qualcosa di speciale: dal mare arriva una benedizione, un’aria fresca che rallegra noi e le piante."
 msgstr "With the arrival of summer, working in the vineyard becomes quite tiring, as the temperatures rise right from the morning. Every day, around eleven, something special happens: a blessing arrives from the sea—a fresh breeze that enlivens both us and the plants."
 
@@ -105,7 +105,7 @@ msgstr "With the arrival of summer, working in the vineyard becomes quite tiring
 msgid "Con una superficie aziendale di circa 6 ettari, possiamo seguire personalmente tutte le fasi della filiera produttiva. Il clima ventilato ci consente di ridurre al minimo i trattamenti antiparassitari, mentre le alte densità di impianto e le basse rese per ettaro aiutano le piante a produrre uva di grande qualità."
 msgstr "With a company estate of about 6 hectares, we can personally oversee all stages of the production process. The breezy climate allows us to minimize pest control treatments, while the high planting densities and low yields per hectare help the vines produce high-quality grapes."
 
-#: src/components/Fria.js:50
+#: src/components/Fria.js:52
 msgid "Conquista chi ama la semplicità e l'autenticità."
 msgstr "It captivates those who love simplicity and authenticity."
 
@@ -127,7 +127,7 @@ msgid "Densità di impianto: <0>4.400 piante per ettaro.</0>"
 msgstr "Density: <0>4.400 plants per hectar.</0>"
 
 #: src/components/Beijo.js:81
-#: src/components/Fria.js:88
+#: src/components/Fria.js:90
 msgid "Densità di impianto: <0>5.600 piante per ettaro.</0>"
 msgstr "Density: <0>5.600 plants per hectar.</0>"
 
@@ -145,6 +145,10 @@ msgstr "And to Saint George who defeats the dragon!"
 msgid "È il luogo dove le montagne della Gallura perdono quota, lasciando spazio alle vallate collinari dell’Anglona. I venti provenienti dal vicino mare si incanalano tra le insenature dei monti, creando un clima unico per la coltivazione della vite. Con il nostro vino, cerchiamo di raccontare questa terra, dove i suoi figli portano un carattere duro, fiero e generoso. Qui, soffiano lingue sarde diverse, tra prati pascolati da mucche e pecore, boschi di sughero, reperti archeologici e fiumi di acqua calda."
 msgstr "This is the place where the mountains of Gallura descend, giving way to the hilly valleys of Anglona. The winds coming from the nearby sea funnel through the mountain inlets, creating a unique climate for vine cultivation. With our wine, we try to tell the story of this land, where its children carry a character that is tough, proud, and generous. Here, different Sardinian dialects are spoken, amid pastures grazed by cows and sheep, cork oak forests, archaeological relics, and rivers of warm water."
 
+#: src/components/ChiSiamo.js:54
+msgid "Eravamo barbatella,<0/>Adesso siamo uva,<1/>Siamo Vino<2/>Ci coltiviamo in quest’isola,<3/>Lontano da tutto,<4/>avvicinandoci a noi stessi.<5/>Guardando il lago,<6/>le viti crescono,<7/>la vita segue.<8/>Dall’uva al vino c’è tanta strada<9/>Più che del calice alla bocca.<10/>Lavoro e sorpresa,<11/>Apprendistato e divertimento<12/>Vogliamo il brillo, la risata,<13/>il conflitto, il piacere.<14/>Vogliamo crescere,<15/>intorno al tavolo<16/>davantial calice,<17/>nutrendo l’anima."
+msgstr ""
+
 #: src/components/Menu.js:81
 msgid "Familia"
 msgstr "Familia"
@@ -161,11 +165,11 @@ msgstr "Philosophy and practice"
 msgid "Fria"
 msgstr "Fria"
 
-#: src/components/Fria.js:44
+#: src/components/Fria.js:46
 msgid "Fria è un Vermentino puro e vero, capace di far emergere sensazioni rare in un'epoca in cui tutto può essere rimodellato."
 msgstr "Fria is a pure and true Vermentino, capable of evoking rare sensations in an era where everything can be reshaped."
 
-#: src/components/Fria.js:53
+#: src/components/Fria.js:55
 msgid "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
 msgstr "FRIA ISOLA DEI NURAGHI VERMENTINO IGT"
 
@@ -177,7 +181,7 @@ msgstr "Taste: <0>Enveloping, soft, and warm, balanced by a pleasant salinity. I
 msgid "Gusto: <0>Caldo e corposo, con tannini giovani ed eleganti, di buona acidità. Il finale è lungo e appagante, con richiami ai profumi percepiti al naso.</0>"
 msgstr "Taste: <0>Warm and full-bodied, with young and elegant tannins and good acidity. The finish is long and satisfying, with echoes of the aromas detected on the nose.</0>"
 
-#: src/components/Fria.js:140
+#: src/components/Fria.js:142
 msgid "Gusto: <0>Fresco e sapido, di buona struttura. Un autentico Vermentino che regala un bel finale mandorlato.</0>"
 msgstr "Taste: <0>Fresh and savory, with good structure. An authentic Vermentino that offers a lovely almond finish.</0>"
 
@@ -234,7 +238,7 @@ msgstr "Our territory"
 msgid "In Sardegna, quando una bambina è spettinata o in disordine, si dice che \"sembra una Maria Tzufia\". Nei racconti popolari, Maria Tzufia è rappresentata come una giovane che vive in un contesto rurale, caratterizzata da una vita semplice e genuina, ma anche da una certa incoscienza riguardo al suo aspetto esteriore."
 msgstr "In Sardinia, when a little girl’s hair is unkempt or disheveled, people say she \"looks like a Maria Tzufia.\" In folklore, Maria Tzufia is portrayed as a young woman living in a rural setting, characterized by a simple and genuine life, but also by a certain nonchalance regarding her appearance."
 
-#: src/components/Fria.js:37
+#: src/components/Fria.js:39
 msgid "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
 msgstr "The clear, briny air gently settles on the golden clusters of Vermentino. This savoriness is carried into the wine, evoking the wind and the journeys it has taken."
 
@@ -270,7 +274,7 @@ msgstr "Aroma: <0>On the nose, aromas of forest fruits – blueberries and raspb
 msgid "Olfatto: <0>Al naso si percepiscono sentori di frutti rossi, accompagnati da delicate note speziate e balsamiche. </0>"
 msgstr "Aroma: <0>On the nose, hints of red fruits are perceived, accompanied by delicate spicy and balsamic notes.</0>"
 
-#: src/components/Fria.js:132
+#: src/components/Fria.js:134
 msgid "Olfatto: <0>Ampio con note di frutta a polpa bianca, note resinose. </0>"
 msgstr "Aroma: Broad, with notes of white-fleshed fruit and resinous hints"
 
@@ -333,7 +337,7 @@ msgstr "Yield: <0>50 quintals.</0>"
 msgid "Resa per ettaro: <0>55 quintali.</0>"
 msgstr "Yield: <0>5.500 kg.</0>"
 
-#: src/components/Fria.js:96
+#: src/components/Fria.js:98
 msgid "Resa per ettaro: <0>60/70 quintali.</0>"
 msgstr "Yield: <0>6/7.000 kg.</0>"
 
@@ -378,7 +382,7 @@ msgid "Tipologia di allevamento: <0>Guyot.</0>"
 msgstr "Training System: <0>Guyot.</0>"
 
 #: src/components/Beijo.js:75
-#: src/components/Fria.js:82
+#: src/components/Fria.js:84
 #: src/components/MariaTzufia.js:78
 msgid "Tipologia di allevamento:<0> Guyot.</0>"
 msgstr "Training System: <0>Guyot.</0>"
@@ -394,7 +398,7 @@ msgid "Tipologia di terreno: <0>Calcareo argilloso.</0>"
 msgstr "Wine-Making: <0>Guyot, bush vine, and spur-pruned cordon.</0>"
 
 #: src/components/Beijo.js:66
-#: src/components/Fria.js:73
+#: src/components/Fria.js:75
 msgid "Tipologia di terreno:<0>Calcareo, argilloso. disfacimento granitico. scisti</0>"
 msgstr "Soil Type: <0>Limestone, clay; granitic disintegration; schists</0>"
 
@@ -415,7 +419,7 @@ msgstr "BETWEEN GALLURA AND ANGLONA"
 msgid "Trattamenti: <0>Rame, zolfo e preparati biologici.</0>"
 msgstr "Treatments: <0>Copper, sulfur, and organic preparations</0>"
 
-#: src/components/Fria.js:102
+#: src/components/Fria.js:104
 msgid "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
 msgstr "Treatments: <0>Copper, sulfur, and organic preparations</0>"
 
@@ -447,7 +451,7 @@ msgstr "Winemaking: <0>The grapes are hand-harvested. The two varieties are mace
 msgid "Vinificazione: <0>Nello stesso giorno tutte le uve vengono raccolte manualmente e pressate dopo una breve sosta sulle bucce di qualche ora. Fermentazione indotta dalla aggiunta di bucce di moscato e vermentino proveniente da altre vasche in piena fermentazione. Affinato in acciaio viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 msgstr "Winemaking: <0>On the same day, all the grapes are hand-harvested and pressed after a brief maceration of a few hours on the skins. Fermentation is induced by adding Moscato and Vermentino skins from other vats in full fermentation. After aging in stainless steel, the wine is bottled without fining or filtration.</0>"
 
-#: src/components/Fria.js:110
+#: src/components/Fria.js:112
 msgid "Vinificazione: <0>Raccolta manuale. macerazione di due o tre giorni sulle bucce, fermentazione spontanea, pressatura soffice. Affinato in acciaio. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
 msgstr "Winemaking: <0>Hand harvesting; two or three days of maceration on the skins; spontaneous fermentation; gentle pressing; aged in stainless steel. The wine is bottled without fining or filtration.</0>"
 
@@ -475,7 +479,7 @@ msgstr "Vines: <0>Vermentino, Moscato and Malvasia</0>"
 msgid "Vitigni: <0>Vitigni a bacca rossa e bianca.</0>"
 msgstr "Vines: <0>Red and white grape varieties.</0>"
 
-#: src/components/Fria.js:58
+#: src/components/Fria.js:60
 msgid "Vitigno: <0>Vermentino 100%</0>"
 msgstr "Vines: <0>Vermentino 100%.</0>"
 
@@ -491,7 +495,7 @@ msgstr "Production Area: <0>Monte Finuiu and Sessana (Perfugas)</0>"
 msgid "Zona di produzione: <0>Scupaggiu (Bortigiadas) e Monte Finuiu (Perfugas).</0>"
 msgstr "Production Area: <0>Scupaggiu (Bortigiadas) and Monte Finuiu (Perfugas)</0>"
 
-#: src/components/Fria.js:64
+#: src/components/Fria.js:66
 #: src/components/Oberaia.js:50
 #: src/components/TempoRei.js:51
 msgid "Zona di produzione: <0>Scupaggiu (Bortigiadas)</0>"

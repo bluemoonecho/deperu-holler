@@ -17,7 +17,7 @@ const Oberaia = () => (
         <img
           className="wine-page__bottle md:-mt-80"
           src={OberaiaImage}
-          alt="prama-dorada-bottle"
+          alt="oberaia-bottle"
         />
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
