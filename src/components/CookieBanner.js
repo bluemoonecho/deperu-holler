@@ -28,7 +28,8 @@ const CookieBanner = () => {
         }}
       >
         <span style={{ flex: 1 }}>
-          <Trans>Questo sito <strong>non utilizza cookie</strong> né strumenti di tracciamento. Nessun dato viene raccolto o memorizzato.</Trans>
+          Questo sito <strong>non utilizza cookie</strong> né strumenti di
+          tracciamento. Nessun dato viene raccolto o memorizzato.
         </span>
         <button
           onClick={handleClose}
