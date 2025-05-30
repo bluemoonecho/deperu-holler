@@ -117,6 +117,16 @@ function Menu({ isMenuOpen, setIsMenuOpen }) {
           </Link>
         </li>
         <li>
+          <Link to={`/${lang}/privacy-policy`} onClick={closeMenu}>
+            <Trans>Privacy Policy</Trans>
+          </Link>
+        </li>
+        <li>
+          <Link to={`/${lang}/cookie-policy`} onClick={closeMenu}>
+            <Trans>Cookie Policy</Trans>
+          </Link>
+        </li>
+        <li>
           <Trans>Lingue:</Trans>
           <LanguageSwitcher />
         </li>

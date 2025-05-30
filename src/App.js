@@ -9,7 +9,6 @@ import {
 import { I18nProvider } from "@lingui/react";
 import { i18n } from "@lingui/core";
 
-
 import Home from "./components/Home";
 import Menu from "./components/Menu";
 import Footer from "./components/Footer";
@@ -24,10 +23,12 @@ import ChiSiamo from "./components/ChiSiamo";
 import Filosofia from "./components/Filosofia";
 import Territorio from "./components/Territorio";
 import Contacts from "./components/Contacts";
+import PrivacyPolicy from "./components/PrivacyPolicy";
+import CookiePolicy from "./components/CookiePolicy";
 import Vini from "./components/Vini";
 import Logo from "./components/Logo";
 import ScrollToTop from "./components/ScrollToTop"; // <-- Import here
-// import CookieBanner from "./components/CookieBanner";
+import CookieBanner from "./components/CookieBanner";
 
 import "./styles/menu.css";
 import "./styles/logo.css";
@@ -87,6 +88,8 @@ const AppWrapper = ({ isMenuOpen, setIsMenuOpen }) => {
           <Route path="il-territorio" element={<Territorio />} />
           <Route path="i-nostri-vini" element={<Vini />} />
           <Route path="contatti" element={<Contacts />} />
+          <Route path="privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="cookie-policy" element={<CookiePolicy />} />
         </Routes>
       </div>
       <Footer />
@@ -100,7 +103,7 @@ const App = () => {
   return (
     <BrowserRouter>
       {/* Cookie Consent Banner */}
-      {/* <CookieBanner /> */}
+      <CookieBanner />
       <ScrollToTop />
       <Routes>
         <Route

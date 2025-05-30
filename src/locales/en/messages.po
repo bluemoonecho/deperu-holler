@@ -117,6 +117,10 @@ msgstr "Contacts"
 msgid "CONTATTI"
 msgstr "CONTACTS"
 
+#: src/components/Menu.js:126
+msgid "Cookie Policy"
+msgstr "Cookie Policy"
+
 #: src/components/Filosofia.js:8
 msgid "CRESCERE CON LE NOSTRE VITI"
 msgstr "TO GROW UP TOGETHER WITH OUR VINES"
@@ -234,13 +238,29 @@ msgstr "Time always finds a way."
 msgid "Il teritorio"
 msgstr "Our territory"
 
+#: src/components/CookiePolicy.js:26
+msgid "In base alle Linee Guida del Garante della Privacy italiano, questo sito è esente dall’obbligo di banner per i cookie."
+msgstr "According to the Guidelines of the Italian Privacy Guarantor, this site is exempt from the obligation to display cookie banners."
+
 #: src/components/MariaTzufia.js:28
 msgid "In Sardegna, quando una bambina è spettinata o in disordine, si dice che \"sembra una Maria Tzufia\". Nei racconti popolari, Maria Tzufia è rappresentata come una giovane che vive in un contesto rurale, caratterizzata da una vita semplice e genuina, ma anche da una certa incoscienza riguardo al suo aspetto esteriore."
 msgstr "In Sardinia, when a little girl’s hair is unkempt or disheveled, people say she \"looks like a Maria Tzufia.\" In folklore, Maria Tzufia is portrayed as a young woman living in a rural setting, characterized by a simple and genuine life, but also by a certain nonchalance regarding her appearance."
 
+#: src/components/CookiePolicy.js:8
+msgid "Informativa sui Cookie"
+msgstr "Cookie Policy"
+
+#: src/components/PrivacyPolicy.js:8
+msgid "Informativa sulla Privacy"
+msgstr "Privacy Policy"
+
 #: src/components/Fria.js:39
 msgid "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
 msgstr "The clear, briny air gently settles on the golden clusters of Vermentino. This savoriness is carried into the wine, evoking the wind and the journeys it has taken."
+
+#: src/components/PrivacyPolicy.js:21
+msgid "L’hosting è fornito da Keliweb. I log del server possono raccogliere l’indirizzo IP e alcune informazioni tecniche del browser esclusivamente per fini di sicurezza e monitoraggio delle prestazioni."
+msgstr "Hosting is provided by Keliweb. Server logs may collect the IP address and some technical information of the browser exclusively for security and performance monitoring purposes."
 
 #: src/components/Oberaia.js:27
 msgid "La vite è una meraviglia della natura, simbolo della simbiosi tra terra e ambiente, celebrazione delle radici e della vita che si evolve. Sprofondare nella terra senza morire, crescere verso il cielo e dare frutti che inebriano e raccontano. Questo vino rosso è un omaggio alle nostre radici e alla cultura, dedicato a tutti coloro che trasmettono passione e raccontano storie."
@@ -250,7 +270,7 @@ msgstr "The vine is a marvel of nature, a symbol of the symbiosis between the la
 msgid "Lavoriamo rispettando la natura, le nostre viti e le persone. Guidiamo le viti con cura, preservando la loro identità, affrontando rischi e raccogliendo soddisfazioni uniche. Radici profonde, forgiati dal vento, cerchiamo il sole."
 msgstr "We work respecting nature, our vines, and people. We guide the vines with care, preserving their identity, facing risks, and reaping unique satisfactions. Deep roots, forged by the wind, we seek the sun."
 
-#: src/components/Menu.js:120
+#: src/components/Menu.js:130
 msgid "Lingue:"
 msgstr "Languages:"
 
@@ -306,6 +326,10 @@ msgstr "For us one of the noblest gestures of mankind is to cultivate the land w
 msgid "Per noi, uno dei gesti più belli e profondi dell’essere umano è coltivare, lavorare con la natura e permettere che essa ci ripaghi con generosità."
 msgstr "For us, one of the most beautiful and profound gestures of humanity is to cultivate, work with nature, and allow it to reward us generously."
 
+#: src/components/PrivacyPolicy.js:28
+msgid "Per qualsiasi richiesta o per esercitare i tuoi diritti ai sensi del GDPR, contattaci via email: <0>info@deperuholler.com</0>"
+msgstr "For any request or to exercise your rights under the GDPR, contact us by email: <0>info@deperuholler.com</0>"
+
 #: src/components/Home.js:55
 msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
 msgstr "We’ve chosen to cultivate our vineyards with love and respect."
@@ -317,6 +341,18 @@ msgstr "Prama Dorada"
 #: src/components/PramaDorada.js:27
 msgid "Prama Dorada è un omaggio alla tradizione dei vini bianchi di un tempo, quando nei vigneti si mescolavano varietà innestate con marze selezionate, dando vita a vini unici e irripetibili. Questo vino è un’armonia delle varietà autoctone sarde che amiamo di più, creando una mescita ricca, elegante e, soprattutto, inimitabile."
 msgstr "Prama Dorada is a tribute to the tradition of white wines of the past, when vineyards blended grafted varieties with selected rootstocks to create unique and unrepeatable wines. This wine is a harmony of the Sardinian native varieties we cherish most, resulting in a blend that is rich, elegant, and, above all, inimitable."
+
+#: src/components/Menu.js:121
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: src/components/CookiePolicy.js:14
+msgid "Questo sito <0>non utilizza cookie di profilazione</0>, né altri strumenti di tracciamento."
+msgstr "This site <0>does not use profiling cookies</0>, nor other tracking tools."
+
+#: src/components/PrivacyPolicy.js:14
+msgid "Questo sito web è gestito da Deperu Holler. Non raccogliamo dati personali, non utilizziamo cookie e non effettuiamo alcun tipo di tracciamento."
+msgstr "This website is operated by Deperu Holler. We do not collect personal data, we do not use cookies and we do not perform any type of tracking."
 
 #: src/components/Familia.js:35
 msgid "Questo vino nasce dall’unione di tre vitigni rossi sardi, storicamente coltivati insieme per garantire una costanza produttiva. In passato, il vino era considerato un alimento essenziale. Le percentuali dei vitigni variano di anno in anno, poiché non esiste un protocollo fisso: il blend è creato cercando l’equilibrio perfetto tra freschezza, robustezza ed eleganza."
@@ -360,6 +396,10 @@ msgstr "We are children of our culture, of our values."
 #: src/components/Territorio.js:22
 msgid "Siamo nel Nord Sardegna, tra le storiche regioni della Gallura e dell’Anglona, nei Comuni di Bortigiadas e Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite, grazie alla vicinanza del mare e del lago Coghinas."
 msgstr "We are in Northern Sardinia, between the historic regions of Gallura and Anglona, in the municipalities of Bortigiadas and Perfugas. Our vineyards are located at “Lu Scupaggiu” and are characterized by calcareous soils and a mild climate, thanks to the proximity of the sea and Lake Coghinas."
+
+#: src/components/CookiePolicy.js:20
+msgid "Solo i log tecnici raccolti dal provider di hosting (Keliweb) possono essere registrati per motivi di sicurezza e manutenzione del sistema."
+msgstr "Only technical logs collected by the hosting provider (Keliweb) can be recorded for security and system maintenance purposes."
 
 #: src/components/ChiSiamo.js:40
 msgid "TATIANA HOLLER"

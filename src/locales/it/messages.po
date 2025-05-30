@@ -117,6 +117,10 @@ msgstr "Contatti"
 msgid "CONTATTI"
 msgstr "CONTATTI"
 
+#: src/components/Menu.js:126
+msgid "Cookie Policy"
+msgstr "Cookie Policy"
+
 #: src/components/Filosofia.js:8
 msgid "CRESCERE CON LE NOSTRE VITI"
 msgstr "CRESCERE CON LE NOSTRE VITI"
@@ -234,13 +238,29 @@ msgstr "Il tempo trova sempre la via."
 msgid "Il teritorio"
 msgstr "Il teritorio"
 
+#: src/components/CookiePolicy.js:26
+msgid "In base alle Linee Guida del Garante della Privacy italiano, questo sito è esente dall’obbligo di banner per i cookie."
+msgstr "In base alle Linee Guida del Garante della Privacy italiano, questo sito è esente dall’obbligo di banner per i cookie."
+
 #: src/components/MariaTzufia.js:28
 msgid "In Sardegna, quando una bambina è spettinata o in disordine, si dice che \"sembra una Maria Tzufia\". Nei racconti popolari, Maria Tzufia è rappresentata come una giovane che vive in un contesto rurale, caratterizzata da una vita semplice e genuina, ma anche da una certa incoscienza riguardo al suo aspetto esteriore."
 msgstr "In Sardegna, quando una bambina è spettinata o in disordine, si dice che \"sembra una Maria Tzufia\". Nei racconti popolari, Maria Tzufia è rappresentata come una giovane che vive in un contesto rurale, caratterizzata da una vita semplice e genuina, ma anche da una certa incoscienza riguardo al suo aspetto esteriore."
 
+#: src/components/CookiePolicy.js:8
+msgid "Informativa sui Cookie"
+msgstr "Informativa sui Cookie"
+
+#: src/components/PrivacyPolicy.js:8
+msgid "Informativa sulla Privacy"
+msgstr "Informativa sulla Privacy"
+
 #: src/components/Fria.js:39
 msgid "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
 msgstr "L'aria tersa e salmastra si posa delicatamente sui grappoli dorati del Vermentino. Questa sapidità si ritrova nel vino, evocando il vento e i percorsi che ha attraversato."
+
+#: src/components/PrivacyPolicy.js:21
+msgid "L’hosting è fornito da Keliweb. I log del server possono raccogliere l’indirizzo IP e alcune informazioni tecniche del browser esclusivamente per fini di sicurezza e monitoraggio delle prestazioni."
+msgstr "L’hosting è fornito da Keliweb. I log del server possono raccogliere l’indirizzo IP e alcune informazioni tecniche del browser esclusivamente per fini di sicurezza e monitoraggio delle prestazioni."
 
 #: src/components/Oberaia.js:27
 msgid "La vite è una meraviglia della natura, simbolo della simbiosi tra terra e ambiente, celebrazione delle radici e della vita che si evolve. Sprofondare nella terra senza morire, crescere verso il cielo e dare frutti che inebriano e raccontano. Questo vino rosso è un omaggio alle nostre radici e alla cultura, dedicato a tutti coloro che trasmettono passione e raccontano storie."
@@ -250,7 +270,7 @@ msgstr "La vite è una meraviglia della natura, simbolo della simbiosi tra terra
 msgid "Lavoriamo rispettando la natura, le nostre viti e le persone. Guidiamo le viti con cura, preservando la loro identità, affrontando rischi e raccogliendo soddisfazioni uniche. Radici profonde, forgiati dal vento, cerchiamo il sole."
 msgstr "Lavoriamo rispettando la natura, le nostre viti e le persone. Guidiamo le viti con cura, preservando la loro identità, affrontando rischi e raccogliendo soddisfazioni uniche. Radici profonde, forgiati dal vento, cerchiamo il sole."
 
-#: src/components/Menu.js:120
+#: src/components/Menu.js:130
 msgid "Lingue:"
 msgstr "Lingue:"
 
@@ -306,6 +326,10 @@ msgstr "Per noi uno dei gesti più belli e profondi dell’uomo è coltivare, la
 msgid "Per noi, uno dei gesti più belli e profondi dell’essere umano è coltivare, lavorare con la natura e permettere che essa ci ripaghi con generosità."
 msgstr "Per noi, uno dei gesti più belli e profondi dell’essere umano è coltivare, lavorare con la natura e permettere che essa ci ripaghi con generosità."
 
+#: src/components/PrivacyPolicy.js:28
+msgid "Per qualsiasi richiesta o per esercitare i tuoi diritti ai sensi del GDPR, contattaci via email: <0>info@deperuholler.com</0>"
+msgstr "Per qualsiasi richiesta o per esercitare i tuoi diritti ai sensi del GDPR, contattaci via email: <0>info@deperuholler.com</0>"
+
 #: src/components/Home.js:55
 msgid "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
 msgstr "Per questo abbiamo scelto di lavorarla con rispetto. Aiutiamo la terra e le piante a dare il meglio senza logorarle."
@@ -317,6 +341,18 @@ msgstr "Prama Dorada"
 #: src/components/PramaDorada.js:27
 msgid "Prama Dorada è un omaggio alla tradizione dei vini bianchi di un tempo, quando nei vigneti si mescolavano varietà innestate con marze selezionate, dando vita a vini unici e irripetibili. Questo vino è un’armonia delle varietà autoctone sarde che amiamo di più, creando una mescita ricca, elegante e, soprattutto, inimitabile."
 msgstr "Prama Dorada è un omaggio alla tradizione dei vini bianchi di un tempo, quando nei vigneti si mescolavano varietà innestate con marze selezionate, dando vita a vini unici e irripetibili. Questo vino è un’armonia delle varietà autoctone sarde che amiamo di più, creando una mescita ricca, elegante e, soprattutto, inimitabile."
+
+#: src/components/Menu.js:121
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: src/components/CookiePolicy.js:14
+msgid "Questo sito <0>non utilizza cookie di profilazione</0>, né altri strumenti di tracciamento."
+msgstr "Questo sito <0>non utilizza cookie di profilazione</0>, né altri strumenti di tracciamento."
+
+#: src/components/PrivacyPolicy.js:14
+msgid "Questo sito web è gestito da Deperu Holler. Non raccogliamo dati personali, non utilizziamo cookie e non effettuiamo alcun tipo di tracciamento."
+msgstr "Questo sito web è gestito da Deperu Holler. Non raccogliamo dati personali, non utilizziamo cookie e non effettuiamo alcun tipo di tracciamento."
 
 #: src/components/Familia.js:35
 msgid "Questo vino nasce dall’unione di tre vitigni rossi sardi, storicamente coltivati insieme per garantire una costanza produttiva. In passato, il vino era considerato un alimento essenziale. Le percentuali dei vitigni variano di anno in anno, poiché non esiste un protocollo fisso: il blend è creato cercando l’equilibrio perfetto tra freschezza, robustezza ed eleganza."
@@ -360,6 +396,10 @@ msgstr "Siamo figli della nostra cultura, dei nostri valori."
 #: src/components/Territorio.js:22
 msgid "Siamo nel Nord Sardegna, tra le storiche regioni della Gallura e dell’Anglona, nei Comuni di Bortigiadas e Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite, grazie alla vicinanza del mare e del lago Coghinas."
 msgstr "Siamo nel Nord Sardegna, tra le storiche regioni della Gallura e dell’Anglona, nei Comuni di Bortigiadas e Perfugas. I nostri vigneti si trovano a “Lu Scupaggiu” e sono caratterizzati da terre calcaree e da un clima mite, grazie alla vicinanza del mare e del lago Coghinas."
+
+#: src/components/CookiePolicy.js:20
+msgid "Solo i log tecnici raccolti dal provider di hosting (Keliweb) possono essere registrati per motivi di sicurezza e manutenzione del sistema."
+msgstr "Solo i log tecnici raccolti dal provider di hosting (Keliweb) possono essere registrati per motivi di sicurezza e manutenzione del sistema."
 
 #: src/components/ChiSiamo.js:40
 msgid "TATIANA HOLLER"

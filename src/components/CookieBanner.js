@@ -1,67 +1,54 @@
-import CookieConsent, {
-    getCookieConsentValue,
-    resetCookieConsentValue,
-} from "react-cookie-consent";
-import { useState, useEffect } from "react";
+import { useState } from "react";
+import { Link, useParams } from "react-router-dom";
 
 const CookieBanner = () => {
-    const [showBanner, setShowBanner] = useState(
-        !getCookieConsentValue("user-consent")
-    );
+  const [showBanner, setShowBanner] = useState(true);
+  const { lang } = useParams();
 
-    useEffect(() => {
-        if (!getCookieConsentValue("user-consent")) {
-            setShowBanner(true);
-        }
-    }, []);
+  const handleClose = () => {
+    setShowBanner(false);
+  };
 
-    const handleAccept = () => {
-        setShowBanner(false);
-        document.cookie = "user-consent=accepted; path=/; max-age=12960000"; // 150 days
-    };
-
-    const handleReject = () => {
-        setShowBanner(false);
-        document.cookie = "user-consent=rejected; path=/; max-age=12960000"; // Store rejection
-    };
-
-    return (
-        showBanner && (
-            <CookieConsent
-                location="bottom"
-                enableDeclineButton
-                declineButtonText="Rifiuta"
-                buttonText="Accetta"
-                declineButtonStyle={{
-                    background: "#fff", // Red reject button
-                    color: "#000",
-                    fontSize: "14px",
-                    padding: "10px 20px",
-                    borderRadius: "5px",
-                }}
-                buttonStyle={{
-                    background: "#fff", // Green accept button
-                    color: "#000",
-                    fontSize: "14px",
-                    padding: "10px 20px",
-                    borderRadius: "5px",
-                }}
-                style={{
-                    background: "#000",
-                    fontSize: "12px",
-                    padding: "15px",
-                }}
-                expires={150}
-                onAccept={handleAccept}
-                onDecline={handleReject}
-            >
-                <p>
-                    Questo sito utilizza cookie per migliorare l'esperienza utente. Puoi
-                    accettare o rifiutare i cookie.
-                </p>
-            </CookieConsent>
-        )
-    );
+  return (
+    showBanner && (
+      <div
+        style={{
+          position: "fixed",
+          bottom: 0,
+          width: "100%",
+          background: "#000",
+          fontSize: "12px",
+          padding: "10px 15px",
+          color: "#fff",
+          zIndex: 1000,
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          flexWrap: "wrap",
+          gap: "10px",
+        }}
+      >
+        <span style={{ flex: 1 }}>
+          Questo sito <strong>non utilizza cookie</strong> né strumenti di tracciamento. Nessun dato viene raccolto o memorizzato.{" "}
+          <Link to={`/${lang}/privacy-policy`} style={{ color: "#00f" }}>Privacy Policy</Link>
+        </span>
+        <button
+          onClick={handleClose}
+          style={{
+            background: "#fff",
+            color: "#000",
+            fontSize: "12px",
+            padding: "6px 12px",
+            borderRadius: "5px",
+            cursor: "pointer",
+            whiteSpace: "nowrap",
+          }}
+        >
+          Chiudi
+        </button>
+      </div>
+    )
+  );
 };
 
 export default CookieBanner;
