@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { Trans } from "@lingui/macro";
 
 const CookieBanner = () => {
   const [showBanner, setShowBanner] = useState(true);

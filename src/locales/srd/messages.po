@@ -350,10 +350,6 @@ msgstr ""
 msgid "Questo sito <0>non utilizza cookie di profilazione</0>, né altri strumenti di tracciamento."
 msgstr ""
 
-#: src/components/CookieBanner.js:31
-msgid "Questo sito <0>non utilizza cookie</0> né strumenti di tracciamento. Nessun dato viene raccolto o memorizzato."
-msgstr ""
-
 #: src/components/PrivacyPolicy.js:14
 msgid "Questo sito web è gestito da Deperu Holler. Non raccogliamo dati personali, non utilizziamo cookie e non effettuiamo alcun tipo di tracciamento."
 msgstr ""
