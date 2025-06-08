@@ -21,7 +21,7 @@ const Oberaia = () => (
         />
         <div className="wine-page__content">
           <h2 className="font-bold text-2xl md:text-3xl mt-4">
-            OBERAÌA<br />ISOLA DEI NAURAGHI IGT
+            OBERAÌA<br />ISOLA DEI NURAGHI IGT
           </h2>
           <p className="mt-4">
             <Trans>
@@ -88,7 +88,7 @@ const Oberaia = () => (
                   <span className="text-gray-400">
                     La raccolta avviene manualmente, seguita da una macerazione
                     sulle bucce di circa venti giorni in tini aperti, senza
-                    controllo della temperatura.Fermentazione espontanea,
+                    controllo della temperatura. Fermentazione espontanea,
                     affinamento in botti di rovere per dodici mesi, con
                     ulteriori nove mesi in bottiglia. Il vino viene
                     imbottigliato senza chiarifiche né filtrazioni, per

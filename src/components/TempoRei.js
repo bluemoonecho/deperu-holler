@@ -33,7 +33,7 @@ const TempoRei = () => (
                             Un vino che ormai era senza pretese, lasciato al tempo per
                             evolversi, si trasforma e porta con se tutti gli anni del legno,
                             del sole e della flor. Ammorbidito è diventato un scrigno di
-                            profumi e sensazioni e il tempo è stato sovranno di questa
+                            profumi e sensazioni e il tempo è stato sovrano di questa
                             trasformazione.
                         </Trans>
                     </p>

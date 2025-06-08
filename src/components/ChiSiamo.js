@@ -86,7 +86,7 @@ const ChiSiamo = () => (
             <br />
             intorno al tavolo
             <br />
-            davantial calice,
+            davanti al calice,
             <br />
             nutrendo l’anima.
           </Trans>

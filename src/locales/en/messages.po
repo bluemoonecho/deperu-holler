@@ -150,8 +150,8 @@ msgid "È il luogo dove le montagne della Gallura perdono quota, lasciando spazi
 msgstr "This is the place where the mountains of Gallura descend, giving way to the hilly valleys of Anglona. The winds coming from the nearby sea funnel through the mountain inlets, creating a unique climate for vine cultivation. With our wine, we try to tell the story of this land, where its children carry a character that is tough, proud, and generous. Here, different Sardinian dialects are spoken, amid pastures grazed by cows and sheep, cork oak forests, archaeological relics, and rivers of warm water."
 
 #: src/components/ChiSiamo.js:54
-msgid "Eravamo barbatella,<0/>Adesso siamo uva,<1/>Siamo Vino<2/>Ci coltiviamo in quest’isola,<3/>Lontano da tutto,<4/>avvicinandoci a noi stessi.<5/>Guardando il lago,<6/>le viti crescono,<7/>la vita segue.<8/>Dall’uva al vino c’è tanta strada<9/>Più che del calice alla bocca.<10/>Lavoro e sorpresa,<11/>Apprendistato e divertimento<12/>Vogliamo il brillo, la risata,<13/>il conflitto, il piacere.<14/>Vogliamo crescere,<15/>intorno al tavolo<16/>davantial calice,<17/>nutrendo l’anima."
-msgstr ""
+msgid "Eravamo barbatella,<0/>Adesso siamo uva,<1/>Siamo Vino<2/>Ci coltiviamo in quest’isola,<3/>Lontano da tutto,<4/>avvicinandoci a noi stessi.<5/>Guardando il lago,<6/>le viti crescono,<7/>la vita segue.<8/>Dall’uva al vino c’è tanta strada<9/>Più che del calice alla bocca.<10/>Lavoro e sorpresa,<11/>Apprendistato e divertimento<12/>Vogliamo il brillo, la risata,<13/>il conflitto, il piacere.<14/>Vogliamo crescere,<15/>intorno al tavolo<16/>davanti al calice,<17/>nutrendo l’anima."
+msgstr "Eravamo barbatella,<0/>Adesso siamo uva,<1/>Siamo Vino<2/>Ci coltiviamo in quest’isola,<3/>Lontano da tutto,<4/>avvicinandoci a noi stessi.<5/>Guardando il lago,<6/>le viti crescono,<7/>la vita segue.<8/>Dall’uva al vino c’è tanta strada<9/>Più che del calice alla bocca.<10/>Lavoro e sorpresa,<11/>Apprendistato e divertimento<12/>Vogliamo il brillo, la risata,<13/>il conflitto, il piacere.<14/>Vogliamo crescere,<15/>intorno al tavolo<16/>davanti al calice,<17/>nutrendo l’anima."
 
 #: src/components/Menu.js:81
 msgid "Familia"
@@ -468,7 +468,7 @@ msgid "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
 msgstr "Treatments: <0>Copper, sulfur, and organic preparations</0>"
 
 #: src/components/TempoRei.js:32
-msgid "Un vino che ormai era senza pretese, lasciato al tempo per evolversi, si trasforma e porta con se tutti gli anni del legno, del sole e della flor. Ammorbidito è diventato un scrigno di profumi e sensazioni e il tempo è stato sovranno di questa trasformazione."
+msgid "Un vino che ormai era senza pretese, lasciato al tempo per evolversi, si trasforma e porta con se tutti gli anni del legno, del sole e della flor. Ammorbidito è diventato un scrigno di profumi e sensazioni e il tempo è stato sovrano di questa trasformazione."
 msgstr "A wine that was once unassuming, left to evolve with time, transforms and carries with it all the years of wood, sun, and flor. Having softened, it has become a treasure trove of aromas and sensations, with time presiding over this transformation."
 
 #: src/components/TempoRei.js:97
@@ -484,7 +484,7 @@ msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una maceraz
 msgstr "Winemaking: <0>Harvesting is done manually, followed by a seven-day maceration on the skins. Fermentation is spontaneous, and aging takes place in both steel and wood. The wine is bottled without fining or filtration to preserve its authenticity.</0>"
 
 #: src/components/Oberaia.js:86
-msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una macerazione sulle bucce di circa venti giorni in tini aperti, senza controllo della temperatura.Fermentazione espontanea, affinamento in botti di rovere per dodici mesi, con ulteriori nove mesi in bottiglia. Il vino viene imbottigliato senza chiarifiche né filtrazioni, per preservarne l'autenticità.</0>"
+msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una macerazione sulle bucce di circa venti giorni in tini aperti, senza controllo della temperatura. Fermentazione espontanea, affinamento in botti di rovere per dodici mesi, con ulteriori nove mesi in bottiglia. Il vino viene imbottigliato senza chiarifiche né filtrazioni, per preservarne l'autenticità.</0>"
 msgstr "Winemaking: <0>Harvesting is done manually, followed by a skin maceration of about twenty days in open vats, without temperature control. Spontaneous fermentation, aging in oak barrels for twelve months, with an additional nine months in the bottle. The wine is bottled without fining or filtration to preserve its authenticity.</0>"
 
 #: src/components/MariaTzufia.js:106

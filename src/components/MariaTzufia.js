@@ -5,7 +5,7 @@ import Header from "./Header";
 import Background from "../assets/images/fria_bg.jpg";
 import { Trans } from "@lingui/macro";
 
-const Fria = () => (
+const MariaTzufia = () => (
   <>
     <Header
       heading="MARIA TZUFIA"
@@ -160,4 +160,4 @@ const Fria = () => (
   </>
 );
 
-export default Fria;
+export default MariaTzufia;

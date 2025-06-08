@@ -150,8 +150,8 @@ msgid "È il luogo dove le montagne della Gallura perdono quota, lasciando spazi
 msgstr "Est su logu ue sos montes de sa Gaddura perdent s’artària, lassende su logu a unu territòriu prus aparinadu, chi est sa foto tìpica de s’Anglona. Sos bentos chi benint dae su mare si intzùfint in sos caminos, in sos uturighinos e in sos istrintòrgios de sos montes, formende unu clima ùnicu pro sa vida de sa bide. Cun su binu nostru chircamus de contare a manera nostra su caràtere de custa terra, ue sos fìgios giughent intranniados fieresa, generosidade e balentia, chi cheret nàrrere coràgiu e valore. Est unu logu ue si sunt atobiadas persones de diferentes limbas in mesu a pàsculu de bacas e berveghes e padentes de ortìgiu chi abbarrant testimònios únicos de un’archeologia antiga e rios de abba caente."
 
 #: src/components/ChiSiamo.js:54
-msgid "Eravamo barbatella,<0/>Adesso siamo uva,<1/>Siamo Vino<2/>Ci coltiviamo in quest’isola,<3/>Lontano da tutto,<4/>avvicinandoci a noi stessi.<5/>Guardando il lago,<6/>le viti crescono,<7/>la vita segue.<8/>Dall’uva al vino c’è tanta strada<9/>Più che del calice alla bocca.<10/>Lavoro e sorpresa,<11/>Apprendistato e divertimento<12/>Vogliamo il brillo, la risata,<13/>il conflitto, il piacere.<14/>Vogliamo crescere,<15/>intorno al tavolo<16/>davantial calice,<17/>nutrendo l’anima."
-msgstr "Barbatellas fiamus,<0/>E como ua.<1/>Binu semus<2/>E creschimus in cust’ìsula,<3/>A tesu dae totu,<4/>acurtziende·nos, acustiende·nos.<5/>Abbaidende su lagu,<6/>sas bides creschent,<7/>a vida continuat.<8/>\\Dae sa ua a su binu su caminu est longu<9/>prus chi dae su càlighe a sa buca.<10/>Traballu e sorpresas.<11/>Formatzione e recreu.<12/>Cherimus s’allegria, sas risadas,<13/>Su cunflitu, s’agradu.<14/>Cherimus crèschere,<15/>Sètzidos in banca<16/>A dae in antis a unu càlighe,<17/>alimentende s’ànima."
+msgid "Eravamo barbatella,<0/>Adesso siamo uva,<1/>Siamo Vino<2/>Ci coltiviamo in quest’isola,<3/>Lontano da tutto,<4/>avvicinandoci a noi stessi.<5/>Guardando il lago,<6/>le viti crescono,<7/>la vita segue.<8/>Dall’uva al vino c’è tanta strada<9/>Più che del calice alla bocca.<10/>Lavoro e sorpresa,<11/>Apprendistato e divertimento<12/>Vogliamo il brillo, la risata,<13/>il conflitto, il piacere.<14/>Vogliamo crescere,<15/>intorno al tavolo<16/>davanti al calice,<17/>nutrendo l’anima."
+msgstr ""
 
 #: src/components/Menu.js:81
 msgid "Familia"
@@ -468,8 +468,8 @@ msgid "Trattamenti: <0>Rame, zolfo e preparati biologici</0>"
 msgstr "Tratamentos: <0>Ràmine, sùlfaru e preparados biològicos.</0>"
 
 #: src/components/TempoRei.js:32
-msgid "Un vino che ormai era senza pretese, lasciato al tempo per evolversi, si trasforma e porta con se tutti gli anni del legno, del sole e della flor. Ammorbidito è diventato un scrigno di profumi e sensazioni e il tempo è stato sovranno di questa trasformazione."
-msgstr "Unu binu chi giai est sena pretentziones, lassadu a su tempus pro si evòlvere, si trasformat e si giughet totus sos annos de sa linna, de su sole e de su frore. Ammoddigadu est divènnidu unu siddadu de profumos e sensatziones e su tempus tenet sa garantzia de s’importàntzia soberana de cust’istòria."
+msgid "Un vino che ormai era senza pretese, lasciato al tempo per evolversi, si trasforma e porta con se tutti gli anni del legno, del sole e della flor. Ammorbidito è diventato un scrigno di profumi e sensazioni e il tempo è stato sovrano di questa trasformazione."
+msgstr ""
 
 #: src/components/TempoRei.js:97
 msgid "Vinificazione: <0>Fermentazione spontanea in tini aperti e poi un passaggio di 4 anni in legno grande. Ancora il vino risultava ostico e scomposto. Affinamento in damigiane esposte all' aria e alle intemperie per un anno in stile Roussillon. Ultimo passaggio in vasche di cemento scolme con formazione della Flor e processo ossidativo, fino alla bottiglia senza chiarifiche né filtrazioni.</0>"
@@ -484,8 +484,8 @@ msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una maceraz
 msgstr "Vinificatzione: <0>In ruju e una boddidura in sas bùcias de sete dies. Sa fermentazione est ispontànea, s’afinigadura est a intro sas cubas de atzàrgiu e linna. Su binu est imbotilliadu sena tècnicas de crarificatzione o filtratzione pro respetare s’autentitzidade.</0>"
 
 #: src/components/Oberaia.js:86
-msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una macerazione sulle bucce di circa venti giorni in tini aperti, senza controllo della temperatura.Fermentazione espontanea, affinamento in botti di rovere per dodici mesi, con ulteriori nove mesi in bottiglia. Il vino viene imbottigliato senza chiarifiche né filtrazioni, per preservarne l'autenticità.</0>"
-msgstr "Vinificatzione: <0>Sa binnenna si faghet a manu. Sa boddidura de sa bùcias est de binti dies a cubas abertas sena controllu diretu de sa temperatura. Buddidura ispontànea, afinamentu in cubas de chercu pro dòighi meses e a sighire noe meses in ampulla. Su binu est imbotilliadu sena lu filtrare o crarificare pro rispetare s’autentitzidade sua.</0>"
+msgid "Vinificazione: <0>La raccolta avviene manualmente, seguita da una macerazione sulle bucce di circa venti giorni in tini aperti, senza controllo della temperatura. Fermentazione espontanea, affinamento in botti di rovere per dodici mesi, con ulteriori nove mesi in bottiglia. Il vino viene imbottigliato senza chiarifiche né filtrazioni, per preservarne l'autenticità.</0>"
+msgstr ""
 
 #: src/components/MariaTzufia.js:106
 msgid "Vinificazione: <0>La raccolta avviene manualmente. Le due varietà di uve vengono macerate separatamente: quella del Vermentino per un periodo più breve, mentre il Moscato resta a contatto con le bucce più a lungo per estrarre tutto il suo profumo e il suo colore. Successivamente, i mosti vengono assemblati per raggiungere un equilibrio tra mineralità, freschezza e corpo. La pressatura è soffice e la fermentazione è spontanea. Il vino viene imbottigliato senza chiarifiche né filtrazioni.</0>"
