@@ -5,7 +5,7 @@ import Header from "./Header";
 import { Trans } from "@lingui/macro";
 import Background from "../assets/images/deperu_holler_familia_bg.jpg";
 
-const Fria = () => (
+const Beijo = () => (
   <>
     <Header
       heading="BEIJO"
@@ -152,4 +152,4 @@ const Fria = () => (
   </>
 );
 
-export default Fria;
+export default Beijo;

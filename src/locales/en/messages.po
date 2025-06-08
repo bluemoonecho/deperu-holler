@@ -381,6 +381,10 @@ msgstr "Yield: <0>6/7.000 kg.</0>"
 msgid "Sardo, laureato all'Università degli Studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie, nel corso di Viticoltura ed Enologia. Nella vita e con le vite non si smette mai di imparare; dopo aver accumulato diverse esperienze, è tornato a casa per \"fare il suo\". Nel 2007 ha impiantato i primi quattro ettari di vigna e quello che prima era un sogno è oggi molto lavoro e grande gioia. Si occupa personalmente della vigna e del lavoro in cantina."
 msgstr "Sardinian, he graduated from the University of Milan in the Faculty of Agricultural Sciences and Technologies, specializing in Viticulture and Enology. In life—and with vines—one never stops learning; after gaining various experiences, he returned home to \"do his own thing.\" In 2007, he planted the first four hectares of vineyard, and what was once a dream has now become a labor of love and great joy. He personally takes care of the vineyard and the work in the winery."
 
+#: src/components/Contacts.js:29
+msgid "Seguici:"
+msgstr "Follow us"
+
 #: src/components/ChiSiamo.js:10
 msgid "Siamo Carlo e Tatiana Deperu Holler, cresciamo con le nostre viti."
 msgstr "We are Carlo and Tatiana Deperu Holler, we grow with our vines."

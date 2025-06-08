@@ -3,12 +3,12 @@ import "../styles/footer.css";
 import { Link, useParams } from "react-router-dom";
 
 const Footer = () => {
-      const { lang } = useParams();
+  const { lang } = useParams();
   return (
     <div className="footer">
       <p>Deperu Holler Copyright © 2025 — P.IVA 02183250907</p>
-       <Link to={`/${lang}/privacy-policy`}>Privacy</Link> |
-      <Link to={`/${lang}/cookie-policy`}>Cookie</Link>
+      <Link to={`/${lang}/privacy-policy`}>Privacy Policy</Link> |
+      <Link to={`/${lang}/cookie-policy`}>Cookie Policy</Link>
     </div>
   );
 };

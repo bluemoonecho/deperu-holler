@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import "../styles/contacts.css";
-import { t } from "@lingui/macro";
+import { t, Trans } from "@lingui/macro";
 
 const Contacts = () => (
   <div className="contacts">
@@ -26,16 +26,16 @@ const Contacts = () => (
           info@deperuholler.com
         </a>
         <p class="mt-8">
-          <p>Seguici:</p>
-          <a
-            target="_blank"
-            rel="noreferrer"
-            href="https://www.instagram.com/deperuholler/"
-            className="font-bold text-l underline"
-          >
-            Instagram
-          </a>
+          <Trans>Seguici:</Trans>
         </p>
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.instagram.com/deperuholler/"
+          className="font-bold underline"
+        >
+          Instagram
+        </a>
 
         <p className="mt-8">CARLO DEPERU</p>
         <p>cel. +39 339 609 783</p>

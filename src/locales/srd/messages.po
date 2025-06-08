@@ -381,6 +381,10 @@ msgstr "Rendimentu/ètaru: <0>60/70 cuintales.</0>"
 msgid "Sardo, laureato all'Università degli Studi di Milano nella Facoltà di Scienze e Tecnologie Agrarie, nel corso di Viticoltura ed Enologia. Nella vita e con le vite non si smette mai di imparare; dopo aver accumulato diverse esperienze, è tornato a casa per \"fare il suo\". Nel 2007 ha impiantato i primi quattro ettari di vigna e quello che prima era un sogno è oggi molto lavoro e grande gioia. Si occupa personalmente della vigna e del lavoro in cantina."
 msgstr "Sardu, laureadu a sa Universidae de sos Istùdios de Milanu in sa Facultade de Sièntzias e Tecnologias Agràrias, in su cursu de Viticultura e Enologia. In sa vida e cun sas bides no si cumprit mai de imparare; A pustis de àere àpidu paritzas esperièntzias, est torradu a domo sua pro cuntivigiare su sònniu suo. In su 2007 at postu sos primos bator ètaros de bìngia pro cumentzare a cuncretare cun felitzidade sa visione sua, cussa chi fintzas a pagu tempus prima, fiat isceti unu sònniu. Issu e totu tenet contu a sos traballos in bìngia e a su de fàghere in chentina."
 
+#: src/components/Contacts.js:29
+msgid "Seguici:"
+msgstr ""
+
 #: src/components/ChiSiamo.js:10
 msgid "Siamo Carlo e Tatiana Deperu Holler, cresciamo con le nostre viti."
 msgstr "Semus Carlo Deperu e Tatiana Holler, creschimus cun sas bides nostras"
