@@ -235,7 +235,7 @@ msgid "Il tempo trova sempre la via."
 msgstr "Su tempus agatat semper su caminu."
 
 #: src/components/Menu.js:66
-msgid "Il teritorio"
+msgid "Il territorio"
 msgstr "Su territoriu"
 
 #: src/components/CookiePolicy.js:26

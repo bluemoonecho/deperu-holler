@@ -63,7 +63,7 @@ function Menu({ isMenuOpen, setIsMenuOpen }) {
         </li>
         <li>
           <Link to={`/${lang}/il-territorio`} onClick={closeMenu}>
-            <Trans>Il teritorio</Trans>
+            <Trans>Il territorio</Trans>
           </Link>
         </li>
         <li>
