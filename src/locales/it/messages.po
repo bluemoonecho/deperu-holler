@@ -235,8 +235,8 @@ msgid "Il tempo trova sempre la via."
 msgstr "Il tempo trova sempre la via."
 
 #: src/components/Menu.js:66
-msgid "Il teritorio"
-msgstr "Il teritorio"
+msgid "Il territorio"
+msgstr "Il territorio"
 
 #: src/components/CookiePolicy.js:26
 msgid "In base alle Linee Guida del Garante della Privacy italiano, questo sito è esente dall’obbligo di banner per i cookie."
